@@ -1,0 +1,41 @@
+{
+  "match_id": 82357,
+  "slug": "500-cs-go-vs-l-g-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 5933,
+  "team2_id": 5063,
+  "team1_name": "Leo",
+  "team2_name": "500",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Leo",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 121083,
+      "winner_team_id": 5933,
+      "loser_team_id": 5063,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-09T10:36:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 121084,
+      "winner_team_id": 5933,
+      "loser_team_id": 5063,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-09T09:35:48.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-09"
+}

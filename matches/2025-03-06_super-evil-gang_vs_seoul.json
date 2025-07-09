@@ -1,0 +1,56 @@
+{
+  "match_id": 82969,
+  "slug": "super-evil-gang-vs-seoul-06-03-2025",
+  "bo_type": 3,
+  "team1_id": 19918,
+  "team2_id": 20012,
+  "team1_name": "SUPER EVIL GANG",
+  "team2_name": "seoul",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "SUPER EVIL GANG",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 122275,
+      "rounds_count": 16,
+      "winner_team_id": 19918,
+      "loser_team_id": 20012,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-06T01:51:48.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 122276,
+      "rounds_count": 20,
+      "winner_team_id": 20012,
+      "loser_team_id": 19918,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-06T01:02:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 122277,
+      "rounds_count": 17,
+      "winner_team_id": 19918,
+      "loser_team_id": 20012,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-06T00:11:05.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-06"
+}

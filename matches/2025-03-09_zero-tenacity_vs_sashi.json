@@ -1,0 +1,42 @@
+{
+  "match_id": 82343,
+  "slug": "sashi-esport-vs-zero-tenacity-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 2163,
+  "team2_id": 3081,
+  "team1_name": "Zero Tenacity",
+  "team2_name": "Sashi",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Zero Tenacity",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 121041,
+      "rounds_count": 22,
+      "winner_team_id": 2163,
+      "loser_team_id": 3081,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-09T10:19:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 121042,
+      "winner_team_id": 2163,
+      "loser_team_id": 3081,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-09T09:14:20.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-09"
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 85289,
+  "slug": "chicken-coop-esports-vs-csg0ds-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 18964,
+  "team2_id": 20469,
+  "team1_name": "Chicken Coop",
+  "team2_name": "LL",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Chicken Coop",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124746,
+      "winner_team_id": 18964,
+      "loser_team_id": 20469,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-30T00:02:13.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 124747,
+      "winner_team_id": 18964,
+      "loser_team_id": 20469,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T23:15:42.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-30"
+}

@@ -1,0 +1,25 @@
+{
+  "match_id": 46879,
+  "slug": "aurora-gaming-vs-future-27-03-2024",
+  "bo_type": 1,
+  "team1_id": 3598,
+  "team2_id": 3039,
+  "team1_name": "Aurora",
+  "team2_name": "DMS",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Aurora",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 86134,
+      "begin_at": "2024-03-27T17:15:53.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2664",
+  "tournament_name": "ESL Challenger Jonköping 2024: European Open Qualifier",
+  "scrape_date": "2024-03-27"
+}

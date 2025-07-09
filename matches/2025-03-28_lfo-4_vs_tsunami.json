@@ -1,0 +1,59 @@
+{
+  "match_id": 85151,
+  "slug": "chill-guys-vs-tsunami-esports-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 19054,
+  "team2_id": 5807,
+  "team1_name": "LFO 4",
+  "team2_name": "Tsunami",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Tsunami",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124338,
+      "rounds_count": 23,
+      "winner_team_id": 5807,
+      "loser_team_id": 19054,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-28T01:35:03.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124339,
+      "rounds_count": 35,
+      "winner_team_id": 19054,
+      "loser_team_id": 5807,
+      "winner_score": 19,
+      "loser_score": 16,
+      "begin_at": "2025-03-28T00:08:28.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124340,
+      "rounds_count": 22,
+      "winner_team_id": 5807,
+      "loser_team_id": 19054,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-27T23:15:57.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-28"
+}

@@ -1,0 +1,25 @@
+{
+  "match_id": 50216,
+  "slug": "w7m-esports-vs-9z-20-05-2024",
+  "bo_type": 1,
+  "team1_id": 580,
+  "team2_id": 324,
+  "team1_name": "W7M",
+  "team2_name": "9z",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "9z",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_overpass",
+      "map_id": 91495,
+      "begin_at": "2024-05-20T22:50:11.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2319",
+  "tournament_name": "ESL Challenger League Season 47: South America",
+  "scrape_date": "2024-05-21"
+}

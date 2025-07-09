@@ -1,0 +1,30 @@
+{
+  "match_id": 84033,
+  "slug": "leon-bet-vs-virtual-cottage-17-03-2025",
+  "bo_type": 1,
+  "team1_id": 10009,
+  "team2_id": 19822,
+  "team1_name": "LEON",
+  "team2_name": "Virtual Cottage",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "LEON",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 123641,
+      "rounds_count": 24,
+      "winner_team_id": 10009,
+      "loser_team_id": 19822,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-17T15:13:22.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

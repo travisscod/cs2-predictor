@@ -1,0 +1,43 @@
+{
+  "match_id": 50439,
+  "slug": "passion-ua-vs-zero-tenacity-31-05-2024",
+  "bo_type": 3,
+  "team1_id": 7631,
+  "team2_id": 2163,
+  "team1_name": "Passion UA",
+  "team2_name": "Zero Tenacity",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Zero Tenacity",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 91864,
+      "rounds_count": 24,
+      "winner_team_id": 2163,
+      "loser_team_id": 7631,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-05-31T13:22:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 91865,
+      "rounds_count": 24,
+      "winner_team_id": 2163,
+      "loser_team_id": 7631,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-05-31T12:06:48.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2775",
+  "tournament_name": "CCT Season 2 European Series 4",
+  "scrape_date": "2024-05-31"
+}

@@ -1,0 +1,56 @@
+{
+  "match_id": 70870,
+  "slug": "fluffy-gangsters-vs-baks-esports-24-10-2024",
+  "bo_type": 3,
+  "team1_id": 3061,
+  "team2_id": 2924,
+  "team1_name": "FLuffy Gangsters",
+  "team2_name": "BakS",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "FLuffy Gangsters",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 108489,
+      "rounds_count": 18,
+      "winner_team_id": 3061,
+      "loser_team_id": 2924,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2024-10-24T19:38:15.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 108490,
+      "rounds_count": 16,
+      "winner_team_id": 3061,
+      "loser_team_id": 2924,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2024-10-24T18:54:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 108491,
+      "rounds_count": 19,
+      "winner_team_id": 2924,
+      "loser_team_id": 3061,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2024-10-24T18:01:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-10-24"
+}

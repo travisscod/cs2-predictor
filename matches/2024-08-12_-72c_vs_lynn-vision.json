@@ -1,0 +1,25 @@
+{
+  "match_id": 53631,
+  "slug": "-72c-vs-lynn-vision-12-08-2024",
+  "bo_type": 1,
+  "team1_id": 7567,
+  "team2_id": 476,
+  "team1_name": "-72c",
+  "team2_name": "Lynn Vision",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Lynn Vision",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 96837,
+      "begin_at": "2024-08-12T12:03:10.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2559",
+  "tournament_name": "ESL Challenger League Season 48: Asia",
+  "scrape_date": "2024-08-12"
+}

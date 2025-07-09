@@ -1,0 +1,43 @@
+{
+  "match_id": 85280,
+  "slug": "bad-news-capybaras-vs-fisher-college-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 19055,
+  "team2_id": 10370,
+  "team1_name": "Bad News Capybaras",
+  "team2_name": "Fisher College",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Fisher College",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124719,
+      "rounds_count": 19,
+      "winner_team_id": 10370,
+      "loser_team_id": 19055,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-30T00:00:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124720,
+      "rounds_count": 22,
+      "winner_team_id": 10370,
+      "loser_team_id": 19055,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T23:01:22.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-30"
+}

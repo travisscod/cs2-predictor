@@ -1,0 +1,59 @@
+{
+  "match_id": 81183,
+  "slug": "kono-ecf-vs-rebels-gaming-cs-15-02-2025",
+  "bo_type": 3,
+  "team1_id": 10460,
+  "team2_id": 9932,
+  "team1_name": "kONO",
+  "team2_name": "Rebels",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Rebels",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 119220,
+      "rounds_count": 22,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-02-15T21:04:53.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 119221,
+      "rounds_count": 16,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-02-15T20:09:07.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 119222,
+      "rounds_count": 30,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-02-15T19:29:48.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4143",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 1",
+  "scrape_date": "2025-02-15"
+}

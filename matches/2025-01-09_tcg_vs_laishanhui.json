@@ -1,0 +1,30 @@
+{
+  "match_id": 75557,
+  "slug": "xi-antaichanggui-vs-laishanhui-09-01-2025",
+  "bo_type": 1,
+  "team1_id": 1148,
+  "team2_id": 19069,
+  "team1_name": "TCG",
+  "team2_name": "LaiShanHui",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "TCG",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 114615,
+      "rounds_count": 22,
+      "winner_team_id": 1148,
+      "loser_team_id": 19069,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-01-09T12:42:33.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3731",
+  "tournament_name": "XSE Pro League Season 3",
+  "scrape_date": "2025-01-09"
+}

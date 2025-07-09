@@ -1,0 +1,25 @@
+{
+  "match_id": 70883,
+  "slug": "1win-vs-vp-prodigy-22-10-2024",
+  "bo_type": 1,
+  "team1_id": 238,
+  "team2_id": 814,
+  "team1_name": "1win",
+  "team2_name": "VP.Prodigy",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "1win",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 108514,
+      "begin_at": "2024-10-22T17:27:09.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-10-22"
+}

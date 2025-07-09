@@ -1,0 +1,43 @@
+{
+  "match_id": 82976,
+  "slug": "mcs-gaming-vs-fisher-college-05-03-2025",
+  "bo_type": 3,
+  "team1_id": 10459,
+  "team2_id": 10370,
+  "team1_name": "MCS",
+  "team2_name": "Fisher College",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "MCS",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 122297,
+      "rounds_count": 15,
+      "winner_team_id": 10459,
+      "loser_team_id": 10370,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-05T22:27:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 122298,
+      "rounds_count": 22,
+      "winner_team_id": 10459,
+      "loser_team_id": 10370,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-05T21:31:53.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-05"
+}

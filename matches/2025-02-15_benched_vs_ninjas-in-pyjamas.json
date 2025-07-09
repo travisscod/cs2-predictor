@@ -1,0 +1,30 @@
+{
+  "match_id": 81171,
+  "slug": "benched-vs-nip-15-02-2025",
+  "bo_type": 1,
+  "team1_id": 1258,
+  "team2_id": 785,
+  "team1_name": "benched",
+  "team2_name": "Ninjas in Pyjamas",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Ninjas in Pyjamas",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 119198,
+      "rounds_count": 15,
+      "winner_team_id": 785,
+      "loser_team_id": 1258,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-02-15T15:10:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4143",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 1",
+  "scrape_date": "2025-02-15"
+}

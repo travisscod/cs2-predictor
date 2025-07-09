@@ -1,0 +1,29 @@
+{
+  "match_id": 84801,
+  "slug": "nuclear-tigeres-vs-inner-circle-esports-24-03-2025",
+  "bo_type": 1,
+  "team1_id": 18539,
+  "team2_id": 19186,
+  "team1_name": "Nuclear TigeRES",
+  "team2_name": "Inner Circle",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Nuclear TigeRES",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124153,
+      "winner_team_id": 18539,
+      "loser_team_id": 19186,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-24T15:13:57.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4303",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 4",
+  "scrape_date": "2025-03-24"
+}

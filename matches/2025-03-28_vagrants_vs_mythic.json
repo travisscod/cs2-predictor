@@ -1,0 +1,59 @@
+{
+  "match_id": 85147,
+  "slug": "vagrants-vs-mythic-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 9855,
+  "team2_id": 606,
+  "team1_name": "Vagrants",
+  "team2_name": "Mythic",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Vagrants",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124326,
+      "rounds_count": 18,
+      "winner_team_id": 9855,
+      "loser_team_id": 606,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-28T00:50:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124327,
+      "rounds_count": 23,
+      "winner_team_id": 606,
+      "loser_team_id": 9855,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-28T00:00:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 124328,
+      "rounds_count": 20,
+      "winner_team_id": 9855,
+      "loser_team_id": 606,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-27T23:17:07.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-28"
+}

@@ -1,0 +1,29 @@
+{
+  "match_id": 81740,
+  "slug": "minsk-house-vs-volt-sweden-21-02-2025",
+  "bo_type": 1,
+  "team1_id": 20007,
+  "team2_id": 10624,
+  "team1_name": "Minsk House",
+  "team2_name": "Volt",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Minsk House",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 119821,
+      "winner_team_id": 20007,
+      "loser_team_id": 10624,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-02-21T15:13:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

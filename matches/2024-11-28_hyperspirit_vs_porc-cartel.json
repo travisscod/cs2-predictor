@@ -1,0 +1,30 @@
+{
+  "match_id": 74062,
+  "slug": "hyperspirit-vs-porc-cartel-28-11-2024",
+  "bo_type": 1,
+  "team1_id": 9651,
+  "team2_id": 18810,
+  "team1_name": "HyperSpirit",
+  "team2_name": "PORC CARTEL",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "HyperSpirit",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 112633,
+      "rounds_count": 17,
+      "winner_team_id": 9651,
+      "loser_team_id": 18810,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2024-11-28T19:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3725",
+  "tournament_name": "Romanian Esports League Season 4 Opening",
+  "scrape_date": "2024-11-28"
+}

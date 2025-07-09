@@ -1,0 +1,30 @@
+{
+  "match_id": 87084,
+  "slug": "partizan-esport-vs-gun5-18-04-2025",
+  "bo_type": 1,
+  "team1_id": 3643,
+  "team2_id": 8211,
+  "team1_name": "Partizan",
+  "team2_name": "GUN5",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Partizan",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 126568,
+      "rounds_count": 19,
+      "winner_team_id": 3643,
+      "loser_team_id": 8211,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-04-18T11:14:39.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3582",
+  "tournament_name": "YaLLa Compass Qatar 2025",
+  "scrape_date": "2025-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "match_id": 43769,
+  "slug": "g2-vs-into-the-breach-14-02-2024",
+  "bo_type": 1,
+  "team1_id": 793,
+  "team2_id": 1549,
+  "team1_name": "G2",
+  "team2_name": "Into the Breach",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "G2",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 81446,
+      "rounds_count": 16,
+      "winner_team_id": 793,
+      "loser_team_id": 1549,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2024-02-14T11:56:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2473",
+  "tournament_name": "PGL Major Copenhagen 2024: European RMR A",
+  "scrape_date": "2024-02-14"
+}

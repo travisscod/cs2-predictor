@@ -1,0 +1,56 @@
+{
+  "match_id": 85337,
+  "slug": "imperial-vs-flamengo-30-03-2025",
+  "bo_type": 3,
+  "team1_id": 1430,
+  "team2_id": 5500,
+  "team1_name": "Imperial",
+  "team2_name": "Flamengo",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Flamengo",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 124891,
+      "rounds_count": 21,
+      "winner_team_id": 5500,
+      "loser_team_id": 1430,
+      "winner_score": 10,
+      "loser_score": 10,
+      "begin_at": "2025-03-30T22:11:45.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124892,
+      "rounds_count": 24,
+      "winner_team_id": 5500,
+      "loser_team_id": 1430,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-30T21:04:44.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124893,
+      "rounds_count": 19,
+      "winner_team_id": 1430,
+      "loser_team_id": 5500,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-30T20:14:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-30"
+}

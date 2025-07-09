@@ -1,0 +1,55 @@
+{
+  "match_id": 85209,
+  "slug": "metizport-vs-betboom-team-30-03-2025",
+  "bo_type": 3,
+  "team1_id": 1578,
+  "team2_id": 7498,
+  "team1_name": "Metizport",
+  "team2_name": "BetBoom",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Metizport",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 124512,
+      "rounds_count": 24,
+      "winner_team_id": 1578,
+      "loser_team_id": 7498,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-30T17:14:55.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124514,
+      "rounds_count": 21,
+      "winner_team_id": 1578,
+      "loser_team_id": 7498,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-30T15:05:12.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 125049,
+      "rounds_count": 24,
+      "winner_team_id": 1578,
+      "loser_team_id": 7498,
+      "winner_score": 11,
+      "loser_score": 13,
+      "begin_at": "2025-03-30T16:02:00.000+00:00",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-30"
+}

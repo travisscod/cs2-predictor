@@ -1,0 +1,53 @@
+{
+  "match_id": 84803,
+  "slug": "hesta-vs-nuclear-tigeres-24-03-2025",
+  "bo_type": 3,
+  "team1_id": 18539,
+  "team2_id": 19875,
+  "team1_name": "Nuclear TigeRES",
+  "team2_name": "Hesta",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Hesta",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 124157,
+      "winner_team_id": 19875,
+      "loser_team_id": 18539,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-24T18:36:26.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124158,
+      "winner_team_id": 18539,
+      "loser_team_id": 19875,
+      "winner_score": 19,
+      "loser_score": 15,
+      "begin_at": "2025-03-24T17:13:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124159,
+      "winner_team_id": 19875,
+      "loser_team_id": 18539,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-24T16:25:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4303",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 4",
+  "scrape_date": "2025-03-24"
+}

@@ -1,0 +1,31 @@
+{
+  "match_id": 85886,
+  "slug": "partizan-esport-vs-betboom-team-03-04-2025",
+  "bo_type": 1,
+  "team1_id": 3643,
+  "team2_id": 7498,
+  "team1_name": "Partizan",
+  "team2_name": "BetBoom",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Partizan",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 125362,
+      "rounds_count": 24,
+      "winner_team_id": 3643,
+      "loser_team_id": 7498,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-04-03T15:33:51.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2960",
+  "tournament_name": "YaLLa Compass Qatar 2025: Closed Qualifier",
+  "scrape_date": "2025-04-03"
+}

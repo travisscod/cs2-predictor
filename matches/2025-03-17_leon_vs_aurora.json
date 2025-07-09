@@ -1,0 +1,56 @@
+{
+  "match_id": 84038,
+  "slug": "leon-bet-vs-aurora-gaming-17-03-2025",
+  "bo_type": 3,
+  "team1_id": 10009,
+  "team2_id": 3598,
+  "team1_name": "LEON",
+  "team2_name": "Aurora",
+  "team1_score": 0,
+  "team2_score": 3,
+  "winner_team": "Aurora",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 123648,
+      "rounds_count": 20,
+      "winner_team_id": 3598,
+      "loser_team_id": 10009,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-17T18:17:05.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 123649,
+      "rounds_count": 1,
+      "winner_team_id": 3598,
+      "loser_team_id": 10009,
+      "winner_score": 0,
+      "loser_score": 0,
+      "begin_at": "2025-03-17T17:26:20.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 123650,
+      "rounds_count": 22,
+      "winner_team_id": 3598,
+      "loser_team_id": 10009,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-17T16:25:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

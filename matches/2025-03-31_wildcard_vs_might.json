@@ -1,0 +1,43 @@
+{
+  "match_id": 85294,
+  "slug": "wildcard-gaming-vs-might-31-03-2025",
+  "bo_type": 3,
+  "team1_id": 6062,
+  "team2_id": 8283,
+  "team1_name": "Wildcard",
+  "team2_name": "MIGHT",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Wildcard",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124761,
+      "rounds_count": 14,
+      "winner_team_id": 6062,
+      "loser_team_id": 8283,
+      "winner_score": 13,
+      "loser_score": 1,
+      "begin_at": "2025-03-31T03:08:10.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124762,
+      "rounds_count": 21,
+      "winner_team_id": 6062,
+      "loser_team_id": 8283,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-31T02:06:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-31"
+}

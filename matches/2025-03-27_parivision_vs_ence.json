@@ -1,0 +1,45 @@
+{
+  "match_id": 85112,
+  "slug": "parivision-vs-ence-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 8171,
+  "team2_id": 754,
+  "team1_name": "PARIVISION",
+  "team2_name": "ENCE",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "PARIVISION",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124267,
+      "rounds_count": 20,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-27T19:14:20.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124268,
+      "rounds_count": 18,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-27T18:15:41.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

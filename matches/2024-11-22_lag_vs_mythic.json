@@ -1,0 +1,33 @@
+{
+  "match_id": 73979,
+  "slug": "lag-gaming-vs-mythic-21-11-2024",
+  "bo_type": 3,
+  "team1_id": 5345,
+  "team2_id": 606,
+  "team1_name": "LAG",
+  "team2_name": "Mythic",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Mythic",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 112460,
+      "begin_at": "2024-11-22T00:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 112461,
+      "begin_at": "2024-11-21T23:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3726",
+  "tournament_name": "Perseverance League: Persevere Division",
+  "scrape_date": "2024-11-22"
+}

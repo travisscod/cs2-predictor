@@ -1,0 +1,25 @@
+{
+  "match_id": 43025,
+  "slug": "eneida-vs-insilio-29-01-2024",
+  "bo_type": 1,
+  "team1_id": 9432,
+  "team2_id": 2309,
+  "team1_name": "ENEIDA",
+  "team2_name": "Insilio",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Insilio",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 80517,
+      "begin_at": "2024-01-29T22:52:33.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2370",
+  "tournament_name": "IEM China 2024: European Open Qualifier 2",
+  "scrape_date": "2024-01-29"
+}

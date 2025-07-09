@@ -1,0 +1,53 @@
+{
+  "match_id": 84806,
+  "slug": "wildlotus-vs-ghoulsw-24-03-2025",
+  "bo_type": 3,
+  "team1_id": 20008,
+  "team2_id": 2996,
+  "team1_name": "WildLotus",
+  "team2_name": "GhoulsW",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "WildLotus",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 124166,
+      "winner_team_id": 20008,
+      "loser_team_id": 2996,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-24T21:08:11.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124167,
+      "winner_team_id": 2996,
+      "loser_team_id": 20008,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-24T20:14:33.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 124168,
+      "winner_team_id": 20008,
+      "loser_team_id": 2996,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-24T19:00:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4303",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 4",
+  "scrape_date": "2025-03-24"
+}

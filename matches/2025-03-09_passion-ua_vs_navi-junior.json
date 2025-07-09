@@ -1,0 +1,43 @@
+{
+  "match_id": 82385,
+  "slug": "passion-ua-vs-natus-vincere-junior-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 7631,
+  "team2_id": 441,
+  "team1_name": "Passion UA",
+  "team2_name": "NAVI Junior",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "NAVI Junior",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 121167,
+      "rounds_count": 30,
+      "winner_team_id": 441,
+      "loser_team_id": 7631,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-09T10:06:51.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 121168,
+      "rounds_count": 23,
+      "winner_team_id": 441,
+      "loser_team_id": 7631,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-09T09:10:38.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-09"
+}

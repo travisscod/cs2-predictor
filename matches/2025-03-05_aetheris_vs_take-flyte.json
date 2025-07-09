@@ -1,0 +1,43 @@
+{
+  "match_id": 82972,
+  "slug": "aetheris-vs-take-flyte-05-03-2025",
+  "bo_type": 3,
+  "team1_id": 19128,
+  "team2_id": 2882,
+  "team1_name": "Aetheris",
+  "team2_name": "Take Flyte",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Take Flyte",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 122285,
+      "rounds_count": 22,
+      "winner_team_id": 2882,
+      "loser_team_id": 19128,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-05T22:34:12.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122286,
+      "rounds_count": 23,
+      "winner_team_id": 2882,
+      "loser_team_id": 19128,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-05T21:33:56.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-05"
+}

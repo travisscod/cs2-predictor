@@ -1,0 +1,25 @@
+{
+  "match_id": 46877,
+  "slug": "metizport-vs-tsm-27-03-2024",
+  "bo_type": 1,
+  "team1_id": 1578,
+  "team2_id": 783,
+  "team1_name": "Metizport",
+  "team2_name": "TSM",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Metizport",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_vertigo",
+      "map_id": 86132,
+      "begin_at": "2024-03-27T17:11:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2664",
+  "tournament_name": "ESL Challenger Jonköping 2024: European Open Qualifier",
+  "scrape_date": "2024-03-27"
+}

@@ -1,0 +1,45 @@
+{
+  "match_id": 85298,
+  "slug": "w7m-esports-vs-2game-esports-cs-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 580,
+  "team2_id": 10194,
+  "team1_name": "W7M",
+  "team2_name": "2GAME",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "2GAME",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124775,
+      "rounds_count": 19,
+      "winner_team_id": 10194,
+      "loser_team_id": 580,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-28T15:25:23.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124776,
+      "rounds_count": 24,
+      "winner_team_id": 10194,
+      "loser_team_id": 580,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-28T14:15:26.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-28"
+}

@@ -1,0 +1,25 @@
+{
+  "match_id": 41699,
+  "slug": "metizport-vs-b52team-09-01-2024",
+  "bo_type": 1,
+  "team1_id": 1578,
+  "team2_id": 9863,
+  "team1_name": "Metizport",
+  "team2_name": "b52team",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Metizport",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_vertigo",
+      "map_id": 79064,
+      "begin_at": "2024-01-09T15:16:22.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2337",
+  "tournament_name": "PGL Major Copenhagen 2024: European Open Qualifier 1",
+  "scrape_date": "2024-01-09"
+}

@@ -1,0 +1,43 @@
+{
+  "match_id": 82881,
+  "slug": "dogevil-vs-jijiehao-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 3869,
+  "team2_id": 19878,
+  "team1_name": "JiJieHao",
+  "team2_name": "DogEvil",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "JiJieHao",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 122186,
+      "rounds_count": 20,
+      "winner_team_id": 3869,
+      "loser_team_id": 19878,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-08T03:40:59.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 122187,
+      "rounds_count": 30,
+      "winner_team_id": 3869,
+      "loser_team_id": 19878,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-08T02:21:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-08"
+}

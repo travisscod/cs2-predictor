@@ -1,0 +1,25 @@
+{
+  "match_id": 43019,
+  "slug": "godsent-vs-permitta-29-01-2024",
+  "bo_type": 1,
+  "team1_id": 728,
+  "team2_id": 5109,
+  "team1_name": "GODSENT",
+  "team2_name": "Permitta",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Permitta",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 80511,
+      "begin_at": "2024-01-29T22:14:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2370",
+  "tournament_name": "IEM China 2024: European Open Qualifier 2",
+  "scrape_date": "2024-01-29"
+}

@@ -1,0 +1,30 @@
+{
+  "match_id": 88953,
+  "slug": "america-esports-vs-sojoga-14-05-2025",
+  "bo_type": 1,
+  "team1_id": 18462,
+  "team2_id": 7533,
+  "team1_name": "América",
+  "team2_name": "Sojoga",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "América",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 129310,
+      "winner_team_id": 18462,
+      "loser_team_id": 7533,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-05-14T20:22:52.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4436",
+  "tournament_name": "Odyssey Cup 2025",
+  "scrape_date": "2025-05-14"
+}

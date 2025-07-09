@@ -1,0 +1,29 @@
+{
+  "match_id": 83174,
+  "slug": "chinggis-warriors-vs-dogevil-06-03-2025",
+  "bo_type": 1,
+  "team1_id": 9974,
+  "team2_id": 19878,
+  "team1_name": "Chinggis Warriors",
+  "team2_name": "DogEvil",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Chinggis Warriors",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122607,
+      "winner_team_id": 9974,
+      "loser_team_id": 19878,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-06T07:17:34.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-06"
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 85277,
+  "slug": "bluejays-vs-bad-news-capybaras-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 79,
+  "team2_id": 19055,
+  "team1_name": "BLUEJAYS",
+  "team2_name": "Bad News Capybaras",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "BLUEJAYS",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124710,
+      "winner_team_id": 79,
+      "loser_team_id": 19055,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-29T03:29:28.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124711,
+      "winner_team_id": 79,
+      "loser_team_id": 19055,
+      "winner_score": 19,
+      "loser_score": 17,
+      "begin_at": "2025-03-29T02:01:54.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-29"
+}

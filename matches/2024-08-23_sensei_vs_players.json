@@ -1,0 +1,43 @@
+{
+  "match_id": 56507,
+  "slug": "sensei-team-vs-players-1-23-08-2024",
+  "bo_type": 3,
+  "team1_id": 10585,
+  "team2_id": 3229,
+  "team1_name": "SENSEI",
+  "team2_name": "Players",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Players",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 101637,
+      "rounds_count": 21,
+      "winner_team_id": 3229,
+      "loser_team_id": 10585,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-08-23T15:26:45.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 101638,
+      "rounds_count": 22,
+      "winner_team_id": 3229,
+      "loser_team_id": 10585,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-08-23T14:30:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3001",
+  "tournament_name": "CCT Season 2 South American Series 3",
+  "scrape_date": "2024-08-23"
+}

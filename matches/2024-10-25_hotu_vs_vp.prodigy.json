@@ -1,0 +1,56 @@
+{
+  "match_id": 70885,
+  "slug": "hotu-vs-vp-prodigy-25-10-2024",
+  "bo_type": 3,
+  "team1_id": 2720,
+  "team2_id": 814,
+  "team1_name": "HOTU",
+  "team2_name": "VP.Prodigy",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "HOTU",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 108516,
+      "rounds_count": 19,
+      "winner_team_id": 2720,
+      "loser_team_id": 814,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2024-10-25T17:13:01.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 108517,
+      "rounds_count": 24,
+      "winner_team_id": 2720,
+      "loser_team_id": 814,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-10-25T16:12:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 108518,
+      "rounds_count": 24,
+      "winner_team_id": 814,
+      "loser_team_id": 2720,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-10-25T15:04:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-10-25"
+}

@@ -1,0 +1,43 @@
+{
+  "match_id": 74583,
+  "slug": "never-say-never-vs-rare-atom-10-12-2024",
+  "bo_type": 3,
+  "team1_id": 18888,
+  "team2_id": 2506,
+  "team1_name": "Never Say Never-",
+  "team2_name": "Rare Atom",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Rare Atom",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 113665,
+      "rounds_count": 24,
+      "winner_team_id": 2506,
+      "loser_team_id": 18888,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-12-10T12:51:12.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 113666,
+      "rounds_count": 22,
+      "winner_team_id": 2506,
+      "loser_team_id": 18888,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-12-10T11:58:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3830",
+  "tournament_name": "ESL Challenger League Season 48 Relegation: Asia",
+  "scrape_date": "2024-12-10"
+}

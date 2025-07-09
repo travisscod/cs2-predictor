@@ -1,0 +1,35 @@
+{
+  "match_id": 85158,
+  "slug": "lag-gaming-vs-straight2killin-28-03-2025",
+  "bo_type": 1,
+  "team1_id": 5345,
+  "team2_id": 20539,
+  "team1_name": "LAG",
+  "team2_name": "True Synergy",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "True Synergy",
+  "games": [
+    {
+      "number": 3,
+      "map_id": 124359,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_id": 124360,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_id": 124361,
+      "status": "upcoming",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-28"
+}

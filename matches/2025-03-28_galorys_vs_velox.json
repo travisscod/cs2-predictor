@@ -1,0 +1,45 @@
+{
+  "match_id": 85309,
+  "slug": "galorys-cs-vs-velox-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 10049,
+  "team2_id": 906,
+  "team1_name": "Galorys",
+  "team2_name": "VELOX",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "VELOX",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124808,
+      "rounds_count": 24,
+      "winner_team_id": 906,
+      "loser_team_id": 10049,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-28T19:01:02.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124809,
+      "rounds_count": 30,
+      "winner_team_id": 906,
+      "loser_team_id": 10049,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-28T17:20:50.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-28"
+}

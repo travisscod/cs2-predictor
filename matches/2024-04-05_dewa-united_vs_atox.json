@@ -1,0 +1,25 @@
+{
+  "match_id": 46224,
+  "slug": "dewa-united-esport-vs-atox-05-04-2024",
+  "bo_type": 1,
+  "team1_id": 9337,
+  "team2_id": 6298,
+  "team1_name": "Dewa United",
+  "team2_name": "ATOX",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "ATOX",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_overpass",
+      "map_id": 85153,
+      "begin_at": "2024-04-05T13:55:03.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "1593",
+  "tournament_name": "ESL Challenger League Season 47: Asia",
+  "scrape_date": "2024-04-05"
+}

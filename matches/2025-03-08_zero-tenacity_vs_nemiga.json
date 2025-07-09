@@ -1,0 +1,43 @@
+{
+  "match_id": 82341,
+  "slug": "nemiga-vs-zero-tenacity-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 2163,
+  "team2_id": 655,
+  "team1_name": "Zero Tenacity",
+  "team2_name": "Nemiga",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Nemiga",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 121035,
+      "rounds_count": 19,
+      "winner_team_id": 655,
+      "loser_team_id": 2163,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-08T16:59:35.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 121036,
+      "rounds_count": 24,
+      "winner_team_id": 655,
+      "loser_team_id": 2163,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-08T15:56:06.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-08"
+}

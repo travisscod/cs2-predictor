@@ -1,0 +1,25 @@
+{
+  "match_id": 70873,
+  "slug": "k27-vs-newballs-22-10-2024",
+  "bo_type": 1,
+  "team1_id": 10718,
+  "team2_id": 2826,
+  "team1_name": "K27",
+  "team2_name": "NewBALLS",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "K27",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_vertigo",
+      "map_id": 108496,
+      "begin_at": "2024-10-22T15:01:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-10-22"
+}

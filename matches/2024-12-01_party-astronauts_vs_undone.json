@@ -1,0 +1,56 @@
+{
+  "match_id": 73982,
+  "slug": "party-astronauts-vs-undone-30-11-2024",
+  "bo_type": 3,
+  "team1_id": 605,
+  "team2_id": 18694,
+  "team1_name": "Party Astronauts",
+  "team2_name": "Undone",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Party Astronauts",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 112467,
+      "rounds_count": 19,
+      "winner_team_id": 605,
+      "loser_team_id": 18694,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2024-12-01T01:01:35.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 112468,
+      "rounds_count": 23,
+      "winner_team_id": 18694,
+      "loser_team_id": 605,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2024-12-01T00:10:14.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 112469,
+      "rounds_count": 21,
+      "winner_team_id": 605,
+      "loser_team_id": 18694,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-11-30T23:14:26.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3726",
+  "tournament_name": "Perseverance League: Persevere Division",
+  "scrape_date": "2024-12-01"
+}

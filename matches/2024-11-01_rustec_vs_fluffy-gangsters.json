@@ -1,0 +1,53 @@
+{
+  "match_id": 70888,
+  "slug": "rustec-vs-fluffy-gangsters-01-11-2024",
+  "bo_type": 3,
+  "team1_id": 10446,
+  "team2_id": 3061,
+  "team1_name": "RUSTEC",
+  "team2_name": "FLuffy Gangsters",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "FLuffy Gangsters",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 108525,
+      "winner_team_id": 3061,
+      "loser_team_id": 10446,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2024-11-01T16:56:53.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_vertigo",
+      "map_id": 108526,
+      "winner_team_id": 10446,
+      "loser_team_id": 3061,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-11-01T16:00:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 108527,
+      "winner_team_id": 3061,
+      "loser_team_id": 10446,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-11-01T15:02:01.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-11-01"
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 83256,
+  "slug": "nutorious-vs-regain-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 9018,
+  "team2_id": 9655,
+  "team1_name": "NuTorious",
+  "team2_name": "regain",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "NuTorious",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 122738,
+      "winner_team_id": 9018,
+      "loser_team_id": 9655,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-03-07T22:04:10.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122739,
+      "winner_team_id": 9018,
+      "loser_team_id": 9655,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-07T21:15:59.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-07"
+}

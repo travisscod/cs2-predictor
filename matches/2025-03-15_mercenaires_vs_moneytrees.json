@@ -1,0 +1,41 @@
+{
+  "match_id": 83884,
+  "slug": "mercenaires-vs-moneytrees-15-03-2025",
+  "bo_type": 3,
+  "team1_id": 19970,
+  "team2_id": 853,
+  "team1_name": "Mercenaires",
+  "team2_name": "moneytrees",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Mercenaires",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 123493,
+      "winner_team_id": 19970,
+      "loser_team_id": 853,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-15T18:12:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 123494,
+      "winner_team_id": 19970,
+      "loser_team_id": 853,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-03-15T16:49:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

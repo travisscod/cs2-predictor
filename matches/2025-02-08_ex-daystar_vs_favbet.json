@@ -1,0 +1,25 @@
+{
+  "match_id": 80324,
+  "slug": "ex-daystar-vs-favbet-08-02-2025",
+  "bo_type": 1,
+  "team1_id": 19111,
+  "team2_id": 10601,
+  "team1_name": "ex-Daystar",
+  "team2_name": "FAVBET",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "ex-Daystar",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 118294,
+      "begin_at": "2025-02-08T17:09:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4109",
+  "tournament_name": "Intel Extreme Masters Dallas 2025: European Open Qualifier",
+  "scrape_date": "2025-02-08"
+}

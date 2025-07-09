@@ -1,0 +1,56 @@
+{
+  "match_id": 85205,
+  "slug": "betboom-team-vs-9-pandas-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 3599,
+  "team2_id": 7498,
+  "team1_name": "9 Pandas",
+  "team2_name": "BetBoom",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "BetBoom",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 124500,
+      "rounds_count": 21,
+      "winner_team_id": 7498,
+      "loser_team_id": 3599,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-29T15:06:21.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124501,
+      "rounds_count": 24,
+      "winner_team_id": 7498,
+      "loser_team_id": 3599,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-29T13:59:20.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124502,
+      "rounds_count": 35,
+      "winner_team_id": 3599,
+      "loser_team_id": 7498,
+      "winner_score": 19,
+      "loser_score": 16,
+      "begin_at": "2025-03-29T12:20:48.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 85312,
+  "slug": "prasso-clan-vs-velox-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 19971,
+  "team2_id": 906,
+  "team1_name": "Prasso",
+  "team2_name": "VELOX",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Prasso",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 124817,
+      "winner_team_id": 19971,
+      "loser_team_id": 906,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-29T15:23:42.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124818,
+      "winner_team_id": 19971,
+      "loser_team_id": 906,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-29T14:14:55.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-29"
+}

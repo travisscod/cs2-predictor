@@ -1,0 +1,59 @@
+{
+  "match_id": 85174,
+  "slug": "9z-vs-floripa-stars-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 324,
+  "team2_id": 5121,
+  "team1_name": "9z",
+  "team2_name": "Floripa Stars",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "9z",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124407,
+      "rounds_count": 18,
+      "winner_team_id": 324,
+      "loser_team_id": 5121,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-28T01:23:29.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124408,
+      "rounds_count": 20,
+      "winner_team_id": 324,
+      "loser_team_id": 5121,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-28T00:31:22.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124409,
+      "rounds_count": 22,
+      "winner_team_id": 5121,
+      "loser_team_id": 324,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-27T23:12:20.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-28"
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 82304,
+  "slug": "fluxo-vs-fudidos-e-anonymous-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 3661,
+  "team2_id": 20014,
+  "team1_name": "Fluxo",
+  "team2_name": "Fudidos e anonymous",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Fluxo",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 120922,
+      "winner_team_id": 3661,
+      "loser_team_id": 20014,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-07T21:31:35.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 120923,
+      "winner_team_id": 3661,
+      "loser_team_id": 20014,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-07T20:37:39.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-07"
+}

@@ -1,0 +1,42 @@
+{
+  "match_id": 85295,
+  "slug": "wildcard-gaming-vs-m80-cs-go-31-03-2025",
+  "bo_type": 3,
+  "team1_id": 6062,
+  "team2_id": 7430,
+  "team1_name": "Wildcard",
+  "team2_name": "M80",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "M80",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 124764,
+      "rounds_count": 17,
+      "winner_team_id": 7430,
+      "loser_team_id": 6062,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-04-01T01:00:44.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124765,
+      "winner_team_id": 7430,
+      "loser_team_id": 6062,
+      "winner_score": 19,
+      "loser_score": 15,
+      "begin_at": "2025-03-31T22:04:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-04-01"
+}

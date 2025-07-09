@@ -1,0 +1,28 @@
+{
+  "match_id": 88908,
+  "slug": "2game-esports-cs-vs-20-70-13-05-2025",
+  "bo_type": 1,
+  "team1_id": 10194,
+  "team2_id": 10372,
+  "team1_name": "2GAME",
+  "team2_name": "2070",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "2GAME",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 129263,
+      "rounds_count": 0,
+      "winner_score": 0,
+      "begin_at": "2025-05-13T20:26:54.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4436",
+  "tournament_name": "Odyssey Cup 2025",
+  "scrape_date": "2025-05-13"
+}

@@ -1,0 +1,56 @@
+{
+  "match_id": 82391,
+  "slug": "heroic-vs-og-11-03-2025",
+  "bo_type": 3,
+  "team1_id": 759,
+  "team2_id": 395,
+  "team1_name": "HEROIC",
+  "team2_name": "OG",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "OG",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 121184,
+      "rounds_count": 20,
+      "winner_team_id": 395,
+      "loser_team_id": 759,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-11T13:51:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 121185,
+      "rounds_count": 18,
+      "winner_team_id": 395,
+      "loser_team_id": 759,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-11T12:58:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 121186,
+      "rounds_count": 20,
+      "winner_team_id": 759,
+      "loser_team_id": 395,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-11T12:05:45.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-11"
+}

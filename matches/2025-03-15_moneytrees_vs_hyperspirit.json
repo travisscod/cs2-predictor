@@ -1,0 +1,30 @@
+{
+  "match_id": 83875,
+  "slug": "moneytrees-vs-hyperspirit-15-03-2025",
+  "bo_type": 1,
+  "team1_id": 853,
+  "team2_id": 9651,
+  "team1_name": "moneytrees",
+  "team2_name": "HyperSpirit",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "moneytrees",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 123477,
+      "rounds_count": 41,
+      "winner_team_id": 853,
+      "loser_team_id": 9651,
+      "winner_score": 22,
+      "loser_score": 19,
+      "begin_at": "2025-03-15T15:09:56.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

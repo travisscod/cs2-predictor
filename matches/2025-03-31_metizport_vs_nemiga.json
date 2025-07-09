@@ -1,0 +1,42 @@
+{
+  "match_id": 85253,
+  "slug": "metizport-vs-nemiga-31-03-2025",
+  "bo_type": 3,
+  "team1_id": 1578,
+  "team2_id": 655,
+  "team1_name": "Metizport",
+  "team2_name": "Nemiga",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Metizport",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124636,
+      "rounds_count": 21,
+      "winner_team_id": 1578,
+      "loser_team_id": 655,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-31T18:06:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124637,
+      "winner_team_id": 1578,
+      "loser_team_id": 655,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-31T17:13:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-31"
+}

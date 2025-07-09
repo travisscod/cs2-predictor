@@ -1,0 +1,30 @@
+{
+  "match_id": 43774,
+  "slug": "3dmax-vs-falcons-esports-14-02-2024",
+  "bo_type": 1,
+  "team1_id": 696,
+  "team2_id": 2713,
+  "team1_name": "3DMAX",
+  "team2_name": "Falcons",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Falcons",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 81451,
+      "rounds_count": 21,
+      "winner_team_id": 2713,
+      "loser_team_id": 696,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-02-14T14:22:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2473",
+  "tournament_name": "PGL Major Copenhagen 2024: European RMR A",
+  "scrape_date": "2024-02-14"
+}

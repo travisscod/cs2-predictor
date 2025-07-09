@@ -1,0 +1,43 @@
+{
+  "match_id": 82281,
+  "slug": "galorys-cs-vs-thekillaz-fe-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 10049,
+  "team2_id": 11084,
+  "team1_name": "Galorys",
+  "team2_name": "thekillaz fe",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Galorys",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 120853,
+      "rounds_count": 14,
+      "winner_team_id": 10049,
+      "loser_team_id": 11084,
+      "winner_score": 13,
+      "loser_score": 1,
+      "begin_at": "2025-03-08T19:22:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 120854,
+      "rounds_count": 15,
+      "winner_team_id": 10049,
+      "loser_team_id": 11084,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-08T18:43:10.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-08"
+}

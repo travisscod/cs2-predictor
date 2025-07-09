@@ -1,0 +1,35 @@
+{
+  "match_id": 89247,
+  "slug": "sinners-vs-delta-19-05-2025",
+  "bo_type": 1,
+  "team1_id": 200,
+  "team2_id": 18848,
+  "team1_name": "SINNERS",
+  "team2_name": "Delta",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "SINNERS",
+  "games": [
+    {
+      "number": 3,
+      "map_id": 129809,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_id": 129810,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_id": 129811,
+      "status": "upcoming",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4427",
+  "tournament_name": "Galaxy Battle 2025 // Phase 2",
+  "scrape_date": "2025-05-19"
+}

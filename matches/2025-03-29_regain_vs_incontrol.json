@@ -1,0 +1,43 @@
+{
+  "match_id": 85275,
+  "slug": "regain-vs-incontrol-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 9655,
+  "team2_id": 2594,
+  "team1_name": "regain",
+  "team2_name": "InControl",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "regain",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124704,
+      "rounds_count": 18,
+      "winner_team_id": 9655,
+      "loser_team_id": 2594,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-29T00:00:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124705,
+      "rounds_count": 15,
+      "winner_team_id": 9655,
+      "loser_team_id": 2594,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-28T23:05:09.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-29"
+}

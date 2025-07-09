@@ -1,0 +1,44 @@
+{
+  "match_id": 82362,
+  "slug": "betclic-apogee-esports-vs-fnatic-10-03-2025",
+  "bo_type": 3,
+  "team1_id": 11101,
+  "team2_id": 786,
+  "team1_name": "Betclic",
+  "team2_name": "fnatic",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Betclic",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 121097,
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 121098,
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 121099,
+      "rounds_count": 16,
+      "winner_team_id": 11101,
+      "loser_team_id": 786,
+      "winner_score": 9,
+      "loser_score": 6,
+      "begin_at": "2025-03-10T15:24:35.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-10"
+}

@@ -1,0 +1,50 @@
+{
+  "match_id": 82388,
+  "slug": "ence-vs-natus-vincere-junior-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 754,
+  "team2_id": 441,
+  "team1_name": "ENCE",
+  "team2_name": "NAVI Junior",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "NAVI Junior",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 121175,
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 121176,
+      "rounds_count": 21,
+      "winner_team_id": 441,
+      "loser_team_id": 754,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-09T17:30:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 121177,
+      "rounds_count": 23,
+      "winner_team_id": 441,
+      "loser_team_id": 754,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-09T16:24:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-09"
+}

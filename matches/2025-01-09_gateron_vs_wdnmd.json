@@ -1,0 +1,30 @@
+{
+  "match_id": 75556,
+  "slug": "gateron-vs-wdnmd-09-01-2025",
+  "bo_type": 1,
+  "team1_id": 18936,
+  "team2_id": 2646,
+  "team1_name": "GATERON",
+  "team2_name": "WDNMD",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "GATERON",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 114614,
+      "rounds_count": 17,
+      "winner_team_id": 18936,
+      "loser_team_id": 2646,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-01-09T10:19:50.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3731",
+  "tournament_name": "XSE Pro League Season 3",
+  "scrape_date": "2025-01-09"
+}

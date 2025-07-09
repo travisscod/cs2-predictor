@@ -1,0 +1,29 @@
+{
+  "match_id": 81736,
+  "slug": "wolves-esports-lt-vs-basement-boys-21-02-2025",
+  "bo_type": 1,
+  "team1_id": 10626,
+  "team2_id": 19881,
+  "team1_name": "Wolves Esports",
+  "team2_name": "BASEMENT BOYS",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "BASEMENT BOYS",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 119817,
+      "winner_team_id": 19881,
+      "loser_team_id": 10626,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-02-21T15:08:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

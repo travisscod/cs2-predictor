@@ -1,0 +1,43 @@
+{
+  "match_id": 90511,
+  "slug": "astrum-vs-fisher-college-10-06-2025",
+  "bo_type": 3,
+  "team1_id": 20587,
+  "team2_id": 10370,
+  "team1_name": "Astrum",
+  "team2_name": "Fisher College",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Astrum",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 131233,
+      "rounds_count": 17,
+      "winner_team_id": 20587,
+      "loser_team_id": 10370,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-06-10T15:39:34.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 131234,
+      "rounds_count": 17,
+      "winner_team_id": 20587,
+      "loser_team_id": 10370,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-06-10T14:55:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4507",
+  "tournament_name": "CCT Season 3 European Series 3",
+  "scrape_date": "2025-06-10"
+}

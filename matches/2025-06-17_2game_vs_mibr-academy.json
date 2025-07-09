@@ -1,0 +1,35 @@
+{
+  "match_id": 91109,
+  "slug": "2game-esports-cs-vs-mibr-academy-17-06-2025",
+  "bo_type": 1,
+  "team1_id": 10194,
+  "team2_id": 2239,
+  "team1_name": "2GAME",
+  "team2_name": "MIBR Academy",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "2GAME",
+  "games": [
+    {
+      "number": 3,
+      "map_id": 131980,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_id": 131981,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_id": 131982,
+      "status": "upcoming",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4509",
+  "tournament_name": "CCT Season 3 South American Series 1",
+  "scrape_date": "2025-06-17"
+}

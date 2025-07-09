@@ -1,0 +1,56 @@
+{
+  "match_id": 83275,
+  "slug": "marsborne-vs-vagrants-06-03-2025",
+  "bo_type": 3,
+  "team1_id": 19187,
+  "team2_id": 9855,
+  "team1_name": "Marsborne",
+  "team2_name": "Vagrants",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Vagrants",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 122794,
+      "rounds_count": 22,
+      "winner_team_id": 9855,
+      "loser_team_id": 19187,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-07T01:52:09.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 122795,
+      "rounds_count": 21,
+      "winner_team_id": 19187,
+      "loser_team_id": 9855,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-07T00:58:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 122796,
+      "rounds_count": 21,
+      "winner_team_id": 9855,
+      "loser_team_id": 19187,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-06T23:59:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-07"
+}

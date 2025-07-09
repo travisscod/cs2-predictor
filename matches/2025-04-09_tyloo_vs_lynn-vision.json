@@ -1,0 +1,23 @@
+{
+  "match_id": 77024,
+  "slug": "tyloo-cs-go-vs-lynn-vision-09-04-2025",
+  "bo_type": 1,
+  "team1_id": 757,
+  "team2_id": 476,
+  "team1_name": "TYLOO",
+  "team2_name": "Lynn Vision",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "TYLOO",
+  "games": [
+    {
+      "number": 1,
+      "map_id": 115831,
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3944",
+  "tournament_name": "ESL Challenger League Season 49: Asia",
+  "scrape_date": "2025-04-09"
+}

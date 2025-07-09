@@ -1,0 +1,33 @@
+{
+  "match_id": 90390,
+  "slug": "9ine-vs-marius-17-06-2025",
+  "bo_type": 3,
+  "team1_id": 495,
+  "team2_id": 20882,
+  "team1_name": "9INE",
+  "team2_name": "Marius",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "9INE",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 131218,
+      "begin_at": "2025-06-17T08:17:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 131219,
+      "begin_at": "2025-06-17T07:31:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4437",
+  "tournament_name": "The Proving Grounds Season 1",
+  "scrape_date": "2025-06-17"
+}

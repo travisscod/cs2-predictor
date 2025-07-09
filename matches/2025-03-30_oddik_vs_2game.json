@@ -1,0 +1,56 @@
+{
+  "match_id": 85306,
+  "slug": "oddik-vs-2game-esports-cs-30-03-2025",
+  "bo_type": 3,
+  "team1_id": 3370,
+  "team2_id": 10194,
+  "team1_name": "ODDIK",
+  "team2_name": "2GAME",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "ODDIK",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 124798,
+      "rounds_count": 22,
+      "winner_team_id": 3370,
+      "loser_team_id": 10194,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-30T19:32:54.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124799,
+      "rounds_count": 24,
+      "winner_team_id": 3370,
+      "loser_team_id": 10194,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-30T18:15:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 124800,
+      "rounds_count": 22,
+      "winner_team_id": 10194,
+      "loser_team_id": 3370,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-30T17:11:51.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-30"
+}

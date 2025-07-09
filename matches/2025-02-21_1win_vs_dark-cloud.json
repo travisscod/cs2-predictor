@@ -1,0 +1,31 @@
+{
+  "match_id": 81743,
+  "slug": "1win-vs-dc-esports-21-02-2025",
+  "bo_type": 1,
+  "team1_id": 238,
+  "team2_id": 19823,
+  "team1_name": "1win",
+  "team2_name": "Dark Cloud",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Dark Cloud",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 119824,
+      "rounds_count": 30,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-02-21T15:14:58.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

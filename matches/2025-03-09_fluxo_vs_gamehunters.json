@@ -1,0 +1,43 @@
+{
+  "match_id": 82310,
+  "slug": "fluxo-vs-game-hunters-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 3661,
+  "team2_id": 16746,
+  "team1_name": "Fluxo",
+  "team2_name": "GameHunters",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Fluxo",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 120940,
+      "rounds_count": 18,
+      "winner_team_id": 3661,
+      "loser_team_id": 16746,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-09T02:48:03.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 120941,
+      "rounds_count": 34,
+      "winner_team_id": 3661,
+      "loser_team_id": 16746,
+      "winner_score": 19,
+      "loser_score": 15,
+      "begin_at": "2025-03-09T01:31:43.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-09"
+}

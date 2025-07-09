@@ -1,0 +1,54 @@
+{
+  "match_id": 48811,
+  "slug": "9z-vs-insanity-11-05-2024",
+  "bo_type": 3,
+  "team1_id": 324,
+  "team2_id": 9892,
+  "team1_name": "9z",
+  "team2_name": "inSanitY",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "9z",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 89855,
+      "rounds_count": 18,
+      "winner_team_id": 324,
+      "loser_team_id": 9892,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2024-05-11T01:47:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 89856,
+      "winner_team_id": 9892,
+      "loser_team_id": 324,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-05-11T00:54:11.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 89857,
+      "winner_team_id": 324,
+      "loser_team_id": 9892,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2024-05-10T23:52:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2483",
+  "tournament_name": "RES Regional Series 4 LATAM",
+  "scrape_date": "2024-05-11"
+}

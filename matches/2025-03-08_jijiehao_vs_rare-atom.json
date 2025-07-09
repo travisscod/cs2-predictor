@@ -1,0 +1,50 @@
+{
+  "match_id": 82884,
+  "slug": "jijiehao-vs-rare-atom-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 3869,
+  "team2_id": 2506,
+  "team1_name": "JiJieHao",
+  "team2_name": "Rare Atom",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Rare Atom",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 122194,
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 122195,
+      "rounds_count": 20,
+      "winner_team_id": 2506,
+      "loser_team_id": 3869,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-08T14:25:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 122196,
+      "rounds_count": 22,
+      "winner_team_id": 2506,
+      "loser_team_id": 3869,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-08T13:33:45.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-08"
+}

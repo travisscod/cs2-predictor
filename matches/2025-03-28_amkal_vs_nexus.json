@@ -1,0 +1,55 @@
+{
+  "match_id": 85191,
+  "slug": "amkal-vs-nexus-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 9815,
+  "team2_id": 326,
+  "team1_name": "AMKAL",
+  "team2_name": "Nexus",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "AMKAL",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 124458,
+      "rounds_count": 22,
+      "winner_team_id": 9815,
+      "loser_team_id": 326,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-28T15:11:37.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124459,
+      "rounds_count": 24,
+      "winner_team_id": 326,
+      "loser_team_id": 9815,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-28T14:04:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124460,
+      "winner_team_id": 9815,
+      "loser_team_id": 326,
+      "winner_score": 22,
+      "loser_score": 19,
+      "begin_at": "2025-03-28T12:20:57.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

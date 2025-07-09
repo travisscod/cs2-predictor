@@ -1,0 +1,28 @@
+{
+  "match_id": 88906,
+  "slug": "flamengo-vs-sojoga-13-05-2025",
+  "bo_type": 1,
+  "team1_id": 5500,
+  "team2_id": 7533,
+  "team1_name": "Flamengo",
+  "team2_name": "Sojoga",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Sojoga",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 129261,
+      "rounds_count": 0,
+      "winner_score": 0,
+      "begin_at": "2025-05-13T20:26:59.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4436",
+  "tournament_name": "Odyssey Cup 2025",
+  "scrape_date": "2025-05-13"
+}

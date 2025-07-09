@@ -1,0 +1,29 @@
+{
+  "match_id": 50215,
+  "slug": "9z-vs-w7m-esports-20-05-2024",
+  "bo_type": 1,
+  "team1_id": 324,
+  "team2_id": 580,
+  "team1_name": "9z",
+  "team2_name": "W7M",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "9z",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 91494,
+      "winner_team_id": 324,
+      "loser_team_id": 580,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2024-05-20T22:05:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2319",
+  "tournament_name": "ESL Challenger League Season 47: South America",
+  "scrape_date": "2024-05-21"
+}

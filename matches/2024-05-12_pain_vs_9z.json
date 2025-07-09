@@ -1,0 +1,54 @@
+{
+  "match_id": 48814,
+  "slug": "pain-gaming-vs-9z-12-05-2024",
+  "bo_type": 3,
+  "team1_id": 637,
+  "team2_id": 324,
+  "team1_name": "paiN",
+  "team2_name": "9z",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "paiN",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 89864,
+      "rounds_count": 24,
+      "winner_team_id": 637,
+      "loser_team_id": 324,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-05-12T21:49:10.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 89865,
+      "winner_team_id": 637,
+      "loser_team_id": 324,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-05-12T20:58:20.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 89866,
+      "winner_team_id": 324,
+      "loser_team_id": 637,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2024-05-12T20:02:58.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2483",
+  "tournament_name": "RES Regional Series 4 LATAM",
+  "scrape_date": "2024-05-12"
+}

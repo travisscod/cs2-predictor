@@ -1,0 +1,69 @@
+{
+  "match_id": 82393,
+  "slug": "og-vs-betclic-apogee-esports-12-03-2025",
+  "bo_type": 5,
+  "team1_id": 395,
+  "team2_id": 11101,
+  "team1_name": "OG",
+  "team2_name": "Betclic",
+  "team1_score": 1,
+  "team2_score": 3,
+  "winner_team": "Betclic",
+  "games": [
+    {
+      "number": 4,
+      "map_name": "de_anubis",
+      "map_id": 121191,
+      "rounds_count": 22,
+      "winner_team_id": 11101,
+      "loser_team_id": 395,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-12T18:41:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 121192,
+      "rounds_count": 30,
+      "winner_team_id": 11101,
+      "loser_team_id": 395,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-12T17:27:57.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 121193,
+      "rounds_count": 30,
+      "winner_team_id": 395,
+      "loser_team_id": 11101,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-12T15:59:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 121194,
+      "rounds_count": 18,
+      "winner_team_id": 11101,
+      "loser_team_id": 395,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-12T15:01:59.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-12"
+}

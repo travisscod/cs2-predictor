@@ -1,0 +1,53 @@
+{
+  "match_id": 85285,
+  "slug": "csg0ds-vs-shimmer--28-03-2025",
+  "bo_type": 3,
+  "team1_id": 20469,
+  "team2_id": 5604,
+  "team1_name": "LL",
+  "team2_name": "Supernova Comets",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "LL",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 124733,
+      "winner_team_id": 20469,
+      "loser_team_id": 5604,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T00:47:08.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124734,
+      "winner_team_id": 5604,
+      "loser_team_id": 20469,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-29T00:00:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124735,
+      "winner_team_id": 20469,
+      "loser_team_id": 5604,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-28T23:07:42.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-29"
+}

@@ -1,0 +1,31 @@
+{
+  "match_id": 81254,
+  "slug": "nip-vs-rebels-gaming-cs-15-02-2025",
+  "bo_type": 1,
+  "team1_id": 785,
+  "team2_id": 9932,
+  "team1_name": "Ninjas in Pyjamas",
+  "team2_name": "Rebels",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Ninjas in Pyjamas",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 119305,
+      "rounds_count": 22,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-02-15T22:09:44.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4143",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 1",
+  "scrape_date": "2025-02-15"
+}

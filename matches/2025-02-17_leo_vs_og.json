@@ -1,0 +1,31 @@
+{
+  "match_id": 81548,
+  "slug": "l-g-vs-og-17-02-2025",
+  "bo_type": 1,
+  "team1_id": 5933,
+  "team2_id": 395,
+  "team1_name": "Leo",
+  "team2_name": "OG",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "OG",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 119610,
+      "rounds_count": 24,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-02-17T22:01:31.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4148",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 2",
+  "scrape_date": "2025-02-17"
+}

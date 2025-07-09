@@ -1,0 +1,31 @@
+{
+  "match_id": 81741,
+  "slug": "wildlotus-vs-ghoulsw-21-02-2025",
+  "bo_type": 1,
+  "team1_id": 20008,
+  "team2_id": 2996,
+  "team1_name": "WildLotus",
+  "team2_name": "GhoulsW",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "WildLotus",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 119822,
+      "rounds_count": 22,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-02-21T15:18:10.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

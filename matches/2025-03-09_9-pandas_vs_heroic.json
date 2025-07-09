@@ -1,0 +1,56 @@
+{
+  "match_id": 82373,
+  "slug": "9-pandas-vs-heroic-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 3599,
+  "team2_id": 759,
+  "team1_name": "9 Pandas",
+  "team2_name": "HEROIC",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "HEROIC",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 121130,
+      "rounds_count": 24,
+      "winner_team_id": 759,
+      "loser_team_id": 3599,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-09T18:05:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 121131,
+      "rounds_count": 30,
+      "winner_team_id": 3599,
+      "loser_team_id": 759,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-09T16:09:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 121132,
+      "rounds_count": 21,
+      "winner_team_id": 759,
+      "loser_team_id": 3599,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-09T15:08:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-09"
+}

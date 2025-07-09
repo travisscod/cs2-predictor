@@ -1,0 +1,16 @@
+{
+  "match_id": 41975,
+  "slug": "500-cs-go-vs-30-seconds-to-win-16-01-2024",
+  "bo_type": 1,
+  "team1_id": 5063,
+  "team2_id": 10011,
+  "team1_name": "500",
+  "team2_name": "30 Seconds To Win",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "30 Seconds To Win",
+  "games": [],
+  "tournament_id": "2347",
+  "tournament_name": "PGL Major Copenhagen 2024: European Open Qualifier 4",
+  "scrape_date": "2024-01-16"
+}

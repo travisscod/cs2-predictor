@@ -1,0 +1,30 @@
+{
+  "match_id": 84715,
+  "slug": "next-level-vs-illuminar-22-03-2025",
+  "bo_type": 1,
+  "team1_id": 10528,
+  "team2_id": 561,
+  "team1_name": "TNL",
+  "team2_name": "Illuminar",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "TNL",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124105,
+      "rounds_count": 23,
+      "winner_team_id": 10528,
+      "loser_team_id": 561,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-22T15:16:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4297",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 3",
+  "scrape_date": "2025-03-22"
+}

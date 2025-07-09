@@ -1,0 +1,43 @@
+{
+  "match_id": 70875,
+  "slug": "rushb-vs-newballs-24-10-2024",
+  "bo_type": 3,
+  "team1_id": 3396,
+  "team2_id": 2826,
+  "team1_name": "RUSH B",
+  "team2_name": "NewBALLS",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "RUSH B",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 108499,
+      "rounds_count": 15,
+      "winner_team_id": 3396,
+      "loser_team_id": 2826,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2024-10-24T16:17:38.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 108500,
+      "rounds_count": 24,
+      "winner_team_id": 3396,
+      "loser_team_id": 2826,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-10-24T15:03:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-10-24"
+}

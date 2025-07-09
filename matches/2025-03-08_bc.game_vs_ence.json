@@ -1,0 +1,56 @@
+{
+  "match_id": 82381,
+  "slug": "ence-vs-bc-game-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 10844,
+  "team2_id": 754,
+  "team1_name": "BC.Game",
+  "team2_name": "ENCE",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "ENCE",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 121154,
+      "rounds_count": 30,
+      "winner_team_id": 754,
+      "loser_team_id": 10844,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-08T20:09:50.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 121155,
+      "rounds_count": 22,
+      "winner_team_id": 754,
+      "loser_team_id": 10844,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-08T19:06:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 121156,
+      "rounds_count": 22,
+      "winner_team_id": 10844,
+      "loser_team_id": 754,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-08T18:06:21.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-08"
+}

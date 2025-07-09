@@ -1,0 +1,1 @@
+ return arguments[0].querySelectorAll("[data-editor-id=\"blockTitle\"]")[1];

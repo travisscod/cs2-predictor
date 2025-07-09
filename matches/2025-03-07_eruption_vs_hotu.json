@@ -1,0 +1,30 @@
+{
+  "match_id": 83397,
+  "slug": "eruption-vs-hotu-07-03-2025",
+  "bo_type": 1,
+  "team1_id": 1248,
+  "team2_id": 2720,
+  "team1_name": "Eruption",
+  "team2_name": "HOTU",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "HOTU",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122935,
+      "rounds_count": 30,
+      "winner_team_id": 2720,
+      "loser_team_id": 1248,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-07T05:40:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-07"
+}

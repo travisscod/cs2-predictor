@@ -1,0 +1,56 @@
+{
+  "match_id": 82342,
+  "slug": "betboom-team-vs-spirit-academy-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 7498,
+  "team2_id": 1309,
+  "team1_name": "BetBoom",
+  "team2_name": "Spirit Academy",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Spirit Academy",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 121037,
+      "rounds_count": 36,
+      "winner_team_id": 1309,
+      "loser_team_id": 7498,
+      "winner_score": 19,
+      "loser_score": 17,
+      "begin_at": "2025-03-08T14:26:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 121038,
+      "rounds_count": 24,
+      "winner_team_id": 1309,
+      "loser_team_id": 7498,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-08T13:14:32.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 121039,
+      "rounds_count": 24,
+      "winner_team_id": 7498,
+      "loser_team_id": 1309,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-08T12:14:57.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-08"
+}

@@ -1,0 +1,30 @@
+{
+  "match_id": 50698,
+  "slug": "tsm-shimmer-vs-fluxo-demons-31-05-2024",
+  "bo_type": 1,
+  "team1_id": 10623,
+  "team2_id": 7919,
+  "team1_name": "TSM Impact",
+  "team2_name": "Fluxo Demons",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Fluxo Demons",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 92127,
+      "rounds_count": 20,
+      "winner_team_id": 7919,
+      "loser_team_id": 10623,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-05-31T20:29:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2311",
+  "tournament_name": "ESL Impact League Season 5",
+  "scrape_date": "2024-05-31"
+}

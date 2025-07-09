@@ -1,0 +1,31 @@
+{
+  "match_id": 81739,
+  "slug": "rushb-vs-astralis-talent-21-02-2025",
+  "bo_type": 1,
+  "team1_id": 3396,
+  "team2_id": 905,
+  "team1_name": "RUSH B",
+  "team2_name": "Astralis Talent",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Astralis Talent",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 119820,
+      "rounds_count": 35,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 19,
+      "loser_score": 16,
+      "begin_at": "2025-02-21T15:17:57.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

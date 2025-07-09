@@ -1,0 +1,56 @@
+{
+  "match_id": 85223,
+  "slug": "gun5-vs-parivision-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 8211,
+  "team2_id": 8171,
+  "team1_name": "GUN5",
+  "team2_name": "PARIVISION",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "GUN5",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 124554,
+      "rounds_count": 24,
+      "winner_team_id": 8211,
+      "loser_team_id": 8171,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-28T20:37:44.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124555,
+      "rounds_count": 23,
+      "winner_team_id": 8211,
+      "loser_team_id": 8171,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-28T19:30:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124556,
+      "rounds_count": 19,
+      "winner_team_id": 8171,
+      "loser_team_id": 8211,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-28T18:35:13.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

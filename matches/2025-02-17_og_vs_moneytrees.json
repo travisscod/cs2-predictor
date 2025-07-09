@@ -1,0 +1,25 @@
+{
+  "match_id": 81539,
+  "slug": "og-vs-moneytrees-17-02-2025",
+  "bo_type": 1,
+  "team1_id": 395,
+  "team2_id": 853,
+  "team1_name": "OG",
+  "team2_name": "moneytrees",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "OG",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 119589,
+      "begin_at": "2025-02-17T15:12:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4148",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 2",
+  "scrape_date": "2025-02-17"
+}

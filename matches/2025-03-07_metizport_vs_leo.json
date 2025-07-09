@@ -1,0 +1,45 @@
+{
+  "match_id": 83036,
+  "slug": "metizport-vs-l-g-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 1578,
+  "team2_id": 5933,
+  "team1_name": "Metizport",
+  "team2_name": "Leo",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Leo",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 122478,
+      "rounds_count": 23,
+      "winner_team_id": 5933,
+      "loser_team_id": 1578,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-07T10:11:52.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 122479,
+      "rounds_count": 24,
+      "winner_team_id": 5933,
+      "loser_team_id": 1578,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-07T09:05:21.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-07"
+}

@@ -1,0 +1,56 @@
+{
+  "match_id": 85212,
+  "slug": "partizan-esport-vs-nemiga-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 655,
+  "team2_id": 3643,
+  "team1_name": "Nemiga",
+  "team2_name": "Partizan",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Partizan",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 124521,
+      "rounds_count": 20,
+      "winner_team_id": 3643,
+      "loser_team_id": 655,
+      "winner_score": 10,
+      "loser_score": 9,
+      "begin_at": "2025-03-28T17:33:10.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124522,
+      "rounds_count": 20,
+      "winner_team_id": 3643,
+      "loser_team_id": 655,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-28T16:29:12.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 124523,
+      "rounds_count": 22,
+      "winner_team_id": 655,
+      "loser_team_id": 3643,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-28T15:11:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

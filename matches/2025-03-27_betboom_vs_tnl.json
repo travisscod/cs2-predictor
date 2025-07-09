@@ -1,0 +1,45 @@
+{
+  "match_id": 85101,
+  "slug": "betboom-team-vs-next-level-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 7498,
+  "team2_id": 10528,
+  "team1_name": "BetBoom",
+  "team2_name": "TNL",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "TNL",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124234,
+      "rounds_count": 20,
+      "winner_team_id": 10528,
+      "loser_team_id": 7498,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-27T13:13:15.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124235,
+      "rounds_count": 20,
+      "winner_team_id": 10528,
+      "loser_team_id": 7498,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-27T12:03:38.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

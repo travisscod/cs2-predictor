@@ -1,0 +1,30 @@
+{
+  "match_id": 84029,
+  "slug": "ecstatic-vs-preasy-esport-17-03-2025",
+  "bo_type": 1,
+  "team1_id": 2245,
+  "team2_id": 6301,
+  "team1_name": "ECSTATIC",
+  "team2_name": "Preasy",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "ECSTATIC",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 123637,
+      "rounds_count": 19,
+      "winner_team_id": 2245,
+      "loser_team_id": 6301,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-17T14:59:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

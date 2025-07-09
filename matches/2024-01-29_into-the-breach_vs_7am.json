@@ -1,0 +1,25 @@
+{
+  "match_id": 43024,
+  "slug": "into-the-breach-vs-team-7am-29-01-2024",
+  "bo_type": 1,
+  "team1_id": 1549,
+  "team2_id": 3840,
+  "team1_name": "Into the Breach",
+  "team2_name": "7AM",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "7AM",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 80516,
+      "begin_at": "2024-01-29T22:52:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2370",
+  "tournament_name": "IEM China 2024: European Open Qualifier 2",
+  "scrape_date": "2024-01-29"
+}

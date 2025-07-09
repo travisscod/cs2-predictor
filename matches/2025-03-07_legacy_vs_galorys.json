@@ -1,0 +1,53 @@
+{
+  "match_id": 82276,
+  "slug": "legacy-br-vs-galorys-cs-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 8118,
+  "team2_id": 10049,
+  "team1_name": "Legacy",
+  "team2_name": "Galorys",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Legacy",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 120837,
+      "winner_team_id": 8118,
+      "loser_team_id": 10049,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-07T22:13:01.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 120838,
+      "winner_team_id": 10049,
+      "loser_team_id": 8118,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-07T21:01:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 120839,
+      "winner_team_id": 8118,
+      "loser_team_id": 10049,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-07T20:15:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-07"
+}

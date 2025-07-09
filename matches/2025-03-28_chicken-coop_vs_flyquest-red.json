@@ -1,0 +1,45 @@
+{
+  "match_id": 85159,
+  "slug": "chicken-coop-esports-vs-flyquest-red-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 18964,
+  "team2_id": 6253,
+  "team1_name": "Chicken Coop",
+  "team2_name": "FlyQuest RED",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Chicken Coop",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124363,
+      "rounds_count": 19,
+      "winner_team_id": 18964,
+      "loser_team_id": 6253,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-28T00:12:16.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 124364,
+      "rounds_count": 19,
+      "winner_team_id": 18964,
+      "loser_team_id": 6253,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-27T23:18:33.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-28"
+}

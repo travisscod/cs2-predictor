@@ -1,0 +1,25 @@
+{
+  "match_id": 47169,
+  "slug": "mirai-gaming-vs-zeusgg-20-04-2024",
+  "bo_type": 1,
+  "team1_id": 3374,
+  "team2_id": 10345,
+  "team1_name": "MIRAI",
+  "team2_name": "ZEUS",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "MIRAI",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_overpass",
+      "map_id": 86699,
+      "begin_at": "2024-04-20T13:02:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "1593",
+  "tournament_name": "ESL Challenger League Season 47: Asia",
+  "scrape_date": "2024-04-20"
+}

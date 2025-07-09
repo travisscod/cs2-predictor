@@ -1,0 +1,30 @@
+{
+  "match_id": 75558,
+  "slug": "laishanhui-vs-bromo-09-01-2025",
+  "bo_type": 1,
+  "team1_id": 19069,
+  "team2_id": 10824,
+  "team1_name": "LaiShanHui",
+  "team2_name": "Bromo",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "LaiShanHui",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 114616,
+      "rounds_count": 29,
+      "winner_team_id": 19069,
+      "loser_team_id": 10824,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-01-09T14:22:28.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3731",
+  "tournament_name": "XSE Pro League Season 3",
+  "scrape_date": "2025-01-09"
+}

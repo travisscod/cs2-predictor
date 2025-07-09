@@ -1,0 +1,43 @@
+{
+  "match_id": 48166,
+  "slug": "gaimingladiators-vs-havu-02-05-2024",
+  "bo_type": 3,
+  "team1_id": 2698,
+  "team2_id": 627,
+  "team1_name": "Gaimin Gladiators",
+  "team2_name": "HAVU",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Gaimin Gladiators",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 88663,
+      "rounds_count": 18,
+      "winner_team_id": 2698,
+      "loser_team_id": 627,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2024-05-02T16:25:13.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 88664,
+      "rounds_count": 21,
+      "winner_team_id": 2698,
+      "loser_team_id": 627,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-05-02T15:27:01.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2484",
+  "tournament_name": "Elisa Invitational Spring 2024",
+  "scrape_date": "2024-05-02"
+}

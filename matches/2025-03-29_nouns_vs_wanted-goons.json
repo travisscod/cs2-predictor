@@ -1,0 +1,41 @@
+{
+  "match_id": 85267,
+  "slug": "nouns-vs-wanted-goons-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 4723,
+  "team2_id": 7536,
+  "team1_name": "Nouns",
+  "team2_name": "Wanted Goons",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Nouns",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124680,
+      "winner_team_id": 4723,
+      "loser_team_id": 7536,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T02:58:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124681,
+      "winner_team_id": 4723,
+      "loser_team_id": 7536,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-29T02:11:34.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-29"
+}

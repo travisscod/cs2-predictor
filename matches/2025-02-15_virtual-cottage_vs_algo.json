@@ -1,0 +1,53 @@
+{
+  "match_id": 81180,
+  "slug": "virtual-cottage-vs-algo-15-02-2025",
+  "bo_type": 3,
+  "team1_id": 19822,
+  "team2_id": 19951,
+  "team1_name": "Virtual Cottage",
+  "team2_name": "Algo",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Virtual Cottage",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 119211,
+      "winner_team_id": 19822,
+      "loser_team_id": 19951,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-02-15T19:11:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 119212,
+      "winner_team_id": 19951,
+      "loser_team_id": 19822,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-02-15T18:10:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 119213,
+      "winner_team_id": 19822,
+      "loser_team_id": 19951,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-02-15T17:00:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4143",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 1",
+  "scrape_date": "2025-02-15"
+}

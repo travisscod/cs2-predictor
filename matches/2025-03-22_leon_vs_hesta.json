@@ -1,0 +1,31 @@
+{
+  "match_id": 84713,
+  "slug": "leon-bet-vs-hesta-22-03-2025",
+  "bo_type": 1,
+  "team1_id": 10009,
+  "team2_id": 19875,
+  "team1_name": "LEON",
+  "team2_name": "Hesta",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Hesta",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124103,
+      "rounds_count": 20,
+      "winner_team_id": 19875,
+      "loser_team_id": 10009,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-22T15:16:12.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4297",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 3",
+  "scrape_date": "2025-03-22"
+}

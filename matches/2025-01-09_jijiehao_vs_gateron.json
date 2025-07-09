@@ -1,0 +1,30 @@
+{
+  "match_id": 75555,
+  "slug": "jijiehao-vs-gateron-09-01-2025",
+  "bo_type": 1,
+  "team1_id": 3869,
+  "team2_id": 18936,
+  "team1_name": "JiJieHao",
+  "team2_name": "GATERON",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "JiJieHao",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 114613,
+      "rounds_count": 13,
+      "winner_team_id": 3869,
+      "loser_team_id": 18936,
+      "winner_score": 13,
+      "loser_score": 0,
+      "begin_at": "2025-01-09T08:59:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3731",
+  "tournament_name": "XSE Pro League Season 3",
+  "scrape_date": "2025-01-09"
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 85279,
+  "slug": "straight2killin-vs-regain-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 20539,
+  "team2_id": 9655,
+  "team1_name": "True Synergy",
+  "team2_name": "regain",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "regain",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124716,
+      "winner_team_id": 9655,
+      "loser_team_id": 20539,
+      "winner_score": 19,
+      "loser_score": 17,
+      "begin_at": "2025-03-30T00:15:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 124717,
+      "winner_team_id": 9655,
+      "loser_team_id": 20539,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T23:11:39.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-30"
+}

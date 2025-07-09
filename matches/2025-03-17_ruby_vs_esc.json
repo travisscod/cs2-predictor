@@ -1,0 +1,53 @@
+{
+  "match_id": 84039,
+  "slug": "esc-vs-ruby-17-03-2025",
+  "bo_type": 3,
+  "team1_id": 10069,
+  "team2_id": 742,
+  "team1_name": "RUBY",
+  "team2_name": "ESC",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "RUBY",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 123651,
+      "winner_team_id": 10069,
+      "loser_team_id": 742,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-17T18:22:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 123652,
+      "winner_team_id": 10069,
+      "loser_team_id": 742,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-17T17:23:22.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 123653,
+      "winner_team_id": 742,
+      "loser_team_id": 10069,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-17T16:24:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

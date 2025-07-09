@@ -1,0 +1,45 @@
+{
+  "match_id": 85097,
+  "slug": "passion-ua-vs-nip-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 7631,
+  "team2_id": 785,
+  "team1_name": "Passion UA",
+  "team2_name": "Ninjas in Pyjamas",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Ninjas in Pyjamas",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_train",
+      "map_id": 124222,
+      "rounds_count": 15,
+      "winner_team_id": 785,
+      "loser_team_id": 7631,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-27T10:31:28.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124223,
+      "rounds_count": 28,
+      "winner_team_id": 785,
+      "loser_team_id": 7631,
+      "winner_score": 16,
+      "loser_score": 12,
+      "begin_at": "2025-03-27T09:05:28.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

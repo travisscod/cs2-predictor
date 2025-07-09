@@ -1,0 +1,30 @@
+{
+  "match_id": 81535,
+  "slug": "weloveusmooya-vs-amkal-17-02-2025",
+  "bo_type": 1,
+  "team1_id": 19967,
+  "team2_id": 9815,
+  "team1_name": "WeLoveUSmooya",
+  "team2_name": "AMKAL",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "WeLoveUSmooya",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 119585,
+      "rounds_count": 24,
+      "winner_team_id": 19967,
+      "loser_team_id": 9815,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-02-17T15:16:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4148",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 2",
+  "scrape_date": "2025-02-17"
+}

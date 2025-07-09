@@ -1,0 +1,43 @@
+{
+  "match_id": 51172,
+  "slug": "gun5-vs-baks-esports-31-05-2024",
+  "bo_type": 3,
+  "team1_id": 8211,
+  "team2_id": 2924,
+  "team1_name": "GUN5",
+  "team2_name": "BakS",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "GUN5",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 92851,
+      "rounds_count": 16,
+      "winner_team_id": 8211,
+      "loser_team_id": 2924,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2024-05-31T19:05:28.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 92852,
+      "rounds_count": 18,
+      "winner_team_id": 8211,
+      "loser_team_id": 2924,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2024-05-31T18:23:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2801",
+  "tournament_name": "Winline Pro League Season 1",
+  "scrape_date": "2024-05-31"
+}

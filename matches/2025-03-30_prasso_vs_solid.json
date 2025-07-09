@@ -1,0 +1,41 @@
+{
+  "match_id": 85315,
+  "slug": "prasso-clan-vs-solid-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 19971,
+  "team2_id": 5950,
+  "team1_name": "Prasso",
+  "team2_name": "Solid",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Solid",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124826,
+      "winner_team_id": 5950,
+      "loser_team_id": 19971,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-30T00:10:39.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 124827,
+      "winner_team_id": 5950,
+      "loser_team_id": 19971,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-29T23:12:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-30"
+}

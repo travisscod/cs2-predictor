@@ -1,0 +1,55 @@
+{
+  "match_id": 85214,
+  "slug": "iberian-soul-vs-partizan-esport-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 3643,
+  "team2_id": 19100,
+  "team1_name": "Partizan",
+  "team2_name": "Iberian Soul",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Iberian Soul",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 124527,
+      "rounds_count": 20,
+      "winner_team_id": 19100,
+      "loser_team_id": 3643,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-29T11:46:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124528,
+      "rounds_count": 21,
+      "winner_team_id": 3643,
+      "loser_team_id": 19100,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-29T10:31:32.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124529,
+      "winner_team_id": 19100,
+      "loser_team_id": 3643,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-29T09:11:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

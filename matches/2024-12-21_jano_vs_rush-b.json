@@ -1,0 +1,43 @@
+{
+  "match_id": 75026,
+  "slug": "jano-esports-vs-rushb-21-12-2024",
+  "bo_type": 3,
+  "team1_id": 3628,
+  "team2_id": 3396,
+  "team1_name": "JANO",
+  "team2_name": "RUSH B",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "RUSH B",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 114037,
+      "rounds_count": 22,
+      "winner_team_id": 3396,
+      "loser_team_id": 3628,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-12-21T14:56:13.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 114038,
+      "rounds_count": 14,
+      "winner_team_id": 3396,
+      "loser_team_id": 3628,
+      "winner_score": 13,
+      "loser_score": 1,
+      "begin_at": "2024-12-21T14:09:42.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3712",
+  "tournament_name": "Wildz Invitational",
+  "scrape_date": "2024-12-21"
+}

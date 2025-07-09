@@ -1,0 +1,41 @@
+{
+  "match_id": 85696,
+  "slug": "jijiehao-vs-semperfi-esports-31-03-2025",
+  "bo_type": 3,
+  "team1_id": 3869,
+  "team2_id": 11042,
+  "team1_name": "JiJieHao",
+  "team2_name": "SemperFi",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "JiJieHao",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 125054,
+      "winner_team_id": 3869,
+      "loser_team_id": 11042,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-31T09:50:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 125055,
+      "winner_team_id": 3869,
+      "loser_team_id": 11042,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-31T09:06:15.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4313",
+  "tournament_name": "PGL Astana 2025: Asian Qualifier",
+  "scrape_date": "2025-03-31"
+}

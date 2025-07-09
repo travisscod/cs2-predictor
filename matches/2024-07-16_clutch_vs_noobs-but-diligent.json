@@ -1,0 +1,30 @@
+{
+  "match_id": 53518,
+  "slug": "clutch-gaming-vs-noobs-but-diligent-16-07-2024",
+  "bo_type": 1,
+  "team1_id": 2509,
+  "team2_id": 5509,
+  "team1_name": "Clutch",
+  "team2_name": "Noobs But Diligent",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Clutch",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 96724,
+      "rounds_count": 23,
+      "winner_team_id": 2509,
+      "loser_team_id": 5509,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2024-07-16T12:06:15.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2559",
+  "tournament_name": "ESL Challenger League Season 48: Asia",
+  "scrape_date": "2024-07-16"
+}

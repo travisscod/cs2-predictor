@@ -1,0 +1,31 @@
+{
+  "match_id": 72167,
+  "slug": "germany-vs-chile-14-11-2024",
+  "bo_type": 1,
+  "team1_id": 3238,
+  "team2_id": 5215,
+  "team1_name": "Germany",
+  "team2_name": "Chile",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Germany",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 110170,
+      "rounds_count": 24,
+      "winner_team_id": 3238,
+      "loser_team_id": 5215,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-11-14T11:32:13.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2663",
+  "tournament_name": "IESF World Esports Championship 2024",
+  "scrape_date": "2024-11-14"
+}

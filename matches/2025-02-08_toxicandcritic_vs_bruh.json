@@ -1,0 +1,25 @@
+{
+  "match_id": 80327,
+  "slug": "toxicandcritic-vs-bruh-08-02-2025",
+  "bo_type": 1,
+  "team1_id": 19873,
+  "team2_id": 1343,
+  "team1_name": "ToxicAndCritic",
+  "team2_name": "bruh",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "ToxicAndCritic",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 118297,
+      "begin_at": "2025-02-08T17:15:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4109",
+  "tournament_name": "Intel Extreme Masters Dallas 2025: European Open Qualifier",
+  "scrape_date": "2025-02-08"
+}

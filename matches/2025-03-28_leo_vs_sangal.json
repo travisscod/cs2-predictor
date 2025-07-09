@@ -1,0 +1,43 @@
+{
+  "match_id": 85201,
+  "slug": "l-g-vs-sangal-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 5933,
+  "team2_id": 36,
+  "team1_name": "Leo",
+  "team2_name": "Sangal",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Sangal",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_train",
+      "map_id": 124489,
+      "rounds_count": 21,
+      "winner_team_id": 36,
+      "loser_team_id": 5933,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-28T13:49:15.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124490,
+      "rounds_count": 35,
+      "winner_team_id": 36,
+      "loser_team_id": 5933,
+      "winner_score": 19,
+      "loser_score": 16,
+      "begin_at": "2025-03-28T12:16:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

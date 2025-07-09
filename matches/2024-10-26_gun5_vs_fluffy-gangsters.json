@@ -1,0 +1,33 @@
+{
+  "match_id": 70871,
+  "slug": "gun5-vs-fluffy-gangsters-26-10-2024",
+  "bo_type": 3,
+  "team1_id": 8211,
+  "team2_id": 3061,
+  "team1_name": "GUN5",
+  "team2_name": "FLuffy Gangsters",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "FLuffy Gangsters",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 108493,
+      "begin_at": "2024-10-26T19:13:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 108494,
+      "begin_at": "2024-10-26T18:08:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-10-26"
+}

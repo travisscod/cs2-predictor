@@ -1,0 +1,43 @@
+{
+  "match_id": 83251,
+  "slug": "getting-info-vs-nouns-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 19134,
+  "team2_id": 4723,
+  "team1_name": "Getting Info",
+  "team2_name": "Nouns",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Nouns",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 122723,
+      "rounds_count": 23,
+      "winner_team_id": 4723,
+      "loser_team_id": 19134,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-09T00:28:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 122724,
+      "rounds_count": 22,
+      "winner_team_id": 4723,
+      "loser_team_id": 19134,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-08T23:31:22.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-09"
+}

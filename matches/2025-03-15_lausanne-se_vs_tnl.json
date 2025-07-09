@@ -1,0 +1,41 @@
+{
+  "match_id": 83883,
+  "slug": "lausanne-sport-esports-vs-next-level-15-03-2025",
+  "bo_type": 3,
+  "team1_id": 2669,
+  "team2_id": 10528,
+  "team1_name": "Lausanne SE",
+  "team2_name": "TNL",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "TNL",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 123490,
+      "winner_team_id": 10528,
+      "loser_team_id": 2669,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-15T17:00:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 123491,
+      "winner_team_id": 10528,
+      "loser_team_id": 2669,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-15T16:11:08.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

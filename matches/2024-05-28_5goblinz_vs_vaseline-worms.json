@@ -1,0 +1,30 @@
+{
+  "match_id": 51180,
+  "slug": "5goblinz-vs-vaseline-worms-28-05-2024",
+  "bo_type": 1,
+  "team1_id": 10663,
+  "team2_id": 9016,
+  "team1_name": "5goblinz",
+  "team2_name": "Vaseline Worms",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Vaseline Worms",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 92870,
+      "rounds_count": 17,
+      "winner_team_id": 9016,
+      "loser_team_id": 10663,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2024-05-28T16:09:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2801",
+  "tournament_name": "Winline Pro League Season 1",
+  "scrape_date": "2024-05-28"
+}

@@ -1,0 +1,45 @@
+{
+  "match_id": 85150,
+  "slug": "super-evil-gang-vs-team-aether-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 19918,
+  "team2_id": 10764,
+  "team1_name": "SUPER EVIL GANG",
+  "team2_name": "Aether",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "SUPER EVIL GANG",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124336,
+      "rounds_count": 19,
+      "winner_team_id": 19918,
+      "loser_team_id": 10764,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-28T03:05:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 124337,
+      "rounds_count": 23,
+      "winner_team_id": 19918,
+      "loser_team_id": 10764,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-28T02:16:35.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-28"
+}

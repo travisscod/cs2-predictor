@@ -1,0 +1,59 @@
+{
+  "match_id": 85107,
+  "slug": "dynamo-eclot-vs-wildlotus-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 3820,
+  "team2_id": 20008,
+  "team1_name": "ECLOT",
+  "team2_name": "WildLotus",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "ECLOT",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 124251,
+      "rounds_count": 21,
+      "winner_team_id": 3820,
+      "loser_team_id": 20008,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-27T17:24:43.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124252,
+      "rounds_count": 24,
+      "winner_team_id": 3820,
+      "loser_team_id": 20008,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-27T16:20:48.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124253,
+      "rounds_count": 24,
+      "winner_team_id": 20008,
+      "loser_team_id": 3820,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-27T15:04:17.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

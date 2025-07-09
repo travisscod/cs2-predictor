@@ -1,0 +1,56 @@
+{
+  "match_id": 82370,
+  "slug": "heroic-vs-gun5-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 759,
+  "team2_id": 8211,
+  "team1_name": "HEROIC",
+  "team2_name": "GUN5",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "HEROIC",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 121121,
+      "rounds_count": 15,
+      "winner_team_id": 759,
+      "loser_team_id": 8211,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-08T19:43:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 121122,
+      "rounds_count": 18,
+      "winner_team_id": 759,
+      "loser_team_id": 8211,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-08T18:56:28.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 121123,
+      "rounds_count": 24,
+      "winner_team_id": 8211,
+      "loser_team_id": 759,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-08T18:05:08.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-08"
+}

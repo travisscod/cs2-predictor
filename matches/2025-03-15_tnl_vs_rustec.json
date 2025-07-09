@@ -1,0 +1,30 @@
+{
+  "match_id": 83873,
+  "slug": "next-level-vs-rustec-15-03-2025",
+  "bo_type": 1,
+  "team1_id": 10528,
+  "team2_id": 10446,
+  "team1_name": "TNL",
+  "team2_name": "RUSTEC",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "TNL",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 123475,
+      "rounds_count": 20,
+      "winner_team_id": 10528,
+      "loser_team_id": 10446,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-15T15:14:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

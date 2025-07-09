@@ -1,0 +1,33 @@
+{
+  "match_id": 73976,
+  "slug": "nrg-vs-make-your-mind-20-11-2024",
+  "bo_type": 3,
+  "team1_id": 751,
+  "team2_id": 18633,
+  "team1_name": "NRG",
+  "team2_name": "Make Your Mind",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "NRG",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 112454,
+      "begin_at": "2024-11-20T03:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 112455,
+      "begin_at": "2024-11-20T02:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3726",
+  "tournament_name": "Perseverance League: Persevere Division",
+  "scrape_date": "2024-11-20"
+}

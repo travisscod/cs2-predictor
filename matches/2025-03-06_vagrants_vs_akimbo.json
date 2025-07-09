@@ -1,0 +1,59 @@
+{
+  "match_id": 82978,
+  "slug": "vagrants-vs-akimbo-06-03-2025",
+  "bo_type": 3,
+  "team1_id": 9855,
+  "team2_id": 2438,
+  "team1_name": "Vagrants",
+  "team2_name": "Akimbo",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Vagrants",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 122302,
+      "rounds_count": 15,
+      "winner_team_id": 9855,
+      "loser_team_id": 2438,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-06T03:38:14.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 122303,
+      "rounds_count": 22,
+      "winner_team_id": 2438,
+      "loser_team_id": 9855,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-06T02:21:11.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 122304,
+      "rounds_count": 24,
+      "winner_team_id": 9855,
+      "loser_team_id": 2438,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-06T01:21:19.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-06"
+}

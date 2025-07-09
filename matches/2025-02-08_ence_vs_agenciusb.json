@@ -1,0 +1,25 @@
+{
+  "match_id": 80331,
+  "slug": "ence-vs-agenciusb-08-02-2025",
+  "bo_type": 1,
+  "team1_id": 754,
+  "team2_id": 19871,
+  "team1_name": "ENCE",
+  "team2_name": "AgenciUSB",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "ENCE",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 118301,
+      "begin_at": "2025-02-08T17:16:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4109",
+  "tournament_name": "Intel Extreme Masters Dallas 2025: European Open Qualifier",
+  "scrape_date": "2025-02-08"
+}

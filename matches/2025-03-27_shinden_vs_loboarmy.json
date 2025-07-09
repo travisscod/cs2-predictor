@@ -1,0 +1,43 @@
+{
+  "match_id": 85172,
+  "slug": "shinden-vs-loboarmy-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 11174,
+  "team2_id": 20335,
+  "team1_name": "ShindeN",
+  "team2_name": "LOBOARMY",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "ShindeN",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124402,
+      "rounds_count": 19,
+      "winner_team_id": 11174,
+      "loser_team_id": 20335,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-27T18:12:03.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124403,
+      "rounds_count": 14,
+      "winner_team_id": 11174,
+      "loser_team_id": 20335,
+      "winner_score": 11,
+      "loser_score": 2,
+      "begin_at": "2025-03-27T17:20:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-27"
+}

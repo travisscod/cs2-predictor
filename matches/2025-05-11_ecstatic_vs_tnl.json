@@ -1,0 +1,35 @@
+{
+  "match_id": 88222,
+  "slug": "ecstatic-vs-next-level-11-05-2025",
+  "bo_type": 1,
+  "team1_id": 2245,
+  "team2_id": 10528,
+  "team1_name": "ECSTATIC",
+  "team2_name": "TNL",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "TNL",
+  "games": [
+    {
+      "number": 3,
+      "map_id": 128264,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_id": 128265,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_id": 128266,
+      "status": "upcoming",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4205",
+  "tournament_name": "CCT Season 3 European Series 1",
+  "scrape_date": "2025-05-11"
+}

@@ -1,0 +1,35 @@
+{
+  "match_id": 91108,
+  "slug": "quem-sao-elas-vs-yawara-esports-16-06-2025",
+  "bo_type": 1,
+  "team1_id": 2790,
+  "team2_id": 3625,
+  "team1_name": "Quem Sao Elas",
+  "team2_name": "Yawara",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Yawara",
+  "games": [
+    {
+      "number": 3,
+      "map_id": 131977,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_id": 131978,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_id": 131979,
+      "status": "upcoming",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4509",
+  "tournament_name": "CCT Season 3 South American Series 1",
+  "scrape_date": "2025-06-17"
+}

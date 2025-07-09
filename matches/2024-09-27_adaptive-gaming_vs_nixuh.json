@@ -1,0 +1,41 @@
+{
+  "match_id": 69573,
+  "slug": "adaptive-gaming-vs-nixuh-27-09-2024",
+  "bo_type": 3,
+  "team1_id": 9843,
+  "team2_id": 4866,
+  "team1_name": "Adaptive Gaming",
+  "team2_name": "Nixuh",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Nixuh",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 106501,
+      "begin_at": "2024-09-27T14:10:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 106502,
+      "begin_at": "2024-09-27T13:25:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 106503,
+      "begin_at": "2024-09-27T12:50:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3552",
+  "tournament_name": "VS Gaming League Masters 2024",
+  "scrape_date": "2024-09-27"
+}

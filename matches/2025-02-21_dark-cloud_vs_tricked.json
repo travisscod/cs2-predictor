@@ -1,0 +1,59 @@
+{
+  "match_id": 81747,
+  "slug": "tricked-vs-dc-esports-21-02-2025",
+  "bo_type": 3,
+  "team1_id": 19823,
+  "team2_id": 647,
+  "team1_name": "Dark Cloud",
+  "team2_name": "Tricked",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Tricked",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 119834,
+      "rounds_count": 14,
+      "winner_team_id": 647,
+      "loser_team_id": 19823,
+      "winner_score": 13,
+      "loser_score": 1,
+      "begin_at": "2025-02-21T18:30:06.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 119835,
+      "rounds_count": 21,
+      "winner_team_id": 647,
+      "loser_team_id": 19823,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-02-21T17:39:29.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 119836,
+      "rounds_count": 23,
+      "winner_team_id": 19823,
+      "loser_team_id": 647,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-02-21T16:35:37.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

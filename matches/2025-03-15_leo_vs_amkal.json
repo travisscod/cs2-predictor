@@ -1,0 +1,30 @@
+{
+  "match_id": 83878,
+  "slug": "l-g-vs-amkal-15-03-2025",
+  "bo_type": 1,
+  "team1_id": 5933,
+  "team2_id": 9815,
+  "team1_name": "Leo",
+  "team2_name": "AMKAL",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "AMKAL",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 123480,
+      "rounds_count": 18,
+      "winner_team_id": 9815,
+      "loser_team_id": 5933,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-15T15:22:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

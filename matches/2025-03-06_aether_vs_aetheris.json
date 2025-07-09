@@ -1,0 +1,49 @@
+{
+  "match_id": 83262,
+  "slug": "team-aether-vs-aetheris-06-03-2025",
+  "bo_type": 3,
+  "team1_id": 10764,
+  "team2_id": 19128,
+  "team1_name": "Aether",
+  "team2_name": "Aetheris",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Aetheris",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 122756,
+      "rounds_count": 21,
+      "winner_team_id": 19128,
+      "loser_team_id": 10764,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-06T19:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 122757,
+      "rounds_count": 23,
+      "winner_team_id": 19128,
+      "loser_team_id": 10764,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-06T18:36:26.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 3,
+      "map_id": 122937,
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-06"
+}

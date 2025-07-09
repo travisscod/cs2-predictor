@@ -1,0 +1,43 @@
+{
+  "match_id": 82877,
+  "slug": "semperfi-esports-vs-eruption-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 11042,
+  "team2_id": 1248,
+  "team1_name": "SemperFi",
+  "team2_name": "Eruption",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Eruption",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 122174,
+      "rounds_count": 24,
+      "winner_team_id": 1248,
+      "loser_team_id": 11042,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-07T08:23:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 122175,
+      "rounds_count": 19,
+      "winner_team_id": 1248,
+      "loser_team_id": 11042,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-07T07:38:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-07"
+}

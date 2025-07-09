@@ -1,0 +1,41 @@
+{
+  "match_id": 69576,
+  "slug": "nixuh-vs-exceed-28-09-2024",
+  "bo_type": 3,
+  "team1_id": 4866,
+  "team2_id": 10409,
+  "team1_name": "Nixuh",
+  "team2_name": "Exceed",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Exceed",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 106511,
+      "winner_team_id": 10409,
+      "loser_team_id": 4866,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2024-09-28T13:05:53.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 106512,
+      "winner_team_id": 10409,
+      "loser_team_id": 4866,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-09-28T12:15:45.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3552",
+  "tournament_name": "VS Gaming League Masters 2024",
+  "scrape_date": "2024-09-28"
+}

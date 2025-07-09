@@ -1,0 +1,25 @@
+{
+  "match_id": 56679,
+  "slug": "gods-reign-vs-bromo-26-08-2024",
+  "bo_type": 1,
+  "team1_id": 6283,
+  "team2_id": 10824,
+  "team1_name": "Gods Reign",
+  "team2_name": "Bromo",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Bromo",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 101988,
+      "begin_at": "2024-08-26T12:11:13.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2559",
+  "tournament_name": "ESL Challenger League Season 48: Asia",
+  "scrape_date": "2024-08-26"
+}

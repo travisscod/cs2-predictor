@@ -1,0 +1,41 @@
+{
+  "match_id": 70760,
+  "slug": "devils-one-vs-ep-genesis-15-10-2024",
+  "bo_type": 3,
+  "team1_id": 635,
+  "team2_id": 10081,
+  "team1_name": "devils.one",
+  "team2_name": "Enterprise Gen",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "devils.one",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 108294,
+      "begin_at": "2024-10-15T16:12:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 3,
+      "map_name": "de_vertigo",
+      "map_id": 108295,
+      "begin_at": "2024-10-15T18:15:38.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 108296,
+      "begin_at": "2024-10-15T17:17:06.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3529",
+  "tournament_name": "T-esports Championship Season 3",
+  "scrape_date": "2024-10-15"
+}

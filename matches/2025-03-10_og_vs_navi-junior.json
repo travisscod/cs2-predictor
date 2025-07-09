@@ -1,0 +1,56 @@
+{
+  "match_id": 82390,
+  "slug": "og-vs-natus-vincere-junior-10-03-2025",
+  "bo_type": 3,
+  "team1_id": 395,
+  "team2_id": 441,
+  "team1_name": "OG",
+  "team2_name": "NAVI Junior",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "OG",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 121181,
+      "rounds_count": 23,
+      "winner_team_id": 395,
+      "loser_team_id": 441,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-10T17:11:08.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 121182,
+      "rounds_count": 23,
+      "winner_team_id": 395,
+      "loser_team_id": 441,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-10T16:06:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 121183,
+      "rounds_count": 22,
+      "winner_team_id": 441,
+      "loser_team_id": 395,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-10T15:08:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-10"
+}

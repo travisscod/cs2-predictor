@@ -1,0 +1,45 @@
+{
+  "match_id": 85301,
+  "slug": "oddik-vs-elevate-e-sport-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 3370,
+  "team2_id": 1313,
+  "team1_name": "ODDIK",
+  "team2_name": "Elevate",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "ODDIK",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124784,
+      "rounds_count": 28,
+      "winner_team_id": 3370,
+      "loser_team_id": 1313,
+      "winner_score": 16,
+      "loser_score": 12,
+      "begin_at": "2025-03-29T00:32:23.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124785,
+      "rounds_count": 23,
+      "winner_team_id": 3370,
+      "loser_team_id": 1313,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-28T23:18:52.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-29"
+}

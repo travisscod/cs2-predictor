@@ -1,0 +1,41 @@
+{
+  "match_id": 84720,
+  "slug": "lazer-cats-vs-next-level-22-03-2025",
+  "bo_type": 3,
+  "team1_id": 10528,
+  "team2_id": 5391,
+  "team1_name": "TNL",
+  "team2_name": "Lazer Cats",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "TNL",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124113,
+      "winner_team_id": 10528,
+      "loser_team_id": 5391,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-22T17:14:06.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124114,
+      "winner_team_id": 10528,
+      "loser_team_id": 5391,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-22T16:23:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4297",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 3",
+  "scrape_date": "2025-03-22"
+}

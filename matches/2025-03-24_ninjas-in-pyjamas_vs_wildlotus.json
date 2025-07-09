@@ -1,0 +1,29 @@
+{
+  "match_id": 84808,
+  "slug": "wildlotus-vs-nip-24-03-2025",
+  "bo_type": 1,
+  "team1_id": 785,
+  "team2_id": 20008,
+  "team1_name": "Ninjas in Pyjamas",
+  "team2_name": "WildLotus",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "WildLotus",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124172,
+      "winner_team_id": 20008,
+      "loser_team_id": 785,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-24T22:43:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4303",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 4",
+  "scrape_date": "2025-03-24"
+}

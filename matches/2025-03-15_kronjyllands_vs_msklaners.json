@@ -1,0 +1,30 @@
+{
+  "match_id": 83879,
+  "slug": "kronjyllands-esport-vs-msklaners-15-03-2025",
+  "bo_type": 1,
+  "team1_id": 4924,
+  "team2_id": 7388,
+  "team1_name": "Kronjyllands",
+  "team2_name": "mskLANERS",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "mskLANERS",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 123481,
+      "rounds_count": 16,
+      "winner_team_id": 7388,
+      "loser_team_id": 4924,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-15T15:16:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

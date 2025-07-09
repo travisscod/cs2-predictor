@@ -1,0 +1,31 @@
+{
+  "match_id": 81742,
+  "slug": "copenhagen-wolves-vs-tricked-21-02-2025",
+  "bo_type": 1,
+  "team1_id": 9817,
+  "team2_id": 647,
+  "team1_name": "CPH Wolves",
+  "team2_name": "Tricked",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Tricked",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 119823,
+      "rounds_count": 15,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 6,
+      "loser_score": 9,
+      "begin_at": "2025-02-21T15:16:33.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

@@ -1,0 +1,43 @@
+{
+  "match_id": 84037,
+  "slug": "ecstatic-vs-betera-17-03-2025",
+  "bo_type": 3,
+  "team1_id": 2245,
+  "team2_id": 7641,
+  "team1_name": "ECSTATIC",
+  "team2_name": "Betera",
+  "team1_score": 1,
+  "team2_score": 1,
+  "winner_team": "draw",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 123646,
+      "rounds_count": 16,
+      "winner_team_id": 2245,
+      "loser_team_id": 7641,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-17T17:11:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 123647,
+      "rounds_count": 2,
+      "winner_team_id": 7641,
+      "loser_team_id": 2245,
+      "winner_score": 1,
+      "loser_score": 0,
+      "begin_at": "2025-03-17T16:16:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

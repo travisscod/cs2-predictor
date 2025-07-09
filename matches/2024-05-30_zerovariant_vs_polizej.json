@@ -1,0 +1,43 @@
+{
+  "match_id": 51173,
+  "slug": "zerovariant-vs-polizej-30-05-2024",
+  "bo_type": 3,
+  "team1_id": 10665,
+  "team2_id": 10664,
+  "team1_name": "ZEROvariant",
+  "team2_name": "polizej",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "ZEROvariant",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 92854,
+      "rounds_count": 21,
+      "winner_team_id": 10665,
+      "loser_team_id": 10664,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-05-30T18:55:05.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 92855,
+      "rounds_count": 23,
+      "winner_team_id": 10665,
+      "loser_team_id": 10664,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2024-05-30T18:03:44.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2801",
+  "tournament_name": "Winline Pro League Season 1",
+  "scrape_date": "2024-05-30"
+}

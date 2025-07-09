@@ -1,0 +1,43 @@
+{
+  "match_id": 88172,
+  "slug": "jijiehao-vs-lynn-vision-08-05-2025",
+  "bo_type": 3,
+  "team1_id": 3869,
+  "team2_id": 476,
+  "team1_name": "JiJieHao",
+  "team2_name": "Lynn Vision",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "JiJieHao",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 128133,
+      "rounds_count": 21,
+      "winner_team_id": 3869,
+      "loser_team_id": 476,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-05-08T08:20:56.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 128134,
+      "rounds_count": 34,
+      "winner_team_id": 3869,
+      "loser_team_id": 476,
+      "winner_score": 19,
+      "loser_score": 15,
+      "begin_at": "2025-05-08T06:52:37.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4017",
+  "tournament_name": "Asian Champions League 2025",
+  "scrape_date": "2025-05-08"
+}

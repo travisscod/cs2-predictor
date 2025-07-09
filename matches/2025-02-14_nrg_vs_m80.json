@@ -1,0 +1,41 @@
+{
+  "match_id": 80904,
+  "slug": "nrg-vs-m80-cs-go-14-02-2025",
+  "bo_type": 3,
+  "team1_id": 751,
+  "team2_id": 7430,
+  "team1_name": "NRG",
+  "team2_name": "M80",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "M80",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 119053,
+      "winner_team_id": 7430,
+      "loser_team_id": 751,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-02-14T17:54:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 119054,
+      "winner_team_id": 7430,
+      "loser_team_id": 751,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-02-14T17:04:58.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4139",
+  "tournament_name": "Ace North American Masters Spring 2025",
+  "scrape_date": "2025-02-14"
+}

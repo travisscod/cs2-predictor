@@ -1,0 +1,1114 @@
+2025-06-25 13:14:05,437 - INFO - Starting main pipeline...
+2025-06-25 13:14:05,439 - INFO - Created directory: ./matches
+2025-06-25 13:14:05,439 - INFO - Created directory: ./dataset
+2025-06-25 13:14:05,439 - INFO - Created directory: ./model
+2025-06-25 13:14:05,439 - INFO - Created directory: ./predictions
+2025-06-25 13:14:05,595 - INFO - Deleted 46 old match files.
+2025-06-25 13:14:05,725 - INFO - Downloading matches for the past 14 days...
+2025-06-25 13:14:05,725 - INFO - Fetching matches for 2025-06-25...
+2025-06-25 13:14:07,432 - INFO - 1 matches saved for 2025-06-25
+2025-06-25 13:14:08,641 - INFO - Fetching matches for 2025-06-24...
+2025-06-25 13:14:10,009 - ERROR - Empty response for map 132252
+2025-06-25 13:14:10,604 - ERROR - Empty response for map 132254
+2025-06-25 13:14:14,244 - INFO - 6 matches saved for 2025-06-24
+2025-06-25 13:14:15,446 - INFO - Fetching matches for 2025-06-23...
+2025-06-25 13:14:21,474 - INFO - 7 matches saved for 2025-06-23
+2025-06-25 13:14:22,680 - INFO - Fetching matches for 2025-06-22...
+2025-06-25 13:14:28,130 - ERROR - Empty response for map 132315
+2025-06-25 13:14:33,353 - INFO - 14 matches saved for 2025-06-22
+2025-06-25 13:14:34,558 - INFO - Fetching matches for 2025-06-21...
+2025-06-25 13:14:47,334 - INFO - 15 matches saved for 2025-06-21
+2025-06-25 13:14:48,544 - INFO - Fetching matches for 2025-06-20...
+2025-06-25 13:14:58,906 - INFO - 17 matches saved for 2025-06-20
+2025-06-25 13:15:00,117 - INFO - Fetching matches for 2025-06-19...
+2025-06-25 13:15:10,628 - INFO - 16 matches saved for 2025-06-19
+2025-06-25 13:15:11,838 - INFO - Fetching matches for 2025-06-18...
+2025-06-25 13:15:24,614 - INFO - 14 matches saved for 2025-06-18
+2025-06-25 13:15:25,819 - INFO - Fetching matches for 2025-06-17...
+2025-06-25 13:15:30,791 - ERROR - Empty response for map 131980
+2025-06-25 13:15:30,876 - ERROR - Empty response for map 131981
+2025-06-25 13:15:30,942 - ERROR - Empty response for map 131982
+2025-06-25 13:15:33,344 - ERROR - Empty response for map 131218
+2025-06-25 13:15:33,485 - ERROR - Empty response for map 131219
+2025-06-25 13:15:33,819 - ERROR - Empty response for map 131977
+2025-06-25 13:15:34,005 - ERROR - Empty response for map 131978
+2025-06-25 13:15:34,123 - ERROR - Empty response for map 131979
+2025-06-25 13:15:34,123 - INFO - 13 matches saved for 2025-06-17
+2025-06-25 13:15:35,323 - INFO - Fetching matches for 2025-06-16...
+2025-06-25 13:15:40,285 - ERROR - Empty response for map 131303
+2025-06-25 13:15:42,364 - ERROR - Empty response for map 131968
+2025-06-25 13:15:46,878 - INFO - 15 matches saved for 2025-06-16
+2025-06-25 13:15:48,081 - INFO - Fetching matches for 2025-06-15...
+2025-06-25 13:15:52,003 - ERROR - Empty response for map 131959
+2025-06-25 13:15:52,070 - ERROR - Empty response for map 131960
+2025-06-25 13:15:52,126 - ERROR - Empty response for map 131961
+2025-06-25 13:16:06,673 - INFO - 23 matches saved for 2025-06-15
+2025-06-25 13:16:07,881 - INFO - Fetching matches for 2025-06-14...
+2025-06-25 13:16:32,698 - INFO - 36 matches saved for 2025-06-14
+2025-06-25 13:16:33,903 - INFO - Fetching matches for 2025-06-13...
+2025-06-25 13:16:47,011 - INFO - 22 matches saved for 2025-06-13
+2025-06-25 13:16:48,220 - INFO - Fetching matches for 2025-06-12...
+2025-06-25 13:16:58,613 - ERROR - Empty response for map 131255
+2025-06-25 13:17:02,503 - INFO - 24 matches saved for 2025-06-12
+2025-06-25 13:17:03,708 - INFO - Done scraping match data.
+2025-06-25 13:17:03,710 - INFO - New matches found, updating player statistics...
+2025-06-25 13:17:03,710 - INFO - Updating player statistics database...
+2025-06-25 13:17:03,719 - INFO - Using existing database: player_stats.db
+2025-06-25 13:17:06,666 - ERROR - Error reading match file ./matches\2024-01-19_lynn-vision_vs_hui-tu-zhuan-sheng.json: 'charmap' codec can't decode byte 0x9d in position 4072: character maps to <undefined>
+2025-06-25 13:17:06,753 - ERROR - Error reading match file ./matches\2024-01-19_newhappy_vs_rare-atom.json: 'charmap' codec can't decode byte 0x8d in position 11985: character maps to <undefined>
+2025-06-25 13:17:06,769 - ERROR - Error reading match file ./matches\2024-01-19_newhappy_vs_tyloo.json: 'charmap' codec can't decode byte 0x8d in position 2437: character maps to <undefined>
+2025-06-25 13:17:07,249 - ERROR - Error reading match file ./matches\2024-01-20_newhappy_vs_steel-helmet.json: 'charmap' codec can't decode byte 0x8d in position 15268: character maps to <undefined>
+2025-06-25 13:17:07,386 - ERROR - Error reading match file ./matches\2024-01-20_steel-helmet_vs_hui-tu-zhuan-sheng.json: 'charmap' codec can't decode byte 0x9d in position 844: character maps to <undefined>
+2025-06-25 13:17:07,693 - ERROR - Error reading match file ./matches\2024-01-21_rare-atom_vs_newhappy.json: 'charmap' codec can't decode byte 0x8d in position 5641: character maps to <undefined>
+2025-06-25 13:17:08,301 - ERROR - Error reading match file ./matches\2024-01-26_lynn-vision_vs_nctdk.json: 'charmap' codec can't decode byte 0x90 in position 928: character maps to <undefined>
+2025-06-25 13:17:34,646 - ERROR - Error reading match file ./matches\2024-05-27_case_vs_hawks.json: 'charmap' codec can't decode byte 0x9d in position 11986: character maps to <undefined>
+2025-06-25 13:17:35,197 - ERROR - Error reading match file ./matches\2024-05-30_galorys_vs_hawks.json: 'charmap' codec can't decode byte 0x9d in position 836: character maps to <undefined>
+2025-06-25 13:17:35,434 - ERROR - Error reading match file ./matches\2024-05-31_vikings-kr_vs_hawks.json: 'charmap' codec can't decode byte 0x9d in position 7279: character maps to <undefined>
+2025-06-25 13:17:35,759 - ERROR - Error reading match file ./matches\2024-06-02_bounty-hunters_vs_hawks.json: 'charmap' codec can't decode byte 0x9d in position 13770: character maps to <undefined>
+2025-06-25 13:17:41,062 - ERROR - Error reading match file ./matches\2024-07-15_solid_vs_hawks.json: 'charmap' codec can't decode byte 0x9d in position 822: character maps to <undefined>
+2025-06-25 13:17:41,469 - ERROR - Error reading match file ./matches\2024-07-16_noobs-but-diligent_vs_clutch.json: 'charmap' codec can't decode byte 0x81 in position 10620: character maps to <undefined>
+2025-06-25 13:17:41,741 - ERROR - Error reading match file ./matches\2024-07-17_dewa-united_vs_noobs-but-diligent.json: 'charmap' codec can't decode byte 0x81 in position 13756: character maps to <undefined>
+2025-06-25 13:17:41,975 - ERROR - Error reading match file ./matches\2024-07-17_noobs-but-diligent_vs_dewa-united.json: 'charmap' codec can't decode byte 0x81 in position 2450: character maps to <undefined>
+2025-06-25 13:17:42,731 - ERROR - Error reading match file ./matches\2024-07-18_patins-da-ferrari_vs_hawks.json: 'charmap' codec can't decode byte 0x9d in position 12121: character maps to <undefined>
+2025-06-25 13:17:43,118 - ERROR - Error reading match file ./matches\2024-07-19_hawks_vs_furia-academy.json: 'charmap' codec can't decode byte 0x9d in position 15332: character maps to <undefined>
+2025-06-25 13:17:52,022 - ERROR - Error reading match file ./matches\2024-08-15_quazar_vs_roflan-squad.json: 'charmap' codec can't decode byte 0x8d in position 5677: character maps to <undefined>
+2025-06-25 13:17:56,114 - ERROR - Error reading match file ./matches\2024-08-29_sensei_vs_hawks.json: 'charmap' codec can't decode byte 0x9d in position 10286: character maps to <undefined>
+2025-06-25 13:18:00,701 - ERROR - Error reading match file ./matches\2024-09-23_favbet_vs_ww.json: 'charmap' codec can't decode byte 0x8d in position 13640: character maps to <undefined>
+2025-06-25 13:18:01,576 - ERROR - Error reading match file ./matches\2024-09-25_passion-ua_vs_ww.json: 'charmap' codec can't decode byte 0x8d in position 10707: character maps to <undefined>
+2025-06-25 13:18:02,275 - ERROR - Error reading match file ./matches\2024-09-27_endpoint_vs_ww.json: 'charmap' codec can't decode byte 0x8d in position 5629: character maps to <undefined>
+2025-06-25 13:18:02,634 - ERROR - Error reading match file ./matches\2024-09-29_monte-gen_vs_ww.json: 'charmap' codec can't decode byte 0x8d in position 2431: character maps to <undefined>
+2025-06-25 13:18:03,645 - ERROR - Error reading match file ./matches\2024-10-03_insilio_vs_ww.json: 'charmap' codec can't decode byte 0x8d in position 15260: character maps to <undefined>
+2025-06-25 13:18:04,618 - ERROR - Error reading match file ./matches\2024-10-08_eclot_vs_ww.json: 'charmap' codec can't decode byte 0x8d in position 10511: character maps to <undefined>
+2025-06-25 13:18:06,027 - ERROR - Error reading match file ./matches\2024-10-16_johnny-speeds_vs_ww.json: 'charmap' codec can't decode byte 0x8d in position 4008: character maps to <undefined>
+2025-06-25 13:18:06,905 - ERROR - Error reading match file ./matches\2024-10-22_gun5_vs_ww.json: 'charmap' codec can't decode byte 0x8d in position 35043: character maps to <undefined>
+2025-06-25 13:18:14,582 - ERROR - Error reading match file ./matches\2025-01-10_atox_vs_laishanhui.json: 'charmap' codec can't decode byte 0x81 in position 7255: character maps to <undefined>
+2025-06-25 13:18:47,093 - INFO - Updating player 1/2320: rp-14
+2025-06-25 13:18:48,452 - INFO - Updating player 2/2320: misfit-br
+2025-06-25 13:18:50,693 - INFO - Updating player 3/2320: sener1
+2025-06-25 13:18:54,301 - INFO - Updating player 4/2320: bibu
+2025-06-25 13:18:56,873 - INFO - Updating player 5/2320: keoz
+2025-06-25 13:19:04,397 - INFO - Updating player 6/2320: adams
+2025-06-25 13:19:08,621 - INFO - Updating player 7/2320: mankz
+2025-06-25 13:19:12,633 - INFO - Updating player 8/2320: chay
+2025-06-25 13:19:17,076 - INFO - Updating player 9/2320: orb1t
+2025-06-25 13:19:18,837 - INFO - Updating player 10/2320: slash
+2025-06-25 13:19:20,700 - INFO - Updating player 11/2320: daymake
+2025-06-25 13:19:22,717 - INFO - Updating player 12/2320: droid
+2025-06-25 13:19:24,939 - INFO - Updating player 13/2320: climax-cs
+2025-06-25 13:19:26,217 - INFO - Updating player 14/2320: sad
+2025-06-25 13:19:29,328 - INFO - Updating player 15/2320: nemanha
+2025-06-25 13:19:39,920 - INFO - Updating player 16/2320: winnieeeee
+2025-06-25 13:19:41,869 - INFO - Updating player 17/2320: sterzig
+2025-06-25 13:19:44,250 - INFO - Updating player 18/2320: jmx
+2025-06-25 13:19:45,550 - INFO - Updating player 19/2320: crepow
+2025-06-25 13:19:48,573 - INFO - Updating player 20/2320: matheos
+2025-06-25 13:19:50,430 - INFO - Updating player 21/2320: zewts
+2025-06-25 13:19:52,895 - INFO - Updating player 22/2320: nauh
+2025-06-25 13:19:54,947 - INFO - Updating player 23/2320: just-tiago-moura
+2025-06-25 13:20:02,394 - INFO - Updating player 24/2320: 4king
+2025-06-25 13:20:06,773 - INFO - Updating player 25/2320: twenty3
+2025-06-25 13:20:09,933 - INFO - Updating player 26/2320: jammie
+2025-06-25 13:20:14,435 - INFO - Updating player 27/2320: kade0
+2025-06-25 13:20:17,131 - INFO - Updating player 28/2320: n1xen
+2025-06-25 13:20:21,888 - INFO - Updating player 29/2320: huka1
+2025-06-25 13:20:23,204 - INFO - Updating player 30/2320: sbolt
+2025-06-25 13:20:24,540 - INFO - Updating player 31/2320: grape
+2025-06-25 13:20:29,606 - INFO - Updating player 32/2320: klameczka
+2025-06-25 13:20:38,533 - INFO - Updating player 33/2320: frontsider
+2025-06-25 13:20:41,445 - INFO - Updating player 34/2320: 0scar
+2025-06-25 13:20:43,141 - INFO - Updating player 35/2320: moree
+2025-06-25 13:20:45,885 - INFO - Updating player 36/2320: gafolo
+2025-06-25 13:20:52,958 - INFO - Updating player 37/2320: dytor
+2025-06-25 13:21:02,080 - INFO - Updating player 38/2320: shield
+2025-06-25 13:21:04,912 - INFO - Updating player 39/2320: timo-urugway
+2025-06-25 13:21:06,464 - INFO - Updating player 40/2320: god6y
+2025-06-25 13:21:09,129 - INFO - Updating player 41/2320: es3tag
+2025-06-25 13:21:11,528 - INFO - Updating player 42/2320: miku-ch
+2025-06-25 13:21:12,985 - INFO - Updating player 43/2320: stardust
+2025-06-25 13:21:15,274 - INFO - Updating player 44/2320: blvckm4gic
+2025-06-25 13:21:17,670 - INFO - Updating player 45/2320: serce
+2025-06-25 13:21:19,168 - INFO - Updating player 46/2320: nylice
+2025-06-25 13:21:20,615 - INFO - Updating player 47/2320: t3rrymeister
+2025-06-25 13:21:21,876 - INFO - Updating player 48/2320: behindx
+2025-06-25 13:21:23,624 - INFO - Updating player 49/2320: aviva
+2025-06-25 13:21:25,015 - INFO - Updating player 50/2320: hallzerk
+2025-06-25 13:21:28,284 - INFO - Updating player 51/2320: fnl
+2025-06-25 13:21:30,756 - INFO - Updating player 52/2320: aliaga
+2025-06-25 13:21:32,090 - INFO - Updating player 53/2320: snx
+2025-06-25 13:21:34,327 - INFO - Updating player 54/2320: jocab
+2025-06-25 13:21:36,654 - INFO - Updating player 55/2320: zyhan
+2025-06-25 13:21:38,097 - INFO - Updating player 56/2320: tried
+2025-06-25 13:21:39,702 - INFO - Updating player 57/2320: enkay-j
+2025-06-25 13:21:41,477 - INFO - Updating player 58/2320: parkjjong-cs
+2025-06-25 13:21:42,975 - INFO - Updating player 59/2320: ice-kz
+2025-06-25 13:21:45,595 - INFO - Updating player 60/2320: elk
+2025-06-25 13:21:47,364 - INFO - Updating player 61/2320: short
+2025-06-25 13:21:49,829 - INFO - Updating player 62/2320: dare
+2025-06-25 13:22:02,571 - INFO - Starting main pipeline...
+2025-06-25 13:22:02,572 - INFO - Created directory: ./matches
+2025-06-25 13:22:02,572 - INFO - Created directory: ./dataset
+2025-06-25 13:22:02,572 - INFO - Created directory: ./model
+2025-06-25 13:22:02,572 - INFO - Created directory: ./predictions
+2025-06-25 13:22:02,785 - INFO - Deleted 0 old match files.
+2025-06-25 13:22:02,925 - INFO - All matches up to today are already downloaded.
+2025-06-25 13:22:02,925 - INFO - No new matches, using existing model.
+2025-06-25 13:22:02,925 - INFO - Running predictions for nexus vs ruby...
+2025-06-25 13:22:02,925 - INFO - Using existing database: player_stats.db
+2025-06-25 13:22:30,416 - INFO - Prediction saved to ./predictions/nexus_vs_ruby_11-06-2025.json
+2025-06-25 13:22:31,076 - INFO - Prediction sent to Discord
+2025-06-25 13:22:31,086 - INFO - Pipeline completed successfully
+2025-06-25 20:02:48,793 - INFO - Starting main pipeline...
+2025-06-25 20:02:48,793 - INFO - Created directory: ./matches
+2025-06-25 20:02:48,794 - INFO - Created directory: ./dataset
+2025-06-25 20:02:48,794 - INFO - Created directory: ./model
+2025-06-25 20:02:48,795 - INFO - Created directory: ./predictions
+2025-06-25 20:02:48,867 - INFO - Deleted 0 old match files.
+2025-06-25 20:02:48,939 - INFO - All matches up to today are already downloaded.
+2025-06-25 20:02:48,939 - INFO - No new matches, using existing model.
+2025-06-25 20:02:48,940 - INFO - Running predictions for nexus vs ruby...
+2025-06-25 20:02:48,940 - INFO - Using existing database: player_stats.db
+2025-06-25 20:03:07,927 - INFO - Prediction saved to ./predictions/nexus_vs_ruby_11-06-2025.json
+2025-06-25 20:03:08,171 - INFO - Prediction sent to Discord
+2025-06-25 20:03:08,176 - INFO - Pipeline completed successfully
+2025-06-25 20:46:35,953 - INFO - Starting main pipeline...
+2025-06-25 20:46:35,953 - INFO - Created directory: ./matches
+2025-06-25 20:46:35,955 - INFO - Created directory: ./dataset
+2025-06-25 20:46:35,955 - INFO - Created directory: ./model
+2025-06-25 20:46:35,956 - INFO - Created directory: ./predictions
+2025-06-25 20:46:36,027 - INFO - Deleted 0 old match files.
+2025-06-25 20:46:36,097 - INFO - All matches up to today are already downloaded.
+2025-06-25 20:46:36,098 - INFO - No new matches, using existing model.
+2025-06-25 20:46:36,099 - INFO - Running predictions for nexus vs ruby...
+2025-06-25 20:46:36,099 - INFO - Using existing database: player_stats.db
+2025-06-25 20:46:57,815 - INFO - Prediction saved to ./predictions/nexus_vs_ruby_11-06-2025.json
+2025-06-25 20:46:58,312 - INFO - Prediction sent to Discord
+2025-06-25 20:46:58,390 - INFO - Latest match date found: 2025-06-25
+2025-06-25 20:46:58,390 - ERROR - Pipeline failed: 'datetime.datetime' object is not subscriptable
+2025-06-25 20:50:59,697 - INFO - Starting main pipeline...
+2025-06-25 20:50:59,697 - INFO - Created directory: ./matches
+2025-06-25 20:50:59,697 - INFO - Created directory: ./dataset
+2025-06-25 20:50:59,698 - INFO - Created directory: ./model
+2025-06-25 20:50:59,698 - INFO - Created directory: ./predictions
+2025-06-25 20:50:59,768 - INFO - Deleted 0 old match files.
+2025-06-25 20:50:59,836 - INFO - All matches up to today are already downloaded.
+2025-06-25 20:50:59,836 - INFO - No new matches, using existing model.
+2025-06-25 20:51:00,038 - INFO - Running predictions for 9z vs kru-cs...
+2025-06-25 20:51:00,039 - INFO - Using existing database: player_stats.db
+2025-06-25 20:51:19,876 - INFO - Prediction saved to ./predictions/9z_vs_kru-cs_25-06-2025.json
+2025-06-25 20:51:20,541 - INFO - Prediction sent to Discord
+2025-06-25 20:51:20,546 - ERROR - Invalid match URL format: https://bo3.gg/matches/largados_e_pelados-vs-america-esports-25-06-2025
+2025-06-25 20:51:20,546 - INFO - Pipeline completed successfully
+2025-06-25 20:53:07,432 - INFO - Starting main pipeline...
+2025-06-25 20:53:07,433 - INFO - Created directory: ./matches
+2025-06-25 20:53:07,433 - INFO - Created directory: ./dataset
+2025-06-25 20:53:07,433 - INFO - Created directory: ./model
+2025-06-25 20:53:07,433 - INFO - Created directory: ./predictions
+2025-06-25 20:53:07,507 - INFO - Deleted 0 old match files.
+2025-06-25 20:53:07,581 - INFO - All matches up to today are already downloaded.
+2025-06-25 20:53:07,581 - INFO - No new matches, using existing model.
+2025-06-25 20:53:08,026 - INFO - Running predictions for 9z vs kru-cs...
+2025-06-25 20:53:08,026 - INFO - Using existing database: player_stats.db
+2025-06-25 20:53:23,828 - INFO - Prediction saved to ./predictions/9z_vs_kru-cs_25-06-2025.json
+2025-06-25 20:53:24,123 - INFO - Prediction sent to Discord
+2025-06-25 20:53:24,128 - INFO - Running predictions for largados_e_pelados vs america-esports...
+2025-06-25 20:53:24,129 - INFO - Using existing database: player_stats.db
+2025-06-25 20:53:36,316 - INFO - Prediction saved to ./predictions/largados_e_pelados_vs_america-esports_25-06-2025.json
+2025-06-25 20:53:36,649 - INFO - Prediction sent to Discord
+2025-06-25 20:53:36,655 - INFO - Pipeline completed successfully
+2025-06-25 20:54:03,279 - INFO - Starting main pipeline...
+2025-06-25 20:54:03,279 - INFO - Created directory: ./matches
+2025-06-25 20:54:03,280 - INFO - Created directory: ./dataset
+2025-06-25 20:54:03,280 - INFO - Created directory: ./model
+2025-06-25 20:54:03,280 - INFO - Created directory: ./predictions
+2025-06-25 20:54:03,352 - INFO - Deleted 0 old match files.
+2025-06-25 20:54:03,422 - INFO - All matches up to today are already downloaded.
+2025-06-25 20:54:03,422 - INFO - No new matches, using existing model.
+2025-06-25 20:54:04,014 - INFO - Running predictions for nexus vs ruby...
+2025-06-25 20:54:04,015 - INFO - Using existing database: player_stats.db
+2025-06-25 20:54:25,585 - INFO - Prediction saved to ./predictions/nexus_vs_ruby_11-06-2025.json
+2025-06-25 20:54:26,198 - INFO - Prediction sent to Discord
+2025-06-25 20:54:26,204 - INFO - Pipeline completed successfully
+2025-06-25 20:59:22,533 - INFO - Starting main pipeline...
+2025-06-25 20:59:22,533 - INFO - Created directory: ./matches
+2025-06-25 20:59:22,534 - INFO - Created directory: ./dataset
+2025-06-25 20:59:22,534 - INFO - Created directory: ./model
+2025-06-25 20:59:22,534 - INFO - Created directory: ./predictions
+2025-06-25 20:59:22,633 - INFO - Deleted 0 old match files.
+2025-06-25 20:59:22,711 - INFO - All matches up to today are already downloaded.
+2025-06-25 20:59:22,712 - INFO - No new matches, using existing model.
+2025-06-25 20:59:23,163 - INFO - Running predictions for 9z vs kru-cs...
+2025-06-25 20:59:23,164 - INFO - Using existing database: player_stats.db
+2025-06-25 20:59:46,579 - INFO - Prediction saved to ./predictions/9z_vs_kru-cs_25-06-2025.json
+2025-06-25 20:59:46,861 - INFO - Prediction sent to Discord
+2025-06-25 20:59:46,867 - INFO - Prediction results:
+2025-06-25 20:59:46,868 - INFO - Pipeline completed successfully
+2025-06-25 21:14:41,987 - INFO - Starting main pipeline...
+2025-06-25 21:14:41,988 - INFO - Created directory: ./matches
+2025-06-25 21:14:41,988 - INFO - Created directory: ./dataset
+2025-06-25 21:14:41,988 - INFO - Created directory: ./model
+2025-06-25 21:14:41,989 - INFO - Created directory: ./predictions
+2025-06-25 21:14:42,068 - INFO - Deleted 0 old match files.
+2025-06-25 21:14:42,140 - INFO - All matches up to today are already downloaded.
+2025-06-25 21:14:42,140 - INFO - No new matches, using existing model.
+2025-06-25 21:14:42,214 - INFO - No predictions made.
+2025-06-25 21:14:42,214 - INFO - Pipeline completed successfully
+2025-06-25 21:23:11,085 - INFO - Starting main pipeline...
+2025-06-25 21:23:11,085 - INFO - Created directory: ./matches
+2025-06-25 21:23:11,085 - INFO - Created directory: ./dataset
+2025-06-25 21:23:11,086 - INFO - Created directory: ./model
+2025-06-25 21:23:11,086 - INFO - Created directory: ./predictions
+2025-06-25 21:23:11,160 - INFO - Deleted 0 old match files.
+2025-06-25 21:23:11,232 - INFO - All matches up to today are already downloaded.
+2025-06-25 21:23:11,232 - INFO - No new matches, using existing model.
+2025-06-25 21:23:11,531 - INFO - Running predictions for 9z vs kru-cs...
+2025-06-25 21:23:11,532 - INFO - Using existing database: player_stats.db
+2025-06-25 21:23:38,502 - INFO - Prediction saved to ./predictions/9z_vs_kru-cs_25-06-2025.json
+2025-06-25 21:23:38,789 - INFO - Prediction sent to Discord
+2025-06-25 21:23:38,795 - INFO - Prediction results:
+2025-06-25 21:23:38,795 - ERROR - Pipeline failed: could not convert string to float: ''
+2025-06-25 21:24:02,030 - INFO - Starting main pipeline...
+2025-06-25 21:24:02,031 - INFO - Created directory: ./matches
+2025-06-25 21:24:02,031 - INFO - Created directory: ./dataset
+2025-06-25 21:24:02,031 - INFO - Created directory: ./model
+2025-06-25 21:24:02,031 - INFO - Created directory: ./predictions
+2025-06-25 21:24:02,106 - INFO - Deleted 0 old match files.
+2025-06-25 21:24:02,178 - INFO - All matches up to today are already downloaded.
+2025-06-25 21:24:02,179 - INFO - No new matches, using existing model.
+2025-06-25 21:24:02,491 - INFO - Running predictions for 9z vs kru-cs...
+2025-06-25 21:24:02,492 - INFO - Using existing database: player_stats.db
+2025-06-25 21:24:18,326 - INFO - Prediction saved to ./predictions/9z_vs_kru-cs_25-06-2025.json
+2025-06-25 21:24:18,578 - INFO - Prediction sent to Discord
+2025-06-25 21:24:18,583 - INFO - Prediction results:
+2025-06-25 21:24:18,584 - ERROR - Pipeline failed: could not convert string to float: ''
+2025-06-30 02:46:36,830 - INFO - Starting main pipeline...
+2025-06-30 02:46:36,830 - INFO - Created directory: ./matches
+2025-06-30 02:46:36,831 - INFO - Created directory: ./dataset
+2025-06-30 02:46:36,831 - INFO - Created directory: ./model
+2025-06-30 02:46:36,831 - INFO - Created directory: ./predictions
+2025-06-30 02:46:37,130 - INFO - Deleted 0 old match files.
+2025-06-30 02:46:37,199 - INFO - Downloading matches for the past 5 days...
+2025-06-30 02:46:37,200 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 02:46:37,382 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 02:46:38,583 - INFO - Fetching matches for 2025-06-29...
+2025-06-30 02:46:40,078 - INFO - 2 matches saved for 2025-06-29
+2025-06-30 02:46:41,279 - INFO - Fetching matches for 2025-06-28...
+2025-06-30 02:46:43,568 - INFO - 3 matches saved for 2025-06-28
+2025-06-30 02:46:44,768 - INFO - Fetching matches for 2025-06-27...
+2025-06-30 02:46:46,290 - INFO - 3 matches saved for 2025-06-27
+2025-06-30 02:46:47,490 - INFO - Fetching matches for 2025-06-26...
+2025-06-30 02:46:51,047 - INFO - 6 matches saved for 2025-06-26
+2025-06-30 02:46:52,248 - INFO - Done scraping match data.
+2025-06-30 02:46:52,249 - INFO - New matches found, updating player statistics...
+2025-06-30 02:46:52,249 - INFO - Updating player statistics database...
+2025-06-30 02:46:52,251 - INFO - Using existing database: player_stats.db
+2025-06-30 02:46:53,342 - ERROR - Error reading match file ./matches\2024-01-19_lynn-vision_vs_hui-tu-zhuan-sheng.json: 'charmap' codec can't decode byte 0x9d in position 4072: character maps to <undefined>
+2025-06-30 02:46:53,375 - ERROR - Error reading match file ./matches\2024-01-19_newhappy_vs_rare-atom.json: 'charmap' codec can't decode byte 0x8d in position 11985: character maps to <undefined>
+2025-06-30 02:46:53,379 - ERROR - Error reading match file ./matches\2024-01-19_newhappy_vs_tyloo.json: 'charmap' codec can't decode byte 0x8d in position 2437: character maps to <undefined>
+2025-06-30 02:46:53,568 - ERROR - Error reading match file ./matches\2024-01-20_newhappy_vs_steel-helmet.json: 'charmap' codec can't decode byte 0x8d in position 15268: character maps to <undefined>
+2025-06-30 02:46:53,630 - ERROR - Error reading match file ./matches\2024-01-20_steel-helmet_vs_hui-tu-zhuan-sheng.json: 'charmap' codec can't decode byte 0x9d in position 844: character maps to <undefined>
+2025-06-30 02:46:53,753 - ERROR - Error reading match file ./matches\2024-01-21_rare-atom_vs_newhappy.json: 'charmap' codec can't decode byte 0x8d in position 5641: character maps to <undefined>
+2025-06-30 02:46:54,011 - ERROR - Error reading match file ./matches\2024-01-26_lynn-vision_vs_nctdk.json: 'charmap' codec can't decode byte 0x90 in position 928: character maps to <undefined>
+2025-06-30 02:47:54,003 - INFO - Starting main pipeline...
+2025-06-30 02:47:54,003 - INFO - Created directory: ./matches
+2025-06-30 02:47:54,003 - INFO - Created directory: ./dataset
+2025-06-30 02:47:54,003 - INFO - Created directory: ./model
+2025-06-30 02:47:54,004 - INFO - Created directory: ./predictions
+2025-06-30 02:47:54,074 - INFO - Deleted 0 old match files.
+2025-06-30 02:47:54,142 - INFO - Downloading matches for the past 1 days...
+2025-06-30 02:47:54,143 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 02:47:54,709 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 02:47:55,910 - INFO - Done scraping match data.
+2025-06-30 02:47:55,910 - INFO - No new matches, using existing model.
+2025-06-30 02:47:57,020 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 02:48:38,729 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 02:48:38,730 - INFO - Using existing database: player_stats.db
+2025-06-30 02:48:39,390 - ERROR - Error running prediction: 'NoneType' object is not iterable
+2025-06-30 02:48:39,395 - INFO - No predictions made.
+2025-06-30 02:48:39,395 - INFO - Pipeline completed successfully
+2025-06-30 02:49:47,157 - INFO - Starting main pipeline...
+2025-06-30 02:49:47,158 - INFO - Created directory: ./matches
+2025-06-30 02:49:47,158 - INFO - Created directory: ./dataset
+2025-06-30 02:49:47,158 - INFO - Created directory: ./model
+2025-06-30 02:49:47,158 - INFO - Created directory: ./predictions
+2025-06-30 02:49:47,228 - INFO - Deleted 0 old match files.
+2025-06-30 02:49:47,298 - INFO - Downloading matches for the past 1 days...
+2025-06-30 02:49:47,298 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 02:49:47,812 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 02:49:49,012 - INFO - Done scraping match data.
+2025-06-30 02:49:49,013 - INFO - No new matches, using existing model.
+2025-06-30 02:49:50,010 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 02:50:09,902 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 02:50:09,903 - INFO - Using existing database: player_stats.db
+2025-06-30 02:50:10,675 - ERROR - Error running prediction: 'NoneType' object is not iterable
+2025-06-30 02:50:10,680 - INFO - No predictions made.
+2025-06-30 02:50:10,680 - INFO - Pipeline completed successfully
+2025-06-30 02:51:27,959 - INFO - Starting main pipeline...
+2025-06-30 02:51:27,959 - INFO - Created directory: ./matches
+2025-06-30 02:51:27,959 - INFO - Created directory: ./dataset
+2025-06-30 02:51:27,959 - INFO - Created directory: ./model
+2025-06-30 02:51:27,960 - INFO - Created directory: ./predictions
+2025-06-30 02:51:28,029 - INFO - Deleted 0 old match files.
+2025-06-30 02:51:28,099 - INFO - Downloading matches for the past 1 days...
+2025-06-30 02:51:28,099 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 02:51:28,614 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 02:51:29,815 - INFO - Done scraping match data.
+2025-06-30 02:51:29,815 - INFO - No new matches, using existing model.
+2025-06-30 02:51:30,493 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 02:51:50,538 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 02:51:50,539 - INFO - Using existing database: player_stats.db
+2025-06-30 02:51:59,351 - ERROR - Error running prediction: cannot access local variable 'team1_odds' where it is not associated with a value
+2025-06-30 02:51:59,356 - INFO - No predictions made.
+2025-06-30 02:51:59,356 - INFO - Pipeline completed successfully
+2025-06-30 02:53:04,563 - INFO - Starting main pipeline...
+2025-06-30 02:53:04,563 - INFO - Created directory: ./matches
+2025-06-30 02:53:04,563 - INFO - Created directory: ./dataset
+2025-06-30 02:53:04,563 - INFO - Created directory: ./model
+2025-06-30 02:53:04,564 - INFO - Created directory: ./predictions
+2025-06-30 02:53:04,635 - INFO - Deleted 0 old match files.
+2025-06-30 02:53:04,707 - INFO - Downloading matches for the past 1 days...
+2025-06-30 02:53:04,707 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 02:53:04,816 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 02:53:06,016 - INFO - Done scraping match data.
+2025-06-30 02:53:06,017 - INFO - No new matches, using existing model.
+2025-06-30 02:53:06,619 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 02:53:27,742 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 02:53:27,742 - INFO - Using existing database: player_stats.db
+2025-06-30 02:53:34,785 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 02:53:35,517 - INFO - Prediction sent to Discord
+2025-06-30 02:53:35,522 - INFO - Prediction results:
+2025-06-30 02:53:35,523 - ERROR - Pipeline failed: could not convert string to float: ''
+2025-06-30 02:54:35,295 - INFO - Starting main pipeline...
+2025-06-30 02:54:35,296 - INFO - Created directory: ./matches
+2025-06-30 02:54:35,296 - INFO - Created directory: ./dataset
+2025-06-30 02:54:35,296 - INFO - Created directory: ./model
+2025-06-30 02:54:35,297 - INFO - Created directory: ./predictions
+2025-06-30 02:54:35,366 - INFO - Deleted 0 old match files.
+2025-06-30 02:54:35,435 - INFO - Downloading matches for the past 1 days...
+2025-06-30 02:54:35,436 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 02:54:36,298 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 02:54:37,498 - INFO - Done scraping match data.
+2025-06-30 02:54:37,499 - INFO - No new matches, using existing model.
+2025-06-30 02:54:38,124 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 02:54:58,593 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 02:54:58,594 - INFO - Using existing database: player_stats.db
+2025-06-30 02:55:03,033 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 02:55:03,302 - INFO - Prediction sent to Discord
+2025-06-30 02:55:03,306 - INFO - Prediction results:
+2025-06-30 02:55:03,307 - ERROR - Pipeline failed: could not convert string to float: ''
+2025-06-30 02:55:23,462 - INFO - Starting main pipeline...
+2025-06-30 02:55:23,462 - INFO - Created directory: ./matches
+2025-06-30 02:55:23,462 - INFO - Created directory: ./dataset
+2025-06-30 02:55:23,462 - INFO - Created directory: ./model
+2025-06-30 02:55:23,463 - INFO - Created directory: ./predictions
+2025-06-30 02:55:23,532 - INFO - Deleted 0 old match files.
+2025-06-30 02:55:23,601 - INFO - Downloading matches for the past 1 days...
+2025-06-30 02:55:23,602 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 02:55:23,706 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 02:55:24,907 - INFO - Done scraping match data.
+2025-06-30 02:55:24,908 - INFO - No new matches, using existing model.
+2025-06-30 02:55:25,486 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 02:55:45,925 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 02:55:45,925 - INFO - Using existing database: player_stats.db
+2025-06-30 02:55:49,919 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 02:55:50,215 - INFO - Prediction sent to Discord
+2025-06-30 02:55:50,219 - INFO - Prediction results:
+2025-06-30 02:55:50,220 - ERROR - Pipeline failed: could not convert string to float: ''
+2025-06-30 02:57:30,231 - INFO - Starting main pipeline...
+2025-06-30 02:57:30,231 - INFO - Created directory: ./matches
+2025-06-30 02:57:30,232 - INFO - Created directory: ./dataset
+2025-06-30 02:57:30,232 - INFO - Created directory: ./model
+2025-06-30 02:57:30,232 - INFO - Created directory: ./predictions
+2025-06-30 02:57:30,302 - INFO - Deleted 0 old match files.
+2025-06-30 02:57:30,370 - INFO - Downloading matches for the past 1 days...
+2025-06-30 02:57:30,371 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 02:57:30,480 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 02:57:31,682 - INFO - Done scraping match data.
+2025-06-30 02:57:31,682 - INFO - No new matches, using existing model.
+2025-06-30 02:57:32,349 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 02:57:52,748 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 02:57:52,748 - INFO - Using existing database: player_stats.db
+2025-06-30 02:57:56,553 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 02:57:56,878 - INFO - Prediction sent to Discord
+2025-06-30 02:57:56,882 - INFO - Pipeline completed successfully
+2025-06-30 03:04:00,057 - INFO - Starting main pipeline...
+2025-06-30 03:04:00,058 - INFO - Created directory: ./matches
+2025-06-30 03:04:00,058 - INFO - Created directory: ./dataset
+2025-06-30 03:04:00,058 - INFO - Created directory: ./model
+2025-06-30 03:04:00,058 - INFO - Created directory: ./predictions
+2025-06-30 03:04:00,127 - INFO - Deleted 0 old match files.
+2025-06-30 03:04:00,196 - INFO - Downloading matches for the past 1 days...
+2025-06-30 03:04:00,196 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 03:04:00,458 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 03:04:01,659 - INFO - Done scraping match data.
+2025-06-30 03:04:01,659 - INFO - No new matches, using existing model.
+2025-06-30 03:04:02,665 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 03:04:22,520 - INFO - Running predictions for desempregueidos vs c969841742...
+2025-06-30 03:04:22,520 - INFO - Using existing database: player_stats.db
+2025-06-30 03:04:23,109 - ERROR - Error fetching data from /teams/c969841742: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c969841742
+2025-06-30 03:04:23,109 - ERROR - Could not get team players
+2025-06-30 03:04:23,113 - INFO - Pipeline completed successfully
+2025-06-30 03:08:10,546 - INFO - Starting main pipeline...
+2025-06-30 03:08:10,546 - INFO - Created directory: ./matches
+2025-06-30 03:08:10,546 - INFO - Created directory: ./dataset
+2025-06-30 03:08:10,546 - INFO - Created directory: ./model
+2025-06-30 03:08:10,547 - INFO - Created directory: ./predictions
+2025-06-30 03:08:10,618 - INFO - Deleted 0 old match files.
+2025-06-30 03:08:10,690 - INFO - Downloading matches for the past 1 days...
+2025-06-30 03:08:10,690 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 03:08:10,884 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 03:08:12,085 - INFO - Done scraping match data.
+2025-06-30 03:08:12,085 - INFO - No new matches, using existing model.
+2025-06-30 03:08:12,837 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 03:08:33,697 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 03:08:33,698 - INFO - Using existing database: player_stats.db
+2025-06-30 03:08:40,368 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 03:08:40,631 - INFO - Prediction sent to Discord
+2025-06-30 03:08:40,636 - INFO - Pipeline completed successfully
+2025-06-30 03:10:16,512 - INFO - Starting main pipeline...
+2025-06-30 03:10:16,512 - INFO - Created directory: ./matches
+2025-06-30 03:10:16,512 - INFO - Created directory: ./dataset
+2025-06-30 03:10:16,513 - INFO - Created directory: ./model
+2025-06-30 03:10:16,513 - INFO - Created directory: ./predictions
+2025-06-30 03:10:16,585 - INFO - Deleted 0 old match files.
+2025-06-30 03:10:16,655 - INFO - Downloading matches for the past 1 days...
+2025-06-30 03:10:16,656 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 03:10:16,843 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 03:10:18,044 - INFO - Done scraping match data.
+2025-06-30 03:10:18,045 - INFO - No new matches, using existing model.
+2025-06-30 03:10:18,841 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 03:10:38,800 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 03:10:38,801 - INFO - Using existing database: player_stats.db
+2025-06-30 03:10:46,946 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 03:10:47,214 - INFO - Prediction sent to Discord
+2025-06-30 03:10:47,218 - INFO - Pipeline completed successfully
+2025-06-30 03:12:08,071 - INFO - Starting main pipeline...
+2025-06-30 03:12:08,071 - INFO - Created directory: ./matches
+2025-06-30 03:12:08,072 - INFO - Created directory: ./dataset
+2025-06-30 03:12:08,072 - INFO - Created directory: ./model
+2025-06-30 03:12:08,072 - INFO - Created directory: ./predictions
+2025-06-30 03:12:08,142 - INFO - Deleted 0 old match files.
+2025-06-30 03:12:08,213 - INFO - Downloading matches for the past 1 days...
+2025-06-30 03:12:08,214 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 03:12:08,378 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 03:12:09,579 - INFO - Done scraping match data.
+2025-06-30 03:12:09,580 - INFO - No new matches, using existing model.
+2025-06-30 03:12:10,303 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 03:12:31,178 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 03:12:31,179 - INFO - Using existing database: player_stats.db
+2025-06-30 03:12:35,099 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 03:12:35,461 - INFO - Prediction sent to Discord
+2025-06-30 03:12:35,467 - INFO - Pipeline completed successfully
+2025-06-30 03:17:54,765 - INFO - Starting main pipeline...
+2025-06-30 03:17:54,765 - INFO - Created directory: ./matches
+2025-06-30 03:17:54,765 - INFO - Created directory: ./dataset
+2025-06-30 03:17:54,766 - INFO - Created directory: ./model
+2025-06-30 03:17:54,766 - INFO - Created directory: ./predictions
+2025-06-30 03:17:54,839 - INFO - Deleted 0 old match files.
+2025-06-30 03:17:54,911 - INFO - Downloading matches for the past 1 days...
+2025-06-30 03:17:54,911 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 03:17:55,390 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 03:17:56,591 - INFO - Done scraping match data.
+2025-06-30 03:17:56,592 - INFO - No new matches, using existing model.
+2025-06-30 03:17:58,204 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 03:18:18,804 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 03:18:18,805 - INFO - Using existing database: player_stats.db
+2025-06-30 03:18:27,555 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 03:18:27,925 - INFO - Prediction sent to Discord
+2025-06-30 03:18:27,929 - INFO - Pipeline completed successfully
+2025-06-30 03:20:16,784 - INFO - Starting main pipeline...
+2025-06-30 03:20:16,785 - INFO - Created directory: ./matches
+2025-06-30 03:20:16,785 - INFO - Created directory: ./dataset
+2025-06-30 03:20:16,786 - INFO - Created directory: ./model
+2025-06-30 03:20:16,786 - INFO - Created directory: ./predictions
+2025-06-30 03:20:16,858 - INFO - Deleted 0 old match files.
+2025-06-30 03:20:16,930 - INFO - Downloading matches for the past 1 days...
+2025-06-30 03:20:16,931 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 03:20:17,103 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 03:20:18,304 - INFO - Done scraping match data.
+2025-06-30 03:20:18,304 - INFO - No new matches, using existing model.
+2025-06-30 03:20:20,146 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 03:20:41,175 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 03:20:41,175 - INFO - Using existing database: player_stats.db
+2025-06-30 03:20:45,601 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 03:20:46,105 - INFO - Prediction sent to Discord
+2025-06-30 03:20:46,110 - INFO - Pipeline completed successfully
+2025-06-30 03:21:15,640 - INFO - Starting main pipeline...
+2025-06-30 03:21:15,640 - INFO - Created directory: ./matches
+2025-06-30 03:21:15,641 - INFO - Created directory: ./dataset
+2025-06-30 03:21:15,641 - INFO - Created directory: ./model
+2025-06-30 03:21:15,641 - INFO - Created directory: ./predictions
+2025-06-30 03:21:15,713 - INFO - Deleted 0 old match files.
+2025-06-30 03:21:15,786 - INFO - Downloading matches for the past 1 days...
+2025-06-30 03:21:15,787 - INFO - Fetching matches for 2025-06-30...
+2025-06-30 03:21:15,875 - INFO - 0 matches saved for 2025-06-30
+2025-06-30 03:21:17,075 - INFO - Done scraping match data.
+2025-06-30 03:21:17,076 - INFO - No new matches, using existing model.
+2025-06-30 03:21:18,459 - INFO - patching driver executable C:\Users\larsjadde\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-30 03:21:38,998 - INFO - Running predictions for gun5 vs hesta...
+2025-06-30 03:21:38,998 - INFO - Using existing database: player_stats.db
+2025-06-30 03:21:42,976 - INFO - Prediction saved to ./predictions/gun5_vs_hesta_30-06-2025.json
+2025-06-30 03:21:43,227 - INFO - Prediction sent to Discord
+2025-06-30 03:21:43,231 - ERROR - Invalid match URL format: https://bo3.gg/matches/tpudcatb-tpu-vs-forze-reload-30-06-2025
+2025-06-30 03:21:43,231 - INFO - Running predictions for selva vs bounty-hunters-esports...
+2025-06-30 03:21:43,231 - INFO - Using existing database: player_stats.db
+2025-06-30 03:21:55,705 - INFO - Prediction saved to ./predictions/selva_vs_bounty-hunters-esports_30-06-2025.json
+2025-06-30 03:21:56,040 - INFO - Prediction sent to Discord
+2025-06-30 03:21:56,045 - INFO - Running predictions for prestige vs genone...
+2025-06-30 03:21:56,046 - INFO - Using existing database: player_stats.db
+2025-06-30 03:21:59,447 - INFO - Prediction saved to ./predictions/prestige_vs_genone_30-06-2025.json
+2025-06-30 03:21:59,724 - INFO - Prediction sent to Discord
+2025-06-30 03:21:59,729 - INFO - Running predictions for megoshort vs xi-esport...
+2025-06-30 03:21:59,729 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:00,216 - ERROR - Could not get team players
+2025-06-30 03:22:00,221 - INFO - Running predictions for atrivm vs algo...
+2025-06-30 03:22:00,221 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:04,797 - INFO - Prediction saved to ./predictions/atrivm_vs_algo_30-06-2025.json
+2025-06-30 03:22:05,093 - INFO - Prediction sent to Discord
+2025-06-30 03:22:05,097 - INFO - Running predictions for esc vs aab-esport...
+2025-06-30 03:22:05,097 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:13,753 - INFO - Prediction saved to ./predictions/esc_vs_aab-esport_30-06-2025.json
+2025-06-30 03:22:14,115 - INFO - Prediction sent to Discord
+2025-06-30 03:22:14,119 - ERROR - Invalid match URL format: https://bo3.gg/matches/baks-esports-vs-quazar-30-06-2025
+2025-06-30 03:22:14,120 - ERROR - Invalid match URL format: https://bo3.gg/matches/misa-esports-cs-vs-abyss-team-30-06-2025
+2025-06-30 03:22:14,120 - ERROR - Invalid match URL format: https://bo3.gg/matches/fisher-college-vs-fightclub-30-06-2025
+2025-06-30 03:22:14,121 - INFO - Running predictions for desempregueidos vs a0ee7e842d...
+2025-06-30 03:22:14,121 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:14,569 - ERROR - Error fetching data from /teams/a0ee7e842d: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/a0ee7e842d
+2025-06-30 03:22:14,569 - ERROR - Could not get team players
+2025-06-30 03:22:14,573 - INFO - Running predictions for rosy vs heroic-academy...
+2025-06-30 03:22:14,574 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:15,036 - ERROR - Could not get team players
+2025-06-30 03:22:15,041 - INFO - Running predictions for modeame vs team-novaq...
+2025-06-30 03:22:15,041 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:21,416 - INFO - Prediction saved to ./predictions/modeame_vs_team-novaq_01-07-2025.json
+2025-06-30 03:22:21,712 - INFO - Prediction sent to Discord
+2025-06-30 03:22:21,719 - INFO - Running predictions for amkal vs eyeballers...
+2025-06-30 03:22:21,719 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:31,631 - INFO - Prediction saved to ./predictions/amkal_vs_eyeballers_01-07-2025.json
+2025-06-30 03:22:32,189 - INFO - Prediction sent to Discord
+2025-06-30 03:22:32,193 - INFO - Running predictions for e20b7370e8 vs 758a7a470e...
+2025-06-30 03:22:32,194 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:32,461 - ERROR - Error fetching data from /teams/e20b7370e8: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/e20b7370e8
+2025-06-30 03:22:32,545 - ERROR - Error fetching data from /teams/758a7a470e: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/758a7a470e
+2025-06-30 03:22:32,545 - ERROR - Could not get team players
+2025-06-30 03:22:32,549 - ERROR - Invalid match URL format: https://bo3.gg/matches/alliance-cs-vs-team-novaq-01-07-2025
+2025-06-30 03:22:32,549 - INFO - Running predictions for marius vs anonymo-esports...
+2025-06-30 03:22:32,550 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:37,075 - INFO - Prediction saved to ./predictions/marius_vs_anonymo-esports_01-07-2025.json
+2025-06-30 03:22:37,506 - INFO - Prediction sent to Discord
+2025-06-30 03:22:37,511 - INFO - Running predictions for 23afca39bb vs 17090d077a...
+2025-06-30 03:22:37,512 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:37,801 - ERROR - Error fetching data from /teams/23afca39bb: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/23afca39bb
+2025-06-30 03:22:37,949 - ERROR - Error fetching data from /teams/17090d077a: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/17090d077a
+2025-06-30 03:22:37,949 - ERROR - Could not get team players
+2025-06-30 03:22:37,955 - ERROR - Invalid match URL format: https://bo3.gg/matches/fisher-college-vs-wildcard-academy-01-07-2025
+2025-06-30 03:22:37,955 - INFO - Running predictions for b508faa0ef vs 6493f759ba...
+2025-06-30 03:22:37,956 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:38,229 - ERROR - Error fetching data from /teams/b508faa0ef: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/b508faa0ef
+2025-06-30 03:22:38,304 - ERROR - Error fetching data from /teams/6493f759ba: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/6493f759ba
+2025-06-30 03:22:38,304 - ERROR - Could not get team players
+2025-06-30 03:22:38,308 - INFO - Running predictions for boss vs 8fd815a2fa...
+2025-06-30 03:22:38,308 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:38,802 - ERROR - Error fetching data from /teams/8fd815a2fa: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/8fd815a2fa
+2025-06-30 03:22:38,802 - ERROR - Could not get team players
+2025-06-30 03:22:38,806 - INFO - Running predictions for 1win vs wopa-esport...
+2025-06-30 03:22:38,806 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:47,204 - INFO - Prediction saved to ./predictions/1win_vs_wopa-esport_01-07-2025.json
+2025-06-30 03:22:47,531 - INFO - Prediction sent to Discord
+2025-06-30 03:22:47,534 - ERROR - Invalid match URL format: https://bo3.gg/matches/big-academy-vs-energyultra-01-07-2025
+2025-06-30 03:22:47,535 - ERROR - Invalid match URL format: https://bo3.gg/matches/flame-sharks-vs-minlate-01-07-2025
+2025-06-30 03:22:47,535 - ERROR - Invalid match URL format: https://bo3.gg/matches/fish123-cs-vs-los-kogutos-01-07-2025
+2025-06-30 03:22:47,535 - ERROR - Invalid match URL format: https://bo3.gg/matches/volt-sweden-vs-brute-01-07-2025
+2025-06-30 03:22:47,535 - ERROR - Invalid match URL format: https://bo3.gg/matches/big-academy-vs-ghoulsw-01-07-2025
+2025-06-30 03:22:47,536 - INFO - Running predictions for energyultra vs aab-esport...
+2025-06-30 03:22:47,536 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:52,219 - INFO - Prediction saved to ./predictions/energyultra_vs_aab-esport_01-07-2025.json
+2025-06-30 03:22:52,536 - INFO - Prediction sent to Discord
+2025-06-30 03:22:52,540 - ERROR - Invalid match URL format: https://bo3.gg/matches/northern-lights-vs-basement-boys-01-07-2025
+2025-06-30 03:22:52,540 - INFO - Running predictions for hyperspirit vs phantom-esports...
+2025-06-30 03:22:52,541 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:57,942 - INFO - Prediction saved to ./predictions/hyperspirit_vs_phantom-esports_01-07-2025.json
+2025-06-30 03:22:58,213 - INFO - Prediction sent to Discord
+2025-06-30 03:22:58,219 - INFO - Running predictions for 5c796cba02 vs 149827f6bd...
+2025-06-30 03:22:58,219 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:58,758 - ERROR - Error fetching data from /teams/5c796cba02: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/5c796cba02
+2025-06-30 03:22:58,838 - ERROR - Error fetching data from /teams/149827f6bd: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/149827f6bd
+2025-06-30 03:22:58,839 - ERROR - Could not get team players
+2025-06-30 03:22:58,842 - ERROR - Invalid match URL format: https://bo3.gg/matches/tpudcatb-tpu-vs-qmistry-02-07-2025
+2025-06-30 03:22:58,842 - ERROR - Invalid match URL format: https://bo3.gg/matches/ex-sabre-vs-aab-esport-02-07-2025
+2025-06-30 03:22:58,842 - ERROR - Invalid match URL format: https://bo3.gg/matches/fire-flux-vs-forze-reload-02-07-2025
+2025-06-30 03:22:58,842 - INFO - Running predictions for marius vs de1c4e7fe0...
+2025-06-30 03:22:58,843 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:59,192 - ERROR - Error fetching data from /teams/de1c4e7fe0: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/de1c4e7fe0
+2025-06-30 03:22:59,193 - ERROR - Could not get team players
+2025-06-30 03:22:59,196 - INFO - Running predictions for 44c860dbfc vs e20ff37802...
+2025-06-30 03:22:59,196 - INFO - Using existing database: player_stats.db
+2025-06-30 03:22:59,463 - ERROR - Error fetching data from /teams/44c860dbfc: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/44c860dbfc
+2025-06-30 03:22:59,567 - ERROR - Error fetching data from /teams/e20ff37802: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/e20ff37802
+2025-06-30 03:22:59,567 - ERROR - Could not get team players
+2025-06-30 03:22:59,570 - INFO - Running predictions for amkal vs eyeballers...
+2025-06-30 03:22:59,570 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:03,462 - INFO - Prediction saved to ./predictions/amkal_vs_eyeballers_02-07-2025.json
+2025-06-30 03:23:03,705 - INFO - Prediction sent to Discord
+2025-06-30 03:23:03,709 - INFO - Running predictions for 4575dd60e1 vs 32d903b398...
+2025-06-30 03:23:03,709 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:03,975 - ERROR - Error fetching data from /teams/4575dd60e1: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/4575dd60e1
+2025-06-30 03:23:04,061 - ERROR - Error fetching data from /teams/32d903b398: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/32d903b398
+2025-06-30 03:23:04,061 - ERROR - Could not get team players
+2025-06-30 03:23:04,064 - ERROR - Invalid match URL format: https://bo3.gg/matches/mana-esports-vs-wopa-esport-02-07-2025
+2025-06-30 03:23:04,065 - ERROR - Invalid match URL format: https://bo3.gg/matches/volt-sweden-vs-genone-02-07-2025
+2025-06-30 03:23:04,065 - ERROR - Invalid match URL format: https://bo3.gg/matches/alliance-cs-vs-copenhagen-wolves-02-07-2025
+2025-06-30 03:23:04,065 - INFO - Running predictions for wildlotus vs xi-esport...
+2025-06-30 03:23:04,065 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:14,363 - INFO - Prediction saved to ./predictions/wildlotus_vs_xi-esport_02-07-2025.json
+2025-06-30 03:23:14,655 - INFO - Prediction sent to Discord
+2025-06-30 03:23:14,658 - INFO - Running predictions for aa96d4ae44 vs 63334154d3...
+2025-06-30 03:23:14,658 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:14,904 - ERROR - Error fetching data from /teams/aa96d4ae44: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/aa96d4ae44
+2025-06-30 03:23:14,998 - ERROR - Error fetching data from /teams/63334154d3: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/63334154d3
+2025-06-30 03:23:14,999 - ERROR - Could not get team players
+2025-06-30 03:23:15,002 - INFO - Running predictions for 1f7a911e2d vs 1e362ca8bc...
+2025-06-30 03:23:15,002 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:15,301 - ERROR - Error fetching data from /teams/1f7a911e2d: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/1f7a911e2d
+2025-06-30 03:23:15,374 - ERROR - Error fetching data from /teams/1e362ca8bc: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/1e362ca8bc
+2025-06-30 03:23:15,374 - ERROR - Could not get team players
+2025-06-30 03:23:15,379 - INFO - Running predictions for be0fdc7855 vs ad30ab0810...
+2025-06-30 03:23:15,380 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:15,648 - ERROR - Error fetching data from /teams/be0fdc7855: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/be0fdc7855
+2025-06-30 03:23:15,724 - ERROR - Error fetching data from /teams/ad30ab0810: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/ad30ab0810
+2025-06-30 03:23:15,725 - ERROR - Could not get team players
+2025-06-30 03:23:15,728 - ERROR - Invalid match URL format: https://bo3.gg/matches/copenhagen-wolves-vs-nxt-cs-03-07-2025
+2025-06-30 03:23:15,728 - ERROR - Invalid match URL format: https://bo3.gg/matches/fire-flux-vs-esc-03-07-2025
+2025-06-30 03:23:15,728 - INFO - Running predictions for 4687a20112 vs a33d3d0da2...
+2025-06-30 03:23:15,729 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:16,015 - ERROR - Error fetching data from /teams/4687a20112: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/4687a20112
+2025-06-30 03:23:16,101 - ERROR - Error fetching data from /teams/a33d3d0da2: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/a33d3d0da2
+2025-06-30 03:23:16,101 - ERROR - Could not get team players
+2025-06-30 03:23:16,104 - INFO - Running predictions for 5b5f44e25f vs 582042731e...
+2025-06-30 03:23:16,104 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:16,361 - ERROR - Error fetching data from /teams/5b5f44e25f: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/5b5f44e25f
+2025-06-30 03:23:16,435 - ERROR - Error fetching data from /teams/582042731e: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/582042731e
+2025-06-30 03:23:16,435 - ERROR - Could not get team players
+2025-06-30 03:23:16,439 - ERROR - Invalid match URL format: https://bo3.gg/matches/mana-esports-vs-fish123-cs-03-07-2025
+2025-06-30 03:23:16,439 - ERROR - Invalid match URL format: https://bo3.gg/matches/basement-boys-vs-masonic-03-07-2025
+2025-06-30 03:23:16,439 - ERROR - Invalid match URL format: https://bo3.gg/matches/forze-reload-vs-big-academy-03-07-2025
+2025-06-30 03:23:16,440 - INFO - Running predictions for prestige vs northern-lights...
+2025-06-30 03:23:16,440 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:18,639 - INFO - Prediction saved to ./predictions/prestige_vs_northern-lights_03-07-2025.json
+2025-06-30 03:23:18,995 - INFO - Prediction sent to Discord
+2025-06-30 03:23:18,999 - INFO - Running predictions for 7191b7ca39 vs 10acb9f616...
+2025-06-30 03:23:18,999 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:19,366 - ERROR - Error fetching data from /teams/7191b7ca39: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/7191b7ca39
+2025-06-30 03:23:19,444 - ERROR - Error fetching data from /teams/10acb9f616: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/10acb9f616
+2025-06-30 03:23:19,444 - ERROR - Could not get team players
+2025-06-30 03:23:19,448 - INFO - Running predictions for 142ede1788 vs 1bdba4bbf9...
+2025-06-30 03:23:19,449 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:19,708 - ERROR - Error fetching data from /teams/142ede1788: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/142ede1788
+2025-06-30 03:23:20,446 - ERROR - Error fetching data from /teams/1bdba4bbf9: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/1bdba4bbf9
+2025-06-30 03:23:20,447 - ERROR - Could not get team players
+2025-06-30 03:23:20,450 - INFO - Running predictions for 7cc831b518 vs 3de0de01b2...
+2025-06-30 03:23:20,450 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:20,720 - ERROR - Error fetching data from /teams/7cc831b518: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/7cc831b518
+2025-06-30 03:23:20,795 - ERROR - Error fetching data from /teams/3de0de01b2: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/3de0de01b2
+2025-06-30 03:23:20,795 - ERROR - Could not get team players
+2025-06-30 03:23:20,799 - INFO - Running predictions for 08cf855add vs ba7b2be4a6...
+2025-06-30 03:23:20,799 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:21,578 - ERROR - Error fetching data from /teams/08cf855add: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/08cf855add
+2025-06-30 03:23:21,659 - ERROR - Error fetching data from /teams/ba7b2be4a6: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/ba7b2be4a6
+2025-06-30 03:23:21,659 - ERROR - Could not get team players
+2025-06-30 03:23:21,662 - INFO - Running predictions for 86f2b7dba6 vs ade3dd189f...
+2025-06-30 03:23:21,663 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:22,050 - ERROR - Error fetching data from /teams/86f2b7dba6: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/86f2b7dba6
+2025-06-30 03:23:22,133 - ERROR - Error fetching data from /teams/ade3dd189f: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/ade3dd189f
+2025-06-30 03:23:22,134 - ERROR - Could not get team players
+2025-06-30 03:23:22,137 - INFO - Running predictions for 5a47b84f2c vs 9c3b21f501...
+2025-06-30 03:23:22,137 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:22,646 - ERROR - Error fetching data from /teams/5a47b84f2c: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/5a47b84f2c
+2025-06-30 03:23:22,861 - ERROR - Error fetching data from /teams/9c3b21f501: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/9c3b21f501
+2025-06-30 03:23:22,862 - ERROR - Could not get team players
+2025-06-30 03:23:22,865 - INFO - Running predictions for 280ba887f7 vs 9d24c94efa...
+2025-06-30 03:23:22,865 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:23,129 - ERROR - Error fetching data from /teams/280ba887f7: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/280ba887f7
+2025-06-30 03:23:23,231 - ERROR - Error fetching data from /teams/9d24c94efa: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/9d24c94efa
+2025-06-30 03:23:23,231 - ERROR - Could not get team players
+2025-06-30 03:23:23,234 - INFO - Running predictions for 355fa9feeb vs 588ab87838...
+2025-06-30 03:23:23,234 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:23,499 - ERROR - Error fetching data from /teams/355fa9feeb: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/355fa9feeb
+2025-06-30 03:23:23,578 - ERROR - Error fetching data from /teams/588ab87838: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/588ab87838
+2025-06-30 03:23:23,578 - ERROR - Could not get team players
+2025-06-30 03:23:23,581 - INFO - Running predictions for d2b5bcf1bc vs b9c8d1fd6c...
+2025-06-30 03:23:23,582 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:23,844 - ERROR - Error fetching data from /teams/d2b5bcf1bc: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/d2b5bcf1bc
+2025-06-30 03:23:23,926 - ERROR - Error fetching data from /teams/b9c8d1fd6c: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/b9c8d1fd6c
+2025-06-30 03:23:23,927 - ERROR - Could not get team players
+2025-06-30 03:23:23,930 - INFO - Running predictions for 87eb6dace9 vs ac9eaca38d...
+2025-06-30 03:23:23,931 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:24,195 - ERROR - Error fetching data from /teams/87eb6dace9: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/87eb6dace9
+2025-06-30 03:23:24,298 - ERROR - Error fetching data from /teams/ac9eaca38d: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/ac9eaca38d
+2025-06-30 03:23:24,299 - ERROR - Could not get team players
+2025-06-30 03:23:24,302 - INFO - Running predictions for 3ed7a61104 vs 919ebb2e39...
+2025-06-30 03:23:24,302 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:24,744 - ERROR - Error fetching data from /teams/3ed7a61104: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/3ed7a61104
+2025-06-30 03:23:24,851 - ERROR - Error fetching data from /teams/919ebb2e39: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/919ebb2e39
+2025-06-30 03:23:24,852 - ERROR - Could not get team players
+2025-06-30 03:23:24,855 - INFO - Running predictions for fbdd0f30e8 vs 2ceee3fbb5...
+2025-06-30 03:23:24,855 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:25,149 - ERROR - Error fetching data from /teams/fbdd0f30e8: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/fbdd0f30e8
+2025-06-30 03:23:25,229 - ERROR - Error fetching data from /teams/2ceee3fbb5: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/2ceee3fbb5
+2025-06-30 03:23:25,230 - ERROR - Could not get team players
+2025-06-30 03:23:25,234 - INFO - Running predictions for e5621a98fa vs 2d4b315807...
+2025-06-30 03:23:25,234 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:25,513 - ERROR - Error fetching data from /teams/e5621a98fa: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/e5621a98fa
+2025-06-30 03:23:25,776 - ERROR - Error fetching data from /teams/2d4b315807: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/2d4b315807
+2025-06-30 03:23:25,777 - ERROR - Could not get team players
+2025-06-30 03:23:25,780 - INFO - Running predictions for 51eaa2d35a vs 4fdf037dca...
+2025-06-30 03:23:25,781 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:26,055 - ERROR - Error fetching data from /teams/51eaa2d35a: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/51eaa2d35a
+2025-06-30 03:23:26,162 - ERROR - Error fetching data from /teams/4fdf037dca: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/4fdf037dca
+2025-06-30 03:23:26,162 - ERROR - Could not get team players
+2025-06-30 03:23:26,166 - INFO - Running predictions for 6c3612c171 vs 2ce245a559...
+2025-06-30 03:23:26,166 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:26,426 - ERROR - Error fetching data from /teams/6c3612c171: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/6c3612c171
+2025-06-30 03:23:26,505 - ERROR - Error fetching data from /teams/2ce245a559: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/2ce245a559
+2025-06-30 03:23:26,505 - ERROR - Could not get team players
+2025-06-30 03:23:26,509 - INFO - Running predictions for 3341451a14 vs 879e939102...
+2025-06-30 03:23:26,509 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:26,760 - ERROR - Error fetching data from /teams/3341451a14: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/3341451a14
+2025-06-30 03:23:26,838 - ERROR - Error fetching data from /teams/879e939102: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/879e939102
+2025-06-30 03:23:26,838 - ERROR - Could not get team players
+2025-06-30 03:23:26,841 - INFO - Running predictions for 521a8ee882 vs eec60a50ac...
+2025-06-30 03:23:26,842 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:27,105 - ERROR - Error fetching data from /teams/521a8ee882: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/521a8ee882
+2025-06-30 03:23:27,186 - ERROR - Error fetching data from /teams/eec60a50ac: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/eec60a50ac
+2025-06-30 03:23:27,186 - ERROR - Could not get team players
+2025-06-30 03:23:27,189 - INFO - Running predictions for 955e4c232a vs 22524c3ed4...
+2025-06-30 03:23:27,190 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:27,555 - ERROR - Error fetching data from /teams/955e4c232a: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/955e4c232a
+2025-06-30 03:23:27,679 - ERROR - Error fetching data from /teams/22524c3ed4: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/22524c3ed4
+2025-06-30 03:23:27,680 - ERROR - Could not get team players
+2025-06-30 03:23:27,684 - INFO - Running predictions for c1a4f2edd2 vs 878eb5b74f...
+2025-06-30 03:23:27,685 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:27,963 - ERROR - Error fetching data from /teams/c1a4f2edd2: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c1a4f2edd2
+2025-06-30 03:23:28,033 - ERROR - Error fetching data from /teams/878eb5b74f: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/878eb5b74f
+2025-06-30 03:23:28,033 - ERROR - Could not get team players
+2025-06-30 03:23:28,037 - INFO - Running predictions for 7cd86211f7 vs 9f80ec1a70...
+2025-06-30 03:23:28,037 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:28,317 - ERROR - Error fetching data from /teams/7cd86211f7: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/7cd86211f7
+2025-06-30 03:23:28,394 - ERROR - Error fetching data from /teams/9f80ec1a70: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/9f80ec1a70
+2025-06-30 03:23:28,395 - ERROR - Could not get team players
+2025-06-30 03:23:28,398 - INFO - Running predictions for 5ed767de66 vs c04332bb73...
+2025-06-30 03:23:28,398 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:29,515 - ERROR - Error fetching data from /teams/5ed767de66: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/5ed767de66
+2025-06-30 03:23:29,592 - ERROR - Error fetching data from /teams/c04332bb73: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c04332bb73
+2025-06-30 03:23:29,592 - ERROR - Could not get team players
+2025-06-30 03:23:29,595 - INFO - Running predictions for 47a078a0b2 vs a379b4ac3a...
+2025-06-30 03:23:29,596 - INFO - Using existing database: player_stats.db
+2025-06-30 03:23:29,888 - ERROR - Error fetching data from /teams/47a078a0b2: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/47a078a0b2
+2025-06-30 03:23:29,968 - ERROR - Error fetching data from /teams/a379b4ac3a: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/a379b4ac3a
+2025-06-30 03:23:29,968 - ERROR - Could not get team players
+2025-06-30 03:23:29,971 - INFO - Pipeline completed successfully
+2025-07-01 16:10:43,186 - INFO - Starting main pipeline...
+2025-07-01 16:10:43,187 - INFO - Created directory: ./matches
+2025-07-01 16:10:43,187 - INFO - Created directory: ./dataset
+2025-07-01 16:10:43,187 - INFO - Created directory: ./model
+2025-07-01 16:10:43,188 - INFO - Created directory: ./predictions
+2025-07-01 16:10:43,312 - INFO - Deleted 0 old match files.
+2025-07-01 16:10:43,443 - INFO - Downloading matches for the past 2 days...
+2025-07-01 16:10:43,443 - INFO - Fetching matches for 2025-07-01...
+2025-07-01 16:10:46,275 - INFO - 3 matches saved for 2025-07-01
+2025-07-01 16:10:47,486 - INFO - Fetching matches for 2025-06-30...
+2025-07-01 16:10:51,811 - INFO - 4 matches saved for 2025-06-30
+2025-07-01 16:10:53,020 - INFO - Done scraping match data.
+2025-07-01 16:10:53,021 - INFO - New matches found, updating player statistics...
+2025-07-01 16:10:53,021 - INFO - Updating player statistics database...
+2025-07-01 16:10:53,025 - INFO - Using existing database: player_stats.db
+2025-07-01 16:10:57,113 - INFO - Updating player 1/2338: aleksib
+2025-07-01 16:11:00,787 - INFO - Updating player 2/2338: sk0r
+2025-07-01 16:11:03,508 - INFO - Updating player 3/2338: brehze
+2025-07-01 16:11:06,919 - INFO - Updating player 4/2338: ryk9
+2025-07-01 16:11:08,564 - INFO - Updating player 5/2338: jabbi
+2025-07-01 16:11:11,880 - INFO - Updating player 6/2338: pop0v
+2025-07-01 16:11:13,587 - INFO - Updating player 7/2338: sebasen
+2025-07-01 16:11:15,062 - INFO - Updating player 8/2338: hatred-tr-n-ng-c-d-ng
+2025-07-01 16:11:16,536 - INFO - Updating player 9/2338: righi-br
+2025-07-01 16:11:18,774 - INFO - Updating player 10/2338: osee
+2025-07-01 16:11:22,652 - INFO - Updating player 11/2338: kaziken
+2025-07-01 16:11:24,338 - INFO - Updating player 12/2338: teses
+2025-07-01 16:11:30,988 - INFO - Starting main pipeline...
+2025-07-01 16:11:30,988 - INFO - Created directory: ./matches
+2025-07-01 16:11:30,989 - INFO - Created directory: ./dataset
+2025-07-01 16:11:30,989 - INFO - Created directory: ./model
+2025-07-01 16:11:30,989 - INFO - Created directory: ./predictions
+2025-07-01 16:11:31,117 - INFO - Deleted 0 old match files.
+2025-07-01 16:11:31,238 - INFO - All matches up to today are already downloaded.
+2025-07-01 16:11:31,239 - INFO - No new matches, using existing model.
+2025-07-01 16:11:34,261 - INFO - patching driver executable C:\Users\Alfre\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-01 16:11:42,666 - ERROR - Pipeline failed: Message: session not created: cannot connect to chrome at 127.0.0.1:51448
+from session not created: This version of ChromeDriver only supports Chrome version 138
+Current browser version is 137.0.7151.120; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0xfd4553+62419]
+	GetHandleVerifier [0x0xfd4594+62484]
+	(No symbol) [0x0xe12133]
+	(No symbol) [0x0xe4bfab]
+	(No symbol) [0x0xe4afc9]
+	(No symbol) [0x0xe4132f]
+	(No symbol) [0x0xe41166]
+	(No symbol) [0x0xe8af3e]
+	(No symbol) [0x0xe8a82a]
+	(No symbol) [0x0xe7f266]
+	(No symbol) [0x0xe4e852]
+	(No symbol) [0x0xe4f6f4]
+	GetHandleVerifier [0x0x1244833+2619059]
+	GetHandleVerifier [0x0x123fc4a+2599626]
+	GetHandleVerifier [0x0xffb0fa+221050]
+	GetHandleVerifier [0x0xfeb378+156152]
+	GetHandleVerifier [0x0xff1d2d+183213]
+	GetHandleVerifier [0x0xfdc438+94904]
+	GetHandleVerifier [0x0xfdc5c2+95298]
+	GetHandleVerifier [0x0xfc771a+9626]
+	BaseThreadInitThunk [0x0x76ae5d49+25]
+	RtlInitializeExceptionChain [0x0x77c5ce3b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77c5cdc1+561]
+
+2025-07-01 16:13:52,457 - INFO - Starting main pipeline...
+2025-07-01 16:13:52,459 - INFO - Created directory: ./matches
+2025-07-01 16:13:52,460 - INFO - Created directory: ./dataset
+2025-07-01 16:13:52,460 - INFO - Created directory: ./model
+2025-07-01 16:13:52,461 - INFO - Created directory: ./predictions
+2025-07-01 16:13:52,702 - INFO - Deleted 0 old match files.
+2025-07-01 16:13:52,913 - INFO - All matches up to today are already downloaded.
+2025-07-01 16:13:52,914 - INFO - No new matches, using existing model.
+2025-07-01 16:13:56,127 - INFO - patching driver executable C:\Users\Alfre\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-01 16:14:11,666 - ERROR - Pipeline failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0xbe4553+62419]
+	GetHandleVerifier [0x0xbe4594+62484]
+	(No symbol) [0x0xa22133]
+	(No symbol) [0x0xa11b40]
+	(No symbol) [0x0xa2f912]
+	(No symbol) [0x0xa95d6c]
+	(No symbol) [0x0xab0159]
+	(No symbol) [0x0xa8f266]
+	(No symbol) [0x0xa5e852]
+	(No symbol) [0x0xa5f6f4]
+	GetHandleVerifier [0x0xe54833+2619059]
+	GetHandleVerifier [0x0xe4fc4a+2599626]
+	GetHandleVerifier [0x0xc0b0fa+221050]
+	GetHandleVerifier [0x0xbfb378+156152]
+	GetHandleVerifier [0x0xc01d2d+183213]
+	GetHandleVerifier [0x0xbec438+94904]
+	GetHandleVerifier [0x0xbec5c2+95298]
+	GetHandleVerifier [0x0xbd771a+9626]
+	BaseThreadInitThunk [0x0x76ae5d49+25]
+	RtlInitializeExceptionChain [0x0x77c5ce3b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x77c5cdc1+561]
+
+2025-07-01 16:15:23,586 - INFO - Starting main pipeline...
+2025-07-01 16:15:23,586 - INFO - Created directory: ./matches
+2025-07-01 16:15:23,586 - INFO - Created directory: ./dataset
+2025-07-01 16:15:23,586 - INFO - Created directory: ./model
+2025-07-01 16:15:23,587 - INFO - Created directory: ./predictions
+2025-07-01 16:15:23,713 - INFO - Deleted 0 old match files.
+2025-07-01 16:15:23,841 - INFO - All matches up to today are already downloaded.
+2025-07-01 16:15:23,841 - INFO - No new matches, using existing model.
+2025-07-01 16:15:27,803 - INFO - patching driver executable C:\Users\Alfre\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-07-01 16:15:55,322 - INFO - Running predictions for imperial vs bounty-hunters-esports...
+2025-07-01 16:15:55,323 - INFO - Using existing database: player_stats.db
+2025-07-01 16:16:06,204 - INFO - Prediction saved to ./predictions/imperial_vs_bounty-hunters-esports_01-07-2025.json
+2025-07-01 16:16:07,241 - INFO - Prediction sent to Discord
+2025-07-01 16:16:07,250 - ERROR - Invalid match URL format: https://bo3.gg/matches/fisher-college-vs-wildcard-academy-01-07-2025
+2025-07-01 16:16:07,250 - INFO - Running predictions for bestia vs 9z...
+2025-07-01 16:16:07,251 - INFO - Using existing database: player_stats.db
+2025-07-01 16:16:19,186 - INFO - Prediction saved to ./predictions/bestia_vs_9z_01-07-2025.json
+2025-07-01 16:16:19,600 - INFO - Prediction sent to Discord
+2025-07-01 16:16:19,616 - ERROR - Invalid match URL format: https://bo3.gg/matches/northern-lights-vs-basement-boys-01-07-2025
+2025-07-01 16:16:19,616 - INFO - Running predictions for hyperspirit vs phantom-esports...
+2025-07-01 16:16:19,617 - INFO - Using existing database: player_stats.db
+2025-07-01 16:16:29,057 - INFO - Prediction saved to ./predictions/hyperspirit_vs_phantom-esports_01-07-2025.json
+2025-07-01 16:16:29,460 - INFO - Prediction sent to Discord
+2025-07-01 16:16:29,469 - ERROR - Invalid match URL format: https://bo3.gg/matches/furia-fe-vs-flamengo-01-07-2025
+2025-07-01 16:16:29,470 - ERROR - Invalid match URL format: https://bo3.gg/matches/tpudcatb-tpu-vs-qmistry-02-07-2025
+2025-07-01 16:16:29,470 - ERROR - Invalid match URL format: https://bo3.gg/matches/team-novaq-vs-eyeballers-02-07-2025
+2025-07-01 16:16:29,470 - ERROR - Invalid match URL format: https://bo3.gg/matches/ex-sabre-vs-aab-esport-02-07-2025
+2025-07-01 16:16:29,470 - INFO - Running predictions for marius vs ks...
+2025-07-01 16:16:29,471 - INFO - Using existing database: player_stats.db
+2025-07-01 16:16:30,300 - ERROR - Could not get team players
+2025-07-01 16:16:30,312 - ERROR - Invalid match URL format: https://bo3.gg/matches/fire-flux-vs-forze-reload-02-07-2025
+2025-07-01 16:16:30,312 - INFO - Running predictions for 44c860dbfc vs e20ff37802...
+2025-07-01 16:16:30,313 - INFO - Using existing database: player_stats.db
+2025-07-01 16:16:31,456 - ERROR - Error fetching data from /teams/44c860dbfc: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/44c860dbfc
+2025-07-01 16:16:31,684 - ERROR - Error fetching data from /teams/e20ff37802: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/e20ff37802
+2025-07-01 16:16:31,685 - ERROR - Could not get team players
+2025-07-01 16:16:31,695 - INFO - Running predictions for amkal vs eyeballers...
+2025-07-01 16:16:31,696 - INFO - Using existing database: player_stats.db
+2025-07-01 16:16:46,090 - INFO - Prediction saved to ./predictions/amkal_vs_eyeballers_02-07-2025.json
+2025-07-01 16:16:46,566 - INFO - Prediction sent to Discord
+2025-07-01 16:16:46,574 - INFO - Running predictions for 4575dd60e1 vs 32d903b398...
+2025-07-01 16:16:46,574 - INFO - Using existing database: player_stats.db
+2025-07-01 16:16:47,063 - ERROR - Error fetching data from /teams/4575dd60e1: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/4575dd60e1
+2025-07-01 16:16:47,248 - ERROR - Error fetching data from /teams/32d903b398: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/32d903b398
+2025-07-01 16:16:47,249 - ERROR - Could not get team players
+2025-07-01 16:16:47,260 - ERROR - Invalid match URL format: https://bo3.gg/matches/mana-esports-vs-wopa-esport-02-07-2025
+2025-07-01 16:16:47,261 - ERROR - Invalid match URL format: https://bo3.gg/matches/alliance-cs-vs-copenhagen-wolves-02-07-2025
+2025-07-01 16:16:47,261 - ERROR - Invalid match URL format: https://bo3.gg/matches/volt-sweden-vs-genone-02-07-2025
+2025-07-01 16:16:47,262 - INFO - Running predictions for wildlotus vs xi-esport...
+2025-07-01 16:16:47,262 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:02,146 - INFO - Prediction saved to ./predictions/wildlotus_vs_xi-esport_02-07-2025.json
+2025-07-01 16:17:02,587 - INFO - Prediction sent to Discord
+2025-07-01 16:17:02,598 - INFO - Running predictions for aa96d4ae44 vs 63334154d3...
+2025-07-01 16:17:02,598 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:03,219 - ERROR - Error fetching data from /teams/aa96d4ae44: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/aa96d4ae44
+2025-07-01 16:17:03,412 - ERROR - Error fetching data from /teams/63334154d3: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/63334154d3
+2025-07-01 16:17:03,413 - ERROR - Could not get team players
+2025-07-01 16:17:03,421 - INFO - Running predictions for 35e1edede6 vs c8e9e84947...
+2025-07-01 16:17:03,422 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:03,922 - ERROR - Error fetching data from /teams/35e1edede6: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/35e1edede6
+2025-07-01 16:17:04,122 - ERROR - Error fetching data from /teams/c8e9e84947: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c8e9e84947
+2025-07-01 16:17:04,125 - ERROR - Could not get team players
+2025-07-01 16:17:04,132 - ERROR - Invalid match URL format: https://bo3.gg/matches/copenhagen-wolves-vs-ruby-03-07-2025
+2025-07-01 16:17:04,132 - INFO - Running predictions for 19a17a4058 vs c49b33a703...
+2025-07-01 16:17:04,133 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:04,939 - ERROR - Error fetching data from /teams/19a17a4058: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/19a17a4058
+2025-07-01 16:17:05,156 - ERROR - Error fetching data from /teams/c49b33a703: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c49b33a703
+2025-07-01 16:17:05,158 - ERROR - Could not get team players
+2025-07-01 16:17:05,165 - ERROR - Invalid match URL format: https://bo3.gg/matches/fire-flux-vs-esc-03-07-2025
+2025-07-01 16:17:05,165 - INFO - Running predictions for da78505e62 vs ca9f7a75f3...
+2025-07-01 16:17:05,166 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:05,644 - ERROR - Error fetching data from /teams/da78505e62: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/da78505e62
+2025-07-01 16:17:05,929 - ERROR - Error fetching data from /teams/ca9f7a75f3: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/ca9f7a75f3
+2025-07-01 16:17:05,931 - ERROR - Could not get team players
+2025-07-01 16:17:05,940 - INFO - Running predictions for 8b622a17af vs c85f92240c...
+2025-07-01 16:17:05,941 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:06,825 - ERROR - Error fetching data from /teams/8b622a17af: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/8b622a17af
+2025-07-01 16:17:07,029 - ERROR - Error fetching data from /teams/c85f92240c: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c85f92240c
+2025-07-01 16:17:07,030 - ERROR - Could not get team players
+2025-07-01 16:17:07,038 - ERROR - Invalid match URL format: https://bo3.gg/matches/basement-boys-vs-masonic-03-07-2025
+2025-07-01 16:17:07,038 - ERROR - Invalid match URL format: https://bo3.gg/matches/mana-esports-vs-fish123-cs-03-07-2025
+2025-07-01 16:17:07,038 - ERROR - Invalid match URL format: https://bo3.gg/matches/forze-reload-vs-big-academy-03-07-2025
+2025-07-01 16:17:07,038 - INFO - Running predictions for prestige vs northern-lights...
+2025-07-01 16:17:07,039 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:12,885 - INFO - Prediction saved to ./predictions/prestige_vs_northern-lights_03-07-2025.json
+2025-07-01 16:17:13,317 - INFO - Prediction sent to Discord
+2025-07-01 16:17:13,325 - INFO - Running predictions for 82985cecec vs 446b09e720...
+2025-07-01 16:17:13,326 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:13,794 - ERROR - Error fetching data from /teams/82985cecec: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/82985cecec
+2025-07-01 16:17:14,012 - ERROR - Error fetching data from /teams/446b09e720: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/446b09e720
+2025-07-01 16:17:14,014 - ERROR - Could not get team players
+2025-07-01 16:17:14,018 - INFO - Running predictions for 372b0297f0 vs a981d19853...
+2025-07-01 16:17:14,020 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:14,512 - ERROR - Error fetching data from /teams/372b0297f0: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/372b0297f0
+2025-07-01 16:17:14,749 - ERROR - Error fetching data from /teams/a981d19853: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/a981d19853
+2025-07-01 16:17:14,750 - ERROR - Could not get team players
+2025-07-01 16:17:14,756 - INFO - Running predictions for c1155a3cf8 vs 5acbf41c2d...
+2025-07-01 16:17:14,757 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:15,228 - ERROR - Error fetching data from /teams/c1155a3cf8: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c1155a3cf8
+2025-07-01 16:17:15,514 - ERROR - Error fetching data from /teams/5acbf41c2d: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/5acbf41c2d
+2025-07-01 16:17:15,515 - ERROR - Could not get team players
+2025-07-01 16:17:15,523 - INFO - Running predictions for d8ee7f0064 vs 89e4031914...
+2025-07-01 16:17:15,524 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:16,047 - ERROR - Error fetching data from /teams/d8ee7f0064: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/d8ee7f0064
+2025-07-01 16:17:16,243 - ERROR - Error fetching data from /teams/89e4031914: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/89e4031914
+2025-07-01 16:17:16,246 - ERROR - Could not get team players
+2025-07-01 16:17:16,251 - INFO - Running predictions for 86f2b7dba6 vs ade3dd189f...
+2025-07-01 16:17:16,251 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:16,717 - ERROR - Error fetching data from /teams/86f2b7dba6: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/86f2b7dba6
+2025-07-01 16:17:16,945 - ERROR - Error fetching data from /teams/ade3dd189f: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/ade3dd189f
+2025-07-01 16:17:16,946 - ERROR - Could not get team players
+2025-07-01 16:17:16,951 - INFO - Running predictions for megoshort vs esc...
+2025-07-01 16:17:16,952 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:17,786 - ERROR - Could not get team players
+2025-07-01 16:17:17,793 - INFO - Running predictions for 280ba887f7 vs 9d24c94efa...
+2025-07-01 16:17:17,793 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:18,286 - ERROR - Error fetching data from /teams/280ba887f7: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/280ba887f7
+2025-07-01 16:17:18,504 - ERROR - Error fetching data from /teams/9d24c94efa: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/9d24c94efa
+2025-07-01 16:17:18,505 - ERROR - Could not get team players
+2025-07-01 16:17:18,511 - ERROR - Invalid match URL format: https://bo3.gg/matches/xi-esport-vs-aab-esport-04-07-2025
+2025-07-01 16:17:18,512 - INFO - Running predictions for d2b5bcf1bc vs b9c8d1fd6c...
+2025-07-01 16:17:18,512 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:19,019 - ERROR - Error fetching data from /teams/d2b5bcf1bc: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/d2b5bcf1bc
+2025-07-01 16:17:19,256 - ERROR - Error fetching data from /teams/b9c8d1fd6c: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/b9c8d1fd6c
+2025-07-01 16:17:19,257 - ERROR - Could not get team players
+2025-07-01 16:17:19,262 - ERROR - Invalid match URL format: https://bo3.gg/matches/big-academy-vs-fish123-cs-05-07-2025
+2025-07-01 16:17:19,262 - INFO - Running predictions for 3ed7a61104 vs 919ebb2e39...
+2025-07-01 16:17:19,262 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:19,965 - ERROR - Error fetching data from /teams/3ed7a61104: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/3ed7a61104
+2025-07-01 16:17:20,202 - ERROR - Error fetching data from /teams/919ebb2e39: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/919ebb2e39
+2025-07-01 16:17:20,204 - ERROR - Could not get team players
+2025-07-01 16:17:20,209 - INFO - Running predictions for energyultra vs los-kogutos...
+2025-07-01 16:17:20,209 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:28,286 - INFO - Prediction saved to ./predictions/energyultra_vs_los-kogutos_05-07-2025.json
+2025-07-01 16:17:28,662 - INFO - Prediction sent to Discord
+2025-07-01 16:17:28,669 - INFO - Running predictions for e5621a98fa vs 2d4b315807...
+2025-07-01 16:17:28,669 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:29,232 - ERROR - Error fetching data from /teams/e5621a98fa: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/e5621a98fa
+2025-07-01 16:17:29,426 - ERROR - Error fetching data from /teams/2d4b315807: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/2d4b315807
+2025-07-01 16:17:29,427 - ERROR - Could not get team players
+2025-07-01 16:17:29,435 - INFO - Running predictions for a729158d6e vs 7ed243d38d...
+2025-07-01 16:17:29,436 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:29,902 - ERROR - Error fetching data from /teams/a729158d6e: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/a729158d6e
+2025-07-01 16:17:30,224 - ERROR - Error fetching data from /teams/7ed243d38d: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/7ed243d38d
+2025-07-01 16:17:30,226 - ERROR - Could not get team players
+2025-07-01 16:17:30,238 - INFO - Running predictions for 6c3612c171 vs 2ce245a559...
+2025-07-01 16:17:30,239 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:30,738 - ERROR - Error fetching data from /teams/6c3612c171: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/6c3612c171
+2025-07-01 16:17:30,930 - ERROR - Error fetching data from /teams/2ce245a559: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/2ce245a559
+2025-07-01 16:17:30,931 - ERROR - Could not get team players
+2025-07-01 16:17:30,937 - INFO - Running predictions for 664a9b2cdc vs 04bf9c4054...
+2025-07-01 16:17:30,938 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:31,436 - ERROR - Error fetching data from /teams/664a9b2cdc: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/664a9b2cdc
+2025-07-01 16:17:31,655 - ERROR - Error fetching data from /teams/04bf9c4054: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/04bf9c4054
+2025-07-01 16:17:31,656 - ERROR - Could not get team players
+2025-07-01 16:17:31,661 - INFO - Running predictions for 521a8ee882 vs eec60a50ac...
+2025-07-01 16:17:31,662 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:32,126 - ERROR - Error fetching data from /teams/521a8ee882: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/521a8ee882
+2025-07-01 16:17:32,369 - ERROR - Error fetching data from /teams/eec60a50ac: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/eec60a50ac
+2025-07-01 16:17:32,371 - ERROR - Could not get team players
+2025-07-01 16:17:32,376 - INFO - Running predictions for 955e4c232a vs 22524c3ed4...
+2025-07-01 16:17:32,376 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:32,861 - ERROR - Error fetching data from /teams/955e4c232a: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/955e4c232a
+2025-07-01 16:17:33,088 - ERROR - Error fetching data from /teams/22524c3ed4: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/22524c3ed4
+2025-07-01 16:17:33,090 - ERROR - Could not get team players
+2025-07-01 16:17:33,094 - INFO - Running predictions for c1a4f2edd2 vs 878eb5b74f...
+2025-07-01 16:17:33,095 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:33,570 - ERROR - Error fetching data from /teams/c1a4f2edd2: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c1a4f2edd2
+2025-07-01 16:17:33,782 - ERROR - Error fetching data from /teams/878eb5b74f: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/878eb5b74f
+2025-07-01 16:17:33,782 - ERROR - Could not get team players
+2025-07-01 16:17:33,789 - INFO - Running predictions for 45db566341 vs c425c35ea0...
+2025-07-01 16:17:33,789 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:34,322 - ERROR - Error fetching data from /teams/45db566341: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/45db566341
+2025-07-01 16:17:34,528 - ERROR - Error fetching data from /teams/c425c35ea0: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c425c35ea0
+2025-07-01 16:17:34,530 - ERROR - Could not get team players
+2025-07-01 16:17:34,535 - INFO - Running predictions for 5ed767de66 vs c04332bb73...
+2025-07-01 16:17:34,536 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:34,984 - ERROR - Error fetching data from /teams/5ed767de66: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/5ed767de66
+2025-07-01 16:17:35,230 - ERROR - Error fetching data from /teams/c04332bb73: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/c04332bb73
+2025-07-01 16:17:35,231 - ERROR - Could not get team players
+2025-07-01 16:17:35,237 - INFO - Running predictions for 310cb5637b vs 359bdfb38b...
+2025-07-01 16:17:35,238 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:35,736 - ERROR - Error fetching data from /teams/310cb5637b: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/310cb5637b
+2025-07-01 16:17:35,998 - ERROR - Error fetching data from /teams/359bdfb38b: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/359bdfb38b
+2025-07-01 16:17:36,002 - ERROR - Could not get team players
+2025-07-01 16:17:36,006 - INFO - Running predictions for 388181b32c vs 1d378f4848...
+2025-07-01 16:17:36,007 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:36,525 - ERROR - Error fetching data from /teams/388181b32c: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/388181b32c
+2025-07-01 16:17:36,762 - ERROR - Error fetching data from /teams/1d378f4848: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/1d378f4848
+2025-07-01 16:17:36,764 - ERROR - Could not get team players
+2025-07-01 16:17:36,769 - INFO - Running predictions for b5f52434bd vs ed25f964d6...
+2025-07-01 16:17:36,770 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:37,289 - ERROR - Error fetching data from /teams/b5f52434bd: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/b5f52434bd
+2025-07-01 16:17:37,569 - ERROR - Error fetching data from /teams/ed25f964d6: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/ed25f964d6
+2025-07-01 16:17:37,570 - ERROR - Could not get team players
+2025-07-01 16:17:37,576 - INFO - Running predictions for 5e7116484b vs 37c517f189...
+2025-07-01 16:17:37,577 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:38,101 - ERROR - Error fetching data from /teams/5e7116484b: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/5e7116484b
+2025-07-01 16:17:38,290 - ERROR - Error fetching data from /teams/37c517f189: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/37c517f189
+2025-07-01 16:17:38,291 - ERROR - Could not get team players
+2025-07-01 16:17:38,296 - INFO - Running predictions for d3efd816d4 vs 65dd971f95...
+2025-07-01 16:17:38,297 - INFO - Using existing database: player_stats.db
+2025-07-01 16:17:38,859 - ERROR - Error fetching data from /teams/d3efd816d4: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/d3efd816d4
+2025-07-01 16:17:39,039 - ERROR - Error fetching data from /teams/65dd971f95: 404 Client Error: Not Found for url: https://api.bo3.gg/api/v1/teams/65dd971f95
+2025-07-01 16:17:39,040 - ERROR - Could not get team players
+2025-07-01 16:17:39,046 - INFO - Pipeline completed successfully

@@ -1,0 +1,45 @@
+{
+  "match_id": 81745,
+  "slug": "minsk-house-vs-astralis-talent-21-02-2025",
+  "bo_type": 3,
+  "team1_id": 20007,
+  "team2_id": 905,
+  "team1_name": "Minsk House",
+  "team2_name": "Astralis Talent",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Minsk House",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 119829,
+      "rounds_count": 24,
+      "winner_team_id": 20007,
+      "loser_team_id": 905,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-02-21T17:52:52.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 119830,
+      "rounds_count": 15,
+      "winner_team_id": 20007,
+      "loser_team_id": 905,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-02-21T16:51:45.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

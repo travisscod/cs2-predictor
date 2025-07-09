@@ -1,0 +1,41 @@
+{
+  "match_id": 82878,
+  "slug": "only-one-word-vs-dogevil-06-03-2025",
+  "bo_type": 3,
+  "team1_id": 3504,
+  "team2_id": 19878,
+  "team1_name": "Only One Word",
+  "team2_name": "DogEvil",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "DogEvil",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 122177,
+      "winner_team_id": 19878,
+      "loser_team_id": 3504,
+      "winner_score": 13,
+      "loser_score": 0,
+      "begin_at": "2025-03-06T09:32:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 122178,
+      "winner_team_id": 19878,
+      "loser_team_id": 3504,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-06T08:48:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-06"
+}

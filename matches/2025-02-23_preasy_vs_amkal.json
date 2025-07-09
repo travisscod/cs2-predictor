@@ -1,0 +1,30 @@
+{
+  "match_id": 81885,
+  "slug": "preasy-esport-vs-amkal-23-02-2025",
+  "bo_type": 1,
+  "team1_id": 6301,
+  "team2_id": 9815,
+  "team1_name": "Preasy",
+  "team2_name": "AMKAL",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Preasy",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 120118,
+      "rounds_count": 21,
+      "winner_team_id": 6301,
+      "loser_team_id": 9815,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-02-23T15:03:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4176",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 4",
+  "scrape_date": "2025-02-23"
+}

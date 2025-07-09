@@ -1,0 +1,43 @@
+{
+  "match_id": 85196,
+  "slug": "nip-vs-fnatic-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 785,
+  "team2_id": 786,
+  "team1_name": "Ninjas in Pyjamas",
+  "team2_name": "fnatic",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "fnatic",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 124474,
+      "rounds_count": 18,
+      "winner_team_id": 786,
+      "loser_team_id": 785,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-29T16:21:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 124475,
+      "rounds_count": 24,
+      "winner_team_id": 786,
+      "loser_team_id": 785,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-29T15:24:37.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

@@ -1,0 +1,43 @@
+{
+  "match_id": 75027,
+  "slug": "alliance-cs-vs-zero-tenacity-21-12-2024",
+  "bo_type": 3,
+  "team1_id": 8221,
+  "team2_id": 2163,
+  "team1_name": "Alliance",
+  "team2_name": "Zero Tenacity",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Zero Tenacity",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 114040,
+      "rounds_count": 28,
+      "winner_team_id": 2163,
+      "loser_team_id": 8221,
+      "winner_score": 16,
+      "loser_score": 12,
+      "begin_at": "2024-12-21T18:22:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_vertigo",
+      "map_id": 114041,
+      "rounds_count": 24,
+      "winner_team_id": 2163,
+      "loser_team_id": 8221,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-12-21T17:12:22.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3712",
+  "tournament_name": "Wildz Invitational",
+  "scrape_date": "2024-12-21"
+}

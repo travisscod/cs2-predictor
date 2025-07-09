@@ -1,0 +1,41 @@
+{
+  "match_id": 69857,
+  "slug": "gostivar-vs-haspers-team-08-10-2024",
+  "bo_type": 3,
+  "team1_id": 18413,
+  "team2_id": 5525,
+  "team1_name": "Gostivar",
+  "team2_name": "Haspers",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Gostivar",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 107106,
+      "begin_at": "2024-10-08T21:11:43.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 107107,
+      "begin_at": "2024-10-08T20:11:55.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 107108,
+      "begin_at": "2024-10-08T19:19:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3529",
+  "tournament_name": "T-esports Championship Season 3",
+  "scrape_date": "2024-10-08"
+}

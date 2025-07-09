@@ -1,0 +1,43 @@
+{
+  "match_id": 81748,
+  "slug": "tricked-vs-cybershoke-21-02-2025",
+  "bo_type": 3,
+  "team1_id": 647,
+  "team2_id": 7429,
+  "team1_name": "Tricked",
+  "team2_name": "CYBERSHOKE",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "CYBERSHOKE",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 119838,
+      "rounds_count": 22,
+      "winner_team_id": 7429,
+      "loser_team_id": 647,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-02-21T21:01:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 119839,
+      "rounds_count": 20,
+      "winner_team_id": 7429,
+      "loser_team_id": 647,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-02-21T20:00:55.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

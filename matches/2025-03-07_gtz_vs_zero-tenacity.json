@@ -1,0 +1,43 @@
+{
+  "match_id": 83033,
+  "slug": "gtz-bulls-vs-zero-tenacity-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 40,
+  "team2_id": 2163,
+  "team1_name": "GTZ",
+  "team2_name": "Zero Tenacity",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Zero Tenacity",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 122469,
+      "rounds_count": 20,
+      "winner_team_id": 2163,
+      "loser_team_id": 40,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-07T13:13:51.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 122470,
+      "rounds_count": 15,
+      "winner_team_id": 2163,
+      "loser_team_id": 40,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-07T12:35:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-07"
+}

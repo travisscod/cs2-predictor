@@ -1,0 +1,55 @@
+{
+  "match_id": 85200,
+  "slug": "betboom-team-vs-og-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 395,
+  "team2_id": 7498,
+  "team1_name": "OG",
+  "team2_name": "BetBoom",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "BetBoom",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 124485,
+      "rounds_count": 24,
+      "winner_team_id": 7498,
+      "loser_team_id": 395,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-28T10:54:26.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124486,
+      "rounds_count": 18,
+      "winner_team_id": 7498,
+      "loser_team_id": 395,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-28T10:02:58.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124487,
+      "winner_team_id": 395,
+      "loser_team_id": 7498,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-28T09:00:54.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

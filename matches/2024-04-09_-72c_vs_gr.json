@@ -1,0 +1,25 @@
+{
+  "match_id": 47137,
+  "slug": "-72c-vs-gr-gaming-09-04-2024",
+  "bo_type": 1,
+  "team1_id": 7567,
+  "team2_id": 2514,
+  "team1_name": "-72c",
+  "team2_name": "GR",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "GR",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 86667,
+      "begin_at": "2024-04-09T12:19:58.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "1593",
+  "tournament_name": "ESL Challenger League Season 47: Asia",
+  "scrape_date": "2024-04-09"
+}

@@ -1,0 +1,25 @@
+{
+  "match_id": 80319,
+  "slug": "next-level-vs-1win-08-02-2025",
+  "bo_type": 1,
+  "team1_id": 10528,
+  "team2_id": 238,
+  "team1_name": "TNL",
+  "team2_name": "1win",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "TNL",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 118289,
+      "begin_at": "2025-02-08T17:11:50.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4109",
+  "tournament_name": "Intel Extreme Masters Dallas 2025: European Open Qualifier",
+  "scrape_date": "2025-02-08"
+}

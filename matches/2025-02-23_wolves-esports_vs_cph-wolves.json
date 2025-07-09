@@ -1,0 +1,30 @@
+{
+  "match_id": 81880,
+  "slug": "wolves-esports-lt-vs-copenhagen-wolves-23-02-2025",
+  "bo_type": 1,
+  "team1_id": 10626,
+  "team2_id": 9817,
+  "team1_name": "Wolves Esports",
+  "team2_name": "CPH Wolves",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "CPH Wolves",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 120113,
+      "rounds_count": 22,
+      "winner_team_id": 9817,
+      "loser_team_id": 10626,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-02-23T15:11:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4176",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 4",
+  "scrape_date": "2025-02-23"
+}

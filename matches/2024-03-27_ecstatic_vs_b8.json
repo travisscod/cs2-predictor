@@ -1,0 +1,25 @@
+{
+  "match_id": 46885,
+  "slug": "ecstatic-vs-b8-27-03-2024",
+  "bo_type": 1,
+  "team1_id": 2245,
+  "team2_id": 1539,
+  "team1_name": "ECSTATIC",
+  "team2_name": "B8",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "B8",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 86140,
+      "begin_at": "2024-03-27T17:07:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2664",
+  "tournament_name": "ESL Challenger Jonköping 2024: European Open Qualifier",
+  "scrape_date": "2024-03-27"
+}

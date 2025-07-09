@@ -1,0 +1,41 @@
+{
+  "match_id": 83249,
+  "slug": "nouns-vs-marcaregistrada-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 4723,
+  "team2_id": 10954,
+  "team1_name": "Nouns",
+  "team2_name": "Marca Registrada",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Nouns",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 122717,
+      "winner_team_id": 4723,
+      "loser_team_id": 10954,
+      "winner_score": 16,
+      "loser_score": 12,
+      "begin_at": "2025-03-08T00:54:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122718,
+      "winner_team_id": 4723,
+      "loser_team_id": 10954,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-08T00:07:56.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-08"
+}

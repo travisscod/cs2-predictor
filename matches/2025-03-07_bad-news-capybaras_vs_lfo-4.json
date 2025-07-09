@@ -1,0 +1,41 @@
+{
+  "match_id": 83265,
+  "slug": "bad-news-capybaras-vs-chill-guys-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 19055,
+  "team2_id": 19054,
+  "team1_name": "Bad News Capybaras",
+  "team2_name": "LFO 4",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "LFO 4",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 122765,
+      "winner_team_id": 19054,
+      "loser_team_id": 19055,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-07T03:31:33.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 122766,
+      "winner_team_id": 19054,
+      "loser_team_id": 19055,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-07T02:56:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-07"
+}

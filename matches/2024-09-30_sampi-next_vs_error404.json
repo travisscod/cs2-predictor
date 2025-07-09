@@ -1,0 +1,41 @@
+{
+  "match_id": 69324,
+  "slug": "sampi-next-vs-error404-30-09-2024",
+  "bo_type": 3,
+  "team1_id": 4637,
+  "team2_id": 18414,
+  "team1_name": "Sampi NEXT",
+  "team2_name": "error404",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "error404",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 106207,
+      "begin_at": "2024-09-30T17:47:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 106208,
+      "begin_at": "2024-09-30T17:09:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 106209,
+      "begin_at": "2024-09-30T16:24:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3529",
+  "tournament_name": "T-esports Championship Season 3",
+  "scrape_date": "2024-09-30"
+}

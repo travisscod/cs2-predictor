@@ -1,0 +1,33 @@
+{
+  "match_id": 55043,
+  "slug": "wdnmd-vs-rg-qingqiu-esports-01-08-2024",
+  "bo_type": 2,
+  "team1_id": 2646,
+  "team2_id": 10777,
+  "team1_name": "WDNMD",
+  "team2_name": "RG-QingQiu Esports",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "WDNMD",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 99153,
+      "begin_at": "2024-08-01T10:51:50.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 99154,
+      "begin_at": "2024-08-01T09:08:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2869",
+  "tournament_name": "XSE Pro League Season 2",
+  "scrape_date": "2024-08-01"
+}

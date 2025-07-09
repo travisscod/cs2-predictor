@@ -1,0 +1,53 @@
+{
+  "match_id": 85282,
+  "slug": "regain-vs-fisher-college-30-03-2025",
+  "bo_type": 3,
+  "team1_id": 9655,
+  "team2_id": 10370,
+  "team1_name": "regain",
+  "team2_name": "Fisher College",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Fisher College",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 124724,
+      "winner_team_id": 10370,
+      "loser_team_id": 9655,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-30T04:12:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124725,
+      "winner_team_id": 9655,
+      "loser_team_id": 10370,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-30T03:11:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 124726,
+      "winner_team_id": 10370,
+      "loser_team_id": 9655,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-30T02:22:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-30"
+}

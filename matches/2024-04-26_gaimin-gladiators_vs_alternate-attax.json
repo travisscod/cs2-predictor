@@ -1,0 +1,43 @@
+{
+  "match_id": 48427,
+  "slug": "gaimingladiators-vs-alternate-attax-cs-go-26-04-2024",
+  "bo_type": 3,
+  "team1_id": 2698,
+  "team2_id": 712,
+  "team1_name": "Gaimin Gladiators",
+  "team2_name": "ALTERNATE aTTaX",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "ALTERNATE aTTaX",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 89181,
+      "rounds_count": 21,
+      "winner_team_id": 712,
+      "loser_team_id": 2698,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-04-26T10:48:45.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 89182,
+      "rounds_count": 21,
+      "winner_team_id": 712,
+      "loser_team_id": 2698,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-04-26T09:49:59.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2482",
+  "tournament_name": "RES Regional Series 3 Europe",
+  "scrape_date": "2024-04-26"
+}

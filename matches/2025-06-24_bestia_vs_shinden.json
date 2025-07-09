@@ -1,0 +1,43 @@
+{
+  "match_id": 91217,
+  "slug": "bestia-vs-shinden-24-06-2025",
+  "bo_type": 3,
+  "team1_id": 5701,
+  "team2_id": 11174,
+  "team1_name": "BESTIA",
+  "team2_name": "ShindeN",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "BESTIA",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 132252,
+      "rounds_count": 20,
+      "winner_team_id": 5701,
+      "loser_team_id": 11174,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-06-24T22:00:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 132254,
+      "rounds_count": 18,
+      "winner_team_id": 5701,
+      "loser_team_id": 11174,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-06-24T20:04:42.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4509",
+  "tournament_name": "CCT Season 3 South American Series 1",
+  "scrape_date": "2025-06-24"
+}

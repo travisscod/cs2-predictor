@@ -1,0 +1,56 @@
+{
+  "match_id": 85226,
+  "slug": "cybershoke-vs-gun5-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 7429,
+  "team2_id": 8211,
+  "team1_name": "CYBERSHOKE",
+  "team2_name": "GUN5",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "GUN5",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 124563,
+      "rounds_count": 21,
+      "winner_team_id": 8211,
+      "loser_team_id": 7429,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-29T18:21:45.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_train",
+      "map_id": 124564,
+      "rounds_count": 19,
+      "winner_team_id": 8211,
+      "loser_team_id": 7429,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-29T17:24:15.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124565,
+      "rounds_count": 30,
+      "winner_team_id": 7429,
+      "loser_team_id": 8211,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-29T16:05:34.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

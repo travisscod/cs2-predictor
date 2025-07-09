@@ -1,0 +1,54 @@
+{
+  "match_id": 82359,
+  "slug": "betclic-apogee-esports-vs-nip-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 785,
+  "team2_id": 11101,
+  "team1_name": "Ninjas in Pyjamas",
+  "team2_name": "Betclic",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Betclic",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 121088,
+      "rounds_count": 42,
+      "winner_team_id": 11101,
+      "loser_team_id": 785,
+      "winner_score": 22,
+      "loser_score": 20,
+      "begin_at": "2025-03-09T18:33:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_train",
+      "map_id": 121089,
+      "winner_team_id": 785,
+      "loser_team_id": 11101,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-09T17:16:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 121090,
+      "winner_team_id": 11101,
+      "loser_team_id": 785,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-09T15:07:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-09"
+}

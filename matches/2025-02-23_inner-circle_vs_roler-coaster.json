@@ -1,0 +1,43 @@
+{
+  "match_id": 81892,
+  "slug": "inner-circle-esports-vs-roler-coaster-23-02-2025",
+  "bo_type": 3,
+  "team1_id": 19186,
+  "team2_id": 20023,
+  "team1_name": "Inner Circle",
+  "team2_name": "Roler Coaster",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Roler Coaster",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 120136,
+      "rounds_count": 16,
+      "winner_team_id": 20023,
+      "loser_team_id": 19186,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-02-23T20:10:28.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 120137,
+      "rounds_count": 29,
+      "winner_team_id": 20023,
+      "loser_team_id": 19186,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-02-23T18:52:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4176",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 4",
+  "scrape_date": "2025-02-23"
+}

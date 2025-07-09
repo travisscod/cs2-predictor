@@ -1,0 +1,25 @@
+{
+  "match_id": 46886,
+  "slug": "verdant-vs-betera-27-03-2024",
+  "bo_type": 1,
+  "team1_id": 7392,
+  "team2_id": 7641,
+  "team1_name": "Verdant",
+  "team2_name": "Betera",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Verdant",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 86141,
+      "begin_at": "2024-03-27T17:11:34.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2664",
+  "tournament_name": "ESL Challenger Jonköping 2024: European Open Qualifier",
+  "scrape_date": "2024-03-27"
+}

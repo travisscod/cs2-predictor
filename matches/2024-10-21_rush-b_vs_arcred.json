@@ -1,0 +1,30 @@
+{
+  "match_id": 70872,
+  "slug": "rushb-vs-arcred-21-10-2024",
+  "bo_type": 1,
+  "team1_id": 3396,
+  "team2_id": 2575,
+  "team1_name": "RUSH B",
+  "team2_name": "ARCRED",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "ARCRED",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 108495,
+      "rounds_count": 20,
+      "winner_team_id": 2575,
+      "loser_team_id": 3396,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-10-21T15:03:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-10-21"
+}

@@ -1,0 +1,30 @@
+{
+  "match_id": 74121,
+  "slug": "jackboyz-vs-theboyz-01-12-2024",
+  "bo_type": 1,
+  "team1_id": 18811,
+  "team2_id": 18812,
+  "team1_name": "JackBoyz",
+  "team2_name": "Theboyz",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "JackBoyz",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 112694,
+      "rounds_count": 18,
+      "winner_team_id": 18811,
+      "loser_team_id": 18812,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2024-12-01T17:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3725",
+  "tournament_name": "Romanian Esports League Season 4 Opening",
+  "scrape_date": "2024-12-01"
+}

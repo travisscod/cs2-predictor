@@ -1,0 +1,59 @@
+{
+  "match_id": 44200,
+  "slug": "gods-reign-vs-pak-boyz-09-02-2024",
+  "bo_type": 3,
+  "team1_id": 6283,
+  "team2_id": 10138,
+  "team1_name": "Gods Reign",
+  "team2_name": "Pak Boyz",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Pak Boyz",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 82083,
+      "rounds_count": 18,
+      "winner_team_id": 6283,
+      "loser_team_id": 10138,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2024-02-09T06:10:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 82084,
+      "rounds_count": 30,
+      "winner_team_id": 10138,
+      "loser_team_id": 6283,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2024-02-09T07:10:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 82085,
+      "rounds_count": 30,
+      "winner_team_id": 10138,
+      "loser_team_id": 6283,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2024-02-09T08:10:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2435",
+  "tournament_name": "BLAST The Draft: Season 1",
+  "scrape_date": "2024-02-09"
+}

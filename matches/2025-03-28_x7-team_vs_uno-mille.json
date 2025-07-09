@@ -1,0 +1,41 @@
+{
+  "match_id": 85299,
+  "slug": "x7-team-vs-uno-mille-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 10836,
+  "team2_id": 2756,
+  "team1_name": "x7 Team",
+  "team2_name": "UNO MILLE",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "UNO MILLE",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124778,
+      "winner_team_id": 2756,
+      "loser_team_id": 10836,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-28T18:00:22.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124779,
+      "winner_team_id": 2756,
+      "loser_team_id": 10836,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-28T17:11:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-28"
+}

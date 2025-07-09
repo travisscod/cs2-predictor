@@ -1,0 +1,30 @@
+{
+  "match_id": 81534,
+  "slug": "mercenaires-vs-rhyno-17-02-2025",
+  "bo_type": 1,
+  "team1_id": 19970,
+  "team2_id": 1153,
+  "team1_name": "Mercenaires",
+  "team2_name": "Rhyno",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Mercenaires",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 119584,
+      "rounds_count": 24,
+      "winner_team_id": 19970,
+      "loser_team_id": 1153,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-02-17T15:13:39.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4148",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 2",
+  "scrape_date": "2025-02-17"
+}

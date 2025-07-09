@@ -1,0 +1,43 @@
+{
+  "match_id": 73987,
+  "slug": "boss-vs-mythic-03-12-2024",
+  "bo_type": 3,
+  "team1_id": 9485,
+  "team2_id": 606,
+  "team1_name": "BOSS",
+  "team2_name": "Mythic",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "BOSS",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_vertigo",
+      "map_id": 112483,
+      "rounds_count": 47,
+      "winner_team_id": 9485,
+      "loser_team_id": 606,
+      "winner_score": 25,
+      "loser_score": 22,
+      "begin_at": "2024-12-03T01:31:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 112484,
+      "rounds_count": 24,
+      "winner_team_id": 9485,
+      "loser_team_id": 606,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-12-03T00:24:09.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3726",
+  "tournament_name": "Perseverance League: Persevere Division",
+  "scrape_date": "2024-12-03"
+}

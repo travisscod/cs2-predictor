@@ -1,0 +1,23 @@
+{
+  "match_id": 46602,
+  "slug": "bestia-vs-sharks-26-03-2024",
+  "bo_type": 1,
+  "team1_id": 5701,
+  "team2_id": 747,
+  "team1_name": "BESTIA",
+  "team2_name": "Sharks",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "BESTIA",
+  "games": [
+    {
+      "number": 1,
+      "map_id": 85909,
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2319",
+  "tournament_name": "ESL Challenger League Season 47: South America",
+  "scrape_date": "2024-03-27"
+}

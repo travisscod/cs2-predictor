@@ -1,0 +1,41 @@
+{
+  "match_id": 69575,
+  "slug": "the-punishers-vs-monarch-realm-cs-28-09-2024",
+  "bo_type": 3,
+  "team1_id": 11125,
+  "team2_id": 10161,
+  "team1_name": "The Punishers",
+  "team2_name": "Monarch Realm",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "The Punishers",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 106508,
+      "winner_team_id": 11125,
+      "loser_team_id": 10161,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-09-28T10:32:03.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 106509,
+      "winner_team_id": 11125,
+      "loser_team_id": 10161,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2024-09-28T09:52:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3552",
+  "tournament_name": "VS Gaming League Masters 2024",
+  "scrape_date": "2024-09-28"
+}

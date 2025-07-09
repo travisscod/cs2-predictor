@@ -1,0 +1,56 @@
+{
+  "match_id": 85225,
+  "slug": "parivision-vs-sashi-esport-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 8171,
+  "team2_id": 3081,
+  "team1_name": "PARIVISION",
+  "team2_name": "Sashi",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "PARIVISION",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 124560,
+      "rounds_count": 22,
+      "winner_team_id": 8171,
+      "loser_team_id": 3081,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T14:48:39.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_train",
+      "map_id": 124561,
+      "rounds_count": 22,
+      "winner_team_id": 8171,
+      "loser_team_id": 3081,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T13:41:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124562,
+      "rounds_count": 24,
+      "winner_team_id": 3081,
+      "loser_team_id": 8171,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-29T12:17:54.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

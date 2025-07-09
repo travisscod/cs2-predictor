@@ -1,0 +1,19 @@
+{
+  "team1_win_probability": 0.7629,
+  "team2_win_probability": 0.2371,
+  "team1_odds": "",
+  "team2_odds": "",
+  "confidence": "high",
+  "team1_stats": {
+    "avg_rating": 6.12,
+    "top2_rating": 6.4,
+    "avg_adr": 75.83,
+    "avg_kd_ratio": 0.97
+  },
+  "team2_stats": {
+    "avg_rating": 5.89,
+    "top2_rating": 6.05,
+    "avg_adr": 74.12,
+    "avg_kd_ratio": 0.93
+  }
+}

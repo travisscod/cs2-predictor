@@ -1,0 +1,43 @@
+{
+  "match_id": 51177,
+  "slug": "rushb-vs-leon-bet-01-06-2024",
+  "bo_type": 3,
+  "team1_id": 3396,
+  "team2_id": 10009,
+  "team1_name": "RUSH B",
+  "team2_name": "LEON",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "RUSH B",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 92862,
+      "rounds_count": 21,
+      "winner_team_id": 3396,
+      "loser_team_id": 10009,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-06-01T19:03:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 92863,
+      "rounds_count": 28,
+      "winner_team_id": 3396,
+      "loser_team_id": 10009,
+      "winner_score": 16,
+      "loser_score": 12,
+      "begin_at": "2024-06-01T18:02:01.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2801",
+  "tournament_name": "Winline Pro League Season 1",
+  "scrape_date": "2024-06-01"
+}

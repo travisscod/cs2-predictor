@@ -1,0 +1,41 @@
+{
+  "match_id": 69574,
+  "slug": "exceed-vs-kipi-27-09-2024",
+  "bo_type": 3,
+  "team1_id": 10409,
+  "team2_id": 18458,
+  "team1_name": "Exceed",
+  "team2_name": "Kipi",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Exceed",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 106504,
+      "begin_at": "2024-09-27T17:10:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 106505,
+      "begin_at": "2024-09-27T16:30:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 106506,
+      "begin_at": "2024-09-27T15:35:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3552",
+  "tournament_name": "VS Gaming League Masters 2024",
+  "scrape_date": "2024-09-27"
+}

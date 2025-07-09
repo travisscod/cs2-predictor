@@ -1,0 +1,42 @@
+{
+  "match_id": 85216,
+  "slug": "nemiga-vs-9ine-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 655,
+  "team2_id": 495,
+  "team1_name": "Nemiga",
+  "team2_name": "9INE",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Nemiga",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124534,
+      "rounds_count": 20,
+      "winner_team_id": 655,
+      "loser_team_id": 495,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-29T16:59:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 124535,
+      "winner_team_id": 655,
+      "loser_team_id": 495,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-29T15:56:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

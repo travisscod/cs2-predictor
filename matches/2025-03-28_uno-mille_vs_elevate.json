@@ -1,0 +1,57 @@
+{
+  "match_id": 85166,
+  "slug": "uno-mille-vs-elevate-e-sport-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 2756,
+  "team2_id": 1313,
+  "team1_name": "UNO MILLE",
+  "team2_name": "Elevate",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Elevate",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124383,
+      "rounds_count": 18,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-28T01:25:46.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124385,
+      "rounds_count": 22,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-27T23:11:46.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124943,
+      "rounds_count": 29,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 16,
+      "loser_score": 13,
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-28"
+}

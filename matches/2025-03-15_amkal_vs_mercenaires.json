@@ -1,0 +1,29 @@
+{
+  "match_id": 83887,
+  "slug": "amkal-vs-mercenaires-15-03-2025",
+  "bo_type": 1,
+  "team1_id": 9815,
+  "team2_id": 19970,
+  "team1_name": "AMKAL",
+  "team2_name": "Mercenaires",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "AMKAL",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 123501,
+      "winner_team_id": 9815,
+      "loser_team_id": 19970,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-15T22:31:05.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

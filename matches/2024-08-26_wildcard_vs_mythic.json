@@ -1,0 +1,30 @@
+{
+  "match_id": 56095,
+  "slug": "wildcard-gaming-vs-mythic-26-08-2024",
+  "bo_type": 1,
+  "team1_id": 6062,
+  "team2_id": 606,
+  "team1_name": "Wildcard",
+  "team2_name": "Mythic",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Wildcard",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 100964,
+      "rounds_count": 16,
+      "winner_team_id": 6062,
+      "loser_team_id": 606,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2024-08-26T18:35:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2983",
+  "tournament_name": "Perfect World Shanghai Major 2024: North American Qualifier",
+  "scrape_date": "2024-08-26"
+}

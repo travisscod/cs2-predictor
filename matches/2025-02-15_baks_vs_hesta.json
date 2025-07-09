@@ -1,0 +1,30 @@
+{
+  "match_id": 81176,
+  "slug": "baks-esports-vs-hesta-15-02-2025",
+  "bo_type": 1,
+  "team1_id": 2924,
+  "team2_id": 19875,
+  "team1_name": "BakS",
+  "team2_name": "Hesta",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "BakS",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 119203,
+      "rounds_count": 28,
+      "winner_team_id": 2924,
+      "loser_team_id": 19875,
+      "winner_score": 16,
+      "loser_score": 12,
+      "begin_at": "2025-02-15T15:14:54.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4143",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 1",
+  "scrape_date": "2025-02-15"
+}

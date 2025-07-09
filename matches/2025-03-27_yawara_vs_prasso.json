@@ -1,0 +1,58 @@
+{
+  "match_id": 85168,
+  "slug": "yawara-esports-vs-prasso-clan-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 3625,
+  "team2_id": 19971,
+  "team1_name": "Yawara",
+  "team2_name": "Prasso",
+  "team1_score": 1,
+  "team2_score": 1,
+  "winner_team": "draw",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 124389,
+      "rounds_count": 18,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 5,
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124390,
+      "rounds_count": 30,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-27T18:26:43.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 124391,
+      "rounds_count": 23,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-27T17:15:20.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-27"
+}

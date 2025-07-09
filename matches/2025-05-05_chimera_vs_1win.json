@@ -1,0 +1,53 @@
+{
+  "match_id": 88304,
+  "slug": "chimera-esports-vs-1win-05-05-2025",
+  "bo_type": 3,
+  "team1_id": 19070,
+  "team2_id": 238,
+  "team1_name": "Chimera",
+  "team2_name": "1win",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "1win",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_train",
+      "map_id": 128376,
+      "winner_team_id": 238,
+      "loser_team_id": 19070,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-05-05T14:29:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 128377,
+      "winner_team_id": 19070,
+      "loser_team_id": 238,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-05-05T13:31:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 128378,
+      "winner_team_id": 238,
+      "loser_team_id": 19070,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-05-05T12:34:37.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4323",
+  "tournament_name": "LanDaLan 2",
+  "scrape_date": "2025-05-05"
+}

@@ -1,0 +1,30 @@
+{
+  "match_id": 75554,
+  "slug": "wdnmd-vs-jijiehao-09-01-2025",
+  "bo_type": 1,
+  "team1_id": 2646,
+  "team2_id": 3869,
+  "team1_name": "WDNMD",
+  "team2_name": "JiJieHao",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "JiJieHao",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 114612,
+      "rounds_count": 18,
+      "winner_team_id": 3869,
+      "loser_team_id": 2646,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-01-09T07:00:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3731",
+  "tournament_name": "XSE Pro League Season 3",
+  "scrape_date": "2025-01-09"
+}

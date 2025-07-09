@@ -1,0 +1,56 @@
+{
+  "match_id": 85204,
+  "slug": "sangal-vs-monte-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 3581,
+  "team2_id": 36,
+  "team1_name": "Monte",
+  "team2_name": "Sangal",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Monte",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_train",
+      "map_id": 124497,
+      "rounds_count": 17,
+      "winner_team_id": 3581,
+      "loser_team_id": 36,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-29T11:10:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124498,
+      "rounds_count": 23,
+      "winner_team_id": 36,
+      "loser_team_id": 3581,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-29T10:03:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124499,
+      "rounds_count": 21,
+      "winner_team_id": 3581,
+      "loser_team_id": 36,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-29T09:06:06.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

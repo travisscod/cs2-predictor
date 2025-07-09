@@ -1,0 +1,37 @@
+{
+  "match_id": 47358,
+  "slug": "ex-preasy-esport-vs-ecf-09-04-2024",
+  "bo_type": 3,
+  "team1_id": 10406,
+  "team2_id": 10460,
+  "team1_name": "ex-Preasy",
+  "team2_name": "kONO",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "ex-Preasy",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 87063,
+      "begin_at": "2024-04-09T09:50:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_overpass",
+      "map_id": 87064,
+      "winner_team_id": 10406,
+      "loser_team_id": 10460,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2024-04-09T09:01:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2484",
+  "tournament_name": "Elisa Invitational Spring 2024",
+  "scrape_date": "2024-04-09"
+}

@@ -1,0 +1,29 @@
+{
+  "match_id": 84795,
+  "slug": "ghoulsw-vs-eyeballers-24-03-2025",
+  "bo_type": 1,
+  "team1_id": 2996,
+  "team2_id": 3254,
+  "team1_name": "GhoulsW",
+  "team2_name": "EYEBALLERS",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "GhoulsW",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124147,
+      "winner_team_id": 2996,
+      "loser_team_id": 3254,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-24T15:11:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4303",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 4",
+  "scrape_date": "2025-03-24"
+}

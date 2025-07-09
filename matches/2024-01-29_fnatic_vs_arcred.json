@@ -1,0 +1,25 @@
+{
+  "match_id": 43014,
+  "slug": "fnatic-vs-arcred-29-01-2024",
+  "bo_type": 1,
+  "team1_id": 786,
+  "team2_id": 2575,
+  "team1_name": "fnatic",
+  "team2_name": "ARCRED",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "fnatic",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 80506,
+      "begin_at": "2024-01-29T21:53:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2370",
+  "tournament_name": "IEM China 2024: European Open Qualifier 2",
+  "scrape_date": "2024-01-29"
+}

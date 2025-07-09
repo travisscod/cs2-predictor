@@ -1,0 +1,41 @@
+{
+  "match_id": 85333,
+  "slug": "players-1-vs-martians-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 3229,
+  "team2_id": 7461,
+  "team1_name": "Players",
+  "team2_name": "Martians",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Players",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124880,
+      "winner_team_id": 3229,
+      "loser_team_id": 7461,
+      "winner_score": 13,
+      "loser_score": 1,
+      "begin_at": "2025-03-29T15:20:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124881,
+      "winner_team_id": 3229,
+      "loser_team_id": 7461,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-03-29T14:11:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-29"
+}

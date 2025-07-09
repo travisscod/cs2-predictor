@@ -1,0 +1,41 @@
+{
+  "match_id": 85272,
+  "slug": "party-astronauts-vs-tsunami-esports-30-03-2025",
+  "bo_type": 3,
+  "team1_id": 605,
+  "team2_id": 5807,
+  "team1_name": "Party Astronauts",
+  "team2_name": "Tsunami",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Party Astronauts",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124695,
+      "winner_team_id": 605,
+      "loser_team_id": 5807,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-30T03:59:21.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124696,
+      "winner_team_id": 605,
+      "loser_team_id": 5807,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-30T03:08:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-30"
+}

@@ -1,0 +1,25 @@
+{
+  "match_id": 41702,
+  "slug": "ec-kostroma-vs-sangal-09-01-2024",
+  "bo_type": 1,
+  "team1_id": 9861,
+  "team2_id": 36,
+  "team1_name": "EC Kostroma",
+  "team2_name": "Sangal",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Sangal",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_vertigo",
+      "map_id": 79067,
+      "begin_at": "2024-01-09T15:27:34.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2337",
+  "tournament_name": "PGL Major Copenhagen 2024: European Open Qualifier 1",
+  "scrape_date": "2024-01-09"
+}

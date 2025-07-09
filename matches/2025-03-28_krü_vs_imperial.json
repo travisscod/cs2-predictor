@@ -1,0 +1,45 @@
+{
+  "match_id": 85330,
+  "slug": "kru-cs-vs-imperial-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 10321,
+  "team2_id": 1430,
+  "team1_name": "KRÜ",
+  "team2_name": "Imperial",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Imperial",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124871,
+      "rounds_count": 22,
+      "winner_team_id": 1430,
+      "loser_team_id": 10321,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-28T21:17:29.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124872,
+      "rounds_count": 18,
+      "winner_team_id": 1430,
+      "loser_team_id": 10321,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-28T20:04:39.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-28"
+}

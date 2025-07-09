@@ -1,0 +1,33 @@
+{
+  "match_id": 55042,
+  "slug": "gui-su-vs-steel-helmet-31-07-2024",
+  "bo_type": 2,
+  "team1_id": 10845,
+  "team2_id": 1286,
+  "team1_name": "Gui Su",
+  "team2_name": "Steel Helmet",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Steel Helmet",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 99151,
+      "begin_at": "2024-07-31T14:16:58.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 99152,
+      "begin_at": "2024-07-31T13:22:20.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2869",
+  "tournament_name": "XSE Pro League Season 2",
+  "scrape_date": "2024-07-31"
+}

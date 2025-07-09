@@ -1,0 +1,43 @@
+{
+  "match_id": 55673,
+  "slug": "sinners-vs-illuminar-13-08-2024",
+  "bo_type": 3,
+  "team1_id": 200,
+  "team2_id": 561,
+  "team1_name": "SINNERS",
+  "team2_name": "Illuminar",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "SINNERS",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 100141,
+      "rounds_count": 29,
+      "winner_team_id": 200,
+      "loser_team_id": 561,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2024-08-13T11:08:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 100142,
+      "rounds_count": 20,
+      "winner_team_id": 200,
+      "loser_team_id": 561,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-08-13T10:09:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2953",
+  "tournament_name": "YaLLa Compass Summer 2024",
+  "scrape_date": "2024-08-13"
+}

@@ -1,0 +1,25 @@
+{
+  "match_id": 44268,
+  "slug": "mirai-gaming-vs-the-qube-13-02-2024",
+  "bo_type": 1,
+  "team1_id": 3374,
+  "team2_id": 8927,
+  "team1_name": "MIRAI",
+  "team2_name": "The QUBE",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "The QUBE",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 82119,
+      "begin_at": "2024-02-13T13:05:33.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "1593",
+  "tournament_name": "ESL Challenger League Season 47: Asia",
+  "scrape_date": "2024-02-13"
+}

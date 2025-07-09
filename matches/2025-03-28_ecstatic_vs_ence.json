@@ -1,0 +1,43 @@
+{
+  "match_id": 85221,
+  "slug": "ecstatic-vs-ence-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 2245,
+  "team2_id": 754,
+  "team1_name": "ECSTATIC",
+  "team2_name": "ENCE",
+  "team1_score": 1,
+  "team2_score": 1,
+  "winner_team": "draw",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 124548,
+      "rounds_count": 17,
+      "winner_team_id": 754,
+      "loser_team_id": 2245,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-28T14:14:21.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124550,
+      "rounds_count": 21,
+      "winner_team_id": 2245,
+      "loser_team_id": 754,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-28T12:12:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

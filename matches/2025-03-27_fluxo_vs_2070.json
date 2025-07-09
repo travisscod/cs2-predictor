@@ -1,0 +1,59 @@
+{
+  "match_id": 85167,
+  "slug": "fluxo-vs-20-70-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 3661,
+  "team2_id": 10372,
+  "team1_name": "Fluxo",
+  "team2_name": "2070",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Fluxo",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 124386,
+      "rounds_count": 16,
+      "winner_team_id": 3661,
+      "loser_team_id": 10372,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-27T15:43:42.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124387,
+      "rounds_count": 20,
+      "winner_team_id": 3661,
+      "loser_team_id": 10372,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-27T14:54:41.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124388,
+      "rounds_count": 20,
+      "winner_team_id": 10372,
+      "loser_team_id": 3661,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-27T14:04:16.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-27"
+}

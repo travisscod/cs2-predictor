@@ -1,0 +1,43 @@
+{
+  "match_id": 82389,
+  "slug": "sinners-vs-natus-vincere-junior-10-03-2025",
+  "bo_type": 3,
+  "team1_id": 200,
+  "team2_id": 441,
+  "team1_name": "SINNERS",
+  "team2_name": "NAVI Junior",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "NAVI Junior",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 121179,
+      "rounds_count": 18,
+      "winner_team_id": 441,
+      "loser_team_id": 200,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-10T13:49:21.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 121180,
+      "rounds_count": 36,
+      "winner_team_id": 441,
+      "loser_team_id": 200,
+      "winner_score": 19,
+      "loser_score": 17,
+      "begin_at": "2025-03-10T12:06:26.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-10"
+}

@@ -1,0 +1,41 @@
+{
+  "match_id": 82354,
+  "slug": "nexus-vs-500-cs-go-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 5063,
+  "team2_id": 326,
+  "team1_name": "500",
+  "team2_name": "Nexus",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "500",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 121074,
+      "winner_team_id": 5063,
+      "loser_team_id": 326,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-08T12:56:32.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 121075,
+      "winner_team_id": 5063,
+      "loser_team_id": 326,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-08T12:08:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-08"
+}

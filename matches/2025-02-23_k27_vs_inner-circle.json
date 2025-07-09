@@ -1,0 +1,43 @@
+{
+  "match_id": 81887,
+  "slug": "k27-vs-inner-circle-esports-23-02-2025",
+  "bo_type": 3,
+  "team1_id": 10718,
+  "team2_id": 19186,
+  "team1_name": "K27",
+  "team2_name": "Inner Circle",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Inner Circle",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_train",
+      "map_id": 120121,
+      "rounds_count": 24,
+      "winner_team_id": 19186,
+      "loser_team_id": 10718,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-02-23T17:46:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 120122,
+      "rounds_count": 30,
+      "winner_team_id": 19186,
+      "loser_team_id": 10718,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-02-23T16:20:20.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4176",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 4",
+  "scrape_date": "2025-02-23"
+}

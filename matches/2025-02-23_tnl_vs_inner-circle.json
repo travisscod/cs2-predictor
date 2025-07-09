@@ -1,0 +1,31 @@
+{
+  "match_id": 81881,
+  "slug": "next-level-vs-inner-circle-esports-23-02-2025",
+  "bo_type": 1,
+  "team1_id": 10528,
+  "team2_id": 19186,
+  "team1_name": "TNL",
+  "team2_name": "Inner Circle",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Inner Circle",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 120114,
+      "rounds_count": 20,
+      "winner_team_id": 19186,
+      "loser_team_id": 10528,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-02-23T15:13:39.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4176",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 4",
+  "scrape_date": "2025-02-23"
+}

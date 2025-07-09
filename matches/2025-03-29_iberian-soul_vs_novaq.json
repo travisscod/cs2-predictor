@@ -1,0 +1,53 @@
+{
+  "match_id": 85217,
+  "slug": "team-novaq-vs-iberian-soul-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 19100,
+  "team2_id": 20024,
+  "team1_name": "Iberian Soul",
+  "team2_name": "Novaq",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Iberian Soul",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 124536,
+      "winner_team_id": 19100,
+      "loser_team_id": 20024,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-29T20:18:48.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124537,
+      "winner_team_id": 19100,
+      "loser_team_id": 20024,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-29T19:13:55.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124538,
+      "winner_team_id": 20024,
+      "loser_team_id": 19100,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-29T18:12:48.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

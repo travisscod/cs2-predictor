@@ -1,0 +1,25 @@
+{
+  "match_id": 62945,
+  "slug": "-72c-vs-the-huns-esports-25-09-2024",
+  "bo_type": 1,
+  "team1_id": 7567,
+  "team2_id": 9127,
+  "team1_name": "-72c",
+  "team2_name": "The Huns",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "The Huns",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 106080,
+      "begin_at": "2024-09-25T12:04:15.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2559",
+  "tournament_name": "ESL Challenger League Season 48: Asia",
+  "scrape_date": "2024-09-25"
+}

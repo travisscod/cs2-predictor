@@ -1,0 +1,43 @@
+{
+  "match_id": 82308,
+  "slug": "bounty-hunters-esports-vs-floripa-stars-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 6282,
+  "team2_id": 5121,
+  "team1_name": "Bounty Hunters",
+  "team2_name": "Floripa Stars",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Floripa Stars",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 120934,
+      "rounds_count": 29,
+      "winner_team_id": 5121,
+      "loser_team_id": 6282,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-03-08T16:22:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 120935,
+      "rounds_count": 21,
+      "winner_team_id": 5121,
+      "loser_team_id": 6282,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-08T15:23:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-08"
+}

@@ -1,0 +1,43 @@
+{
+  "match_id": 82300,
+  "slug": "9z-vs-bestia-10-03-2025",
+  "bo_type": 3,
+  "team1_id": 5701,
+  "team2_id": 324,
+  "team1_name": "BESTIA",
+  "team2_name": "9z",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "9z",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 120910,
+      "rounds_count": 24,
+      "winner_team_id": 324,
+      "loser_team_id": 5701,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-10T01:23:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 120911,
+      "rounds_count": 16,
+      "winner_team_id": 324,
+      "loser_team_id": 5701,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-10T00:35:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-10"
+}

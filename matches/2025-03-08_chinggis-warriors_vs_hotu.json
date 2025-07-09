@@ -1,0 +1,56 @@
+{
+  "match_id": 82883,
+  "slug": "chinggis-warriors-vs-hotu-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 9974,
+  "team2_id": 2720,
+  "team1_name": "Chinggis Warriors",
+  "team2_name": "HOTU",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "HOTU",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 122191,
+      "rounds_count": 18,
+      "winner_team_id": 2720,
+      "loser_team_id": 9974,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-08T11:45:39.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 122192,
+      "rounds_count": 23,
+      "winner_team_id": 2720,
+      "loser_team_id": 9974,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-08T10:36:39.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 122193,
+      "rounds_count": 22,
+      "winner_team_id": 9974,
+      "loser_team_id": 2720,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-08T09:17:32.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-08"
+}

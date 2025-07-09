@@ -1,0 +1,30 @@
+{
+  "match_id": 51175,
+  "slug": "rushb-vs-team-peep-29-05-2024",
+  "bo_type": 1,
+  "team1_id": 3396,
+  "team2_id": 10418,
+  "team1_name": "RUSH B",
+  "team2_name": "PeeP",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "RUSH B",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_vertigo",
+      "map_id": 92859,
+      "rounds_count": 21,
+      "winner_team_id": 3396,
+      "loser_team_id": 10418,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-05-29T15:05:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2801",
+  "tournament_name": "Winline Pro League Season 1",
+  "scrape_date": "2024-05-29"
+}

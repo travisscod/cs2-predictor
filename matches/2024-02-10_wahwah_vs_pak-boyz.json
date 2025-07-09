@@ -1,0 +1,45 @@
+{
+  "match_id": 44201,
+  "slug": "wahwah-vs-pak-boyz-10-02-2024",
+  "bo_type": 3,
+  "team1_id": 3761,
+  "team2_id": 10138,
+  "team1_name": "WahWah",
+  "team2_name": "Pak Boyz",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Pak Boyz",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 82088,
+      "rounds_count": 20,
+      "winner_team_id": 10138,
+      "loser_team_id": 3761,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-02-10T07:30:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 82089,
+      "rounds_count": 19,
+      "winner_team_id": 10138,
+      "loser_team_id": 3761,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2024-02-10T07:30:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2435",
+  "tournament_name": "BLAST The Draft: Season 1",
+  "scrape_date": "2024-02-10"
+}

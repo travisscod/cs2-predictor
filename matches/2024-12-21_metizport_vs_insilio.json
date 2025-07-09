@@ -1,0 +1,43 @@
+{
+  "match_id": 75028,
+  "slug": "metizport-vs-insilio-21-12-2024",
+  "bo_type": 3,
+  "team1_id": 1578,
+  "team2_id": 2309,
+  "team1_name": "Metizport",
+  "team2_name": "Insilio",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Metizport",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 114043,
+      "rounds_count": 19,
+      "winner_team_id": 1578,
+      "loser_team_id": 2309,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2024-12-21T18:03:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 114044,
+      "rounds_count": 21,
+      "winner_team_id": 1578,
+      "loser_team_id": 2309,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-12-21T17:08:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3712",
+  "tournament_name": "Wildz Invitational",
+  "scrape_date": "2024-12-21"
+}

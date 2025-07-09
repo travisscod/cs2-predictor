@@ -1,0 +1,25 @@
+{
+  "match_id": 41893,
+  "slug": "infinite-gaming-vs-permitta-13-01-2024",
+  "bo_type": 1,
+  "team1_id": 5109,
+  "team2_id": 1024,
+  "team1_name": "Permitta",
+  "team2_name": "INFINITE",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Permitta",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 79278,
+      "begin_at": "2024-01-13T15:24:03.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2343",
+  "tournament_name": "PGL Major Copenhagen 2024: European Open Qualifier 3",
+  "scrape_date": "2024-01-13"
+}

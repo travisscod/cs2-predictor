@@ -1,0 +1,43 @@
+{
+  "match_id": 85307,
+  "slug": "bestia-vs-oddik-30-03-2025",
+  "bo_type": 3,
+  "team1_id": 5701,
+  "team2_id": 3370,
+  "team1_name": "BESTIA",
+  "team2_name": "ODDIK",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "ODDIK",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124802,
+      "rounds_count": 19,
+      "winner_team_id": 3370,
+      "loser_team_id": 5701,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-30T22:16:35.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124803,
+      "rounds_count": 21,
+      "winner_team_id": 3370,
+      "loser_team_id": 5701,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-30T21:10:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-30"
+}

@@ -1,0 +1,30 @@
+{
+  "match_id": 84031,
+  "slug": "betera-vs-insilio-17-03-2025",
+  "bo_type": 1,
+  "team1_id": 7641,
+  "team2_id": 2309,
+  "team1_name": "Betera",
+  "team2_name": "Insilio",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Betera",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 123639,
+      "rounds_count": 19,
+      "winner_team_id": 7641,
+      "loser_team_id": 2309,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-17T15:11:10.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

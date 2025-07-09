@@ -1,0 +1,30 @@
+{
+  "match_id": 84043,
+  "slug": "ecstatic-vs-roler-coaster-17-03-2025",
+  "bo_type": 1,
+  "team1_id": 2245,
+  "team2_id": 20023,
+  "team1_name": "ECSTATIC",
+  "team2_name": "Roler Coaster",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "ECSTATIC",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 123663,
+      "rounds_count": 23,
+      "winner_team_id": 2245,
+      "loser_team_id": 20023,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-17T23:14:11.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-18"
+}

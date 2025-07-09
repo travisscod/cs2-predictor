@@ -1,0 +1,53 @@
+{
+  "match_id": 85256,
+  "slug": "seoul-vs-team-aether-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 20012,
+  "team2_id": 10764,
+  "team1_name": "seoul",
+  "team2_name": "Aether",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Aether",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 124646,
+      "winner_team_id": 10764,
+      "loser_team_id": 20012,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-03-29T01:10:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124647,
+      "winner_team_id": 20012,
+      "loser_team_id": 10764,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T00:11:33.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124648,
+      "winner_team_id": 10764,
+      "loser_team_id": 20012,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-28T23:07:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-29"
+}

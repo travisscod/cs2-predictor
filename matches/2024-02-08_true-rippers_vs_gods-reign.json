@@ -1,0 +1,45 @@
+{
+  "match_id": 44196,
+  "slug": "true-rippers-vs-gods-reign-08-02-2024",
+  "bo_type": 3,
+  "team1_id": 9605,
+  "team2_id": 6283,
+  "team1_name": "True Rippers",
+  "team2_name": "Gods Reign",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "True Rippers",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_overpass",
+      "map_id": 82079,
+      "rounds_count": 22,
+      "winner_team_id": 9605,
+      "loser_team_id": 6283,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-02-08T09:40:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 82080,
+      "rounds_count": 29,
+      "winner_team_id": 9605,
+      "loser_team_id": 6283,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2024-02-08T10:50:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2435",
+  "tournament_name": "BLAST The Draft: Season 1",
+  "scrape_date": "2024-02-08"
+}

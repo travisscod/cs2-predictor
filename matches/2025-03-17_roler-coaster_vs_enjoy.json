@@ -1,0 +1,29 @@
+{
+  "match_id": 84035,
+  "slug": "roler-coaster-vs-enjoy-17-03-2025",
+  "bo_type": 1,
+  "team1_id": 20023,
+  "team2_id": 10966,
+  "team1_name": "Roler Coaster",
+  "team2_name": "ENJOY",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Roler Coaster",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 123643,
+      "winner_team_id": 20023,
+      "loser_team_id": 10966,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-17T15:31:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

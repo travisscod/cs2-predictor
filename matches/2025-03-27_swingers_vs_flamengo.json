@@ -1,0 +1,45 @@
+{
+  "match_id": 85177,
+  "slug": "swingers-vs-flamengo-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 5297,
+  "team2_id": 5500,
+  "team1_name": "Swingers",
+  "team2_name": "Flamengo",
+  "team1_score": 1,
+  "team2_score": 1,
+  "winner_team": "draw",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124417,
+      "rounds_count": 5,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 2,
+      "loser_score": 3,
+      "begin_at": "2025-03-27T21:47:11.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124418,
+      "rounds_count": 28,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 16,
+      "loser_score": 12,
+      "begin_at": "2025-03-27T20:14:36.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-27"
+}

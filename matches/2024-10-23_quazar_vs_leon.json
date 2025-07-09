@@ -1,0 +1,25 @@
+{
+  "match_id": 70879,
+  "slug": "quazar-vs-leon-bet-23-10-2024",
+  "bo_type": 1,
+  "team1_id": 2719,
+  "team2_id": 10009,
+  "team1_name": "QUAZAR",
+  "team2_name": "LEON",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "QUAZAR",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 108506,
+      "begin_at": "2024-10-23T18:17:48.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-10-23"
+}

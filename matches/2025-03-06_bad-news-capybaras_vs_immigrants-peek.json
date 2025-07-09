@@ -1,0 +1,56 @@
+{
+  "match_id": 82973,
+  "slug": "bad-news-capybaras-vs-immigrants-peek-06-03-2025",
+  "bo_type": 3,
+  "team1_id": 19055,
+  "team2_id": 18512,
+  "team1_name": "Bad News Capybaras",
+  "team2_name": "Immigrants Peek",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Bad News Capybaras",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 122287,
+      "rounds_count": 21,
+      "winner_team_id": 19055,
+      "loser_team_id": 18512,
+      "winner_score": 11,
+      "loser_score": 9,
+      "begin_at": "2025-03-06T01:50:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 122288,
+      "rounds_count": 23,
+      "winner_team_id": 19055,
+      "loser_team_id": 18512,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-06T01:02:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 122289,
+      "rounds_count": 21,
+      "winner_team_id": 18512,
+      "loser_team_id": 19055,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-06T00:09:44.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-06"
+}

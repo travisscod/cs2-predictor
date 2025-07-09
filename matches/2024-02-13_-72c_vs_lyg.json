@@ -1,0 +1,25 @@
+{
+  "match_id": 44272,
+  "slug": "-72c-vs-lyg-gaming-13-02-2024",
+  "bo_type": 1,
+  "team1_id": 7567,
+  "team2_id": 10181,
+  "team1_name": "-72c",
+  "team2_name": "LYG",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "-72c",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 82123,
+      "begin_at": "2024-02-13T14:46:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "1593",
+  "tournament_name": "ESL Challenger League Season 47: Asia",
+  "scrape_date": "2024-02-13"
+}

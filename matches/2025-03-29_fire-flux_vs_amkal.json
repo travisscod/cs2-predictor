@@ -1,0 +1,56 @@
+{
+  "match_id": 85197,
+  "slug": "fire-flux-vs-amkal-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 16724,
+  "team2_id": 9815,
+  "team1_name": "Fire Flux",
+  "team2_name": "AMKAL",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "AMKAL",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124476,
+      "rounds_count": 15,
+      "winner_team_id": 9815,
+      "loser_team_id": 16724,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-29T20:59:09.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124477,
+      "rounds_count": 22,
+      "winner_team_id": 16724,
+      "loser_team_id": 9815,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T19:44:08.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124478,
+      "rounds_count": 29,
+      "winner_team_id": 9815,
+      "loser_team_id": 16724,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-03-29T18:20:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

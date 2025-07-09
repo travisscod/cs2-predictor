@@ -1,0 +1,56 @@
+{
+  "match_id": 85224,
+  "slug": "ence-vs-b8-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 1539,
+  "team2_id": 754,
+  "team1_name": "B8",
+  "team2_name": "ENCE",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "B8",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124557,
+      "rounds_count": 21,
+      "winner_team_id": 1539,
+      "loser_team_id": 754,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-29T11:09:42.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124558,
+      "rounds_count": 20,
+      "winner_team_id": 754,
+      "loser_team_id": 1539,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-29T10:13:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124559,
+      "rounds_count": 21,
+      "winner_team_id": 1539,
+      "loser_team_id": 754,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-29T09:15:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

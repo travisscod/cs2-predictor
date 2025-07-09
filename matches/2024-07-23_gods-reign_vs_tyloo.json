@@ -1,0 +1,25 @@
+{
+  "match_id": 53551,
+  "slug": "gods-reign-vs-tyloo-cs-go-23-07-2024",
+  "bo_type": 1,
+  "team1_id": 6283,
+  "team2_id": 757,
+  "team1_name": "Gods Reign",
+  "team2_name": "TYLOO",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "TYLOO",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 96757,
+      "begin_at": "2024-07-23T12:02:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2559",
+  "tournament_name": "ESL Challenger League Season 48: Asia",
+  "scrape_date": "2024-07-23"
+}

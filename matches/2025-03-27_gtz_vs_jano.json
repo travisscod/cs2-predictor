@@ -1,0 +1,59 @@
+{
+  "match_id": 85098,
+  "slug": "gtz-bulls-vs-jano-esports-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 40,
+  "team2_id": 3628,
+  "team1_name": "GTZ",
+  "team2_name": "JANO",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "JANO",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 124224,
+      "rounds_count": 24,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-27T14:08:59.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124225,
+      "rounds_count": 24,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-27T13:05:24.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124226,
+      "rounds_count": 23,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-27T12:16:21.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

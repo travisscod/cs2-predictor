@@ -1,0 +1,25 @@
+{
+  "match_id": 41796,
+  "slug": "thunderflash-vs-space-10-01-2024",
+  "bo_type": 1,
+  "team1_id": 2757,
+  "team2_id": 7496,
+  "team1_name": "ThunderFlash",
+  "team2_name": "Space",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Space",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 79153,
+      "begin_at": "2024-01-10T21:41:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2341",
+  "tournament_name": "PGL Major Copenhagen 2024: European Open Qualifier 2",
+  "scrape_date": "2024-01-10"
+}

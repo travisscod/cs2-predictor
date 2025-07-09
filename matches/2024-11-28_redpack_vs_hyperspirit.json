@@ -1,0 +1,30 @@
+{
+  "match_id": 74058,
+  "slug": "redpack-esports-vs-hyperspirit-28-11-2024",
+  "bo_type": 1,
+  "team1_id": 3193,
+  "team2_id": 9651,
+  "team1_name": "RedPack",
+  "team2_name": "HyperSpirit",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "HyperSpirit",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 112629,
+      "rounds_count": 20,
+      "winner_team_id": 9651,
+      "loser_team_id": 3193,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-11-28T15:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3725",
+  "tournament_name": "Romanian Esports League Season 4 Opening",
+  "scrape_date": "2024-11-28"
+}

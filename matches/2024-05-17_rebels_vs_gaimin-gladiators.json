@@ -1,0 +1,43 @@
+{
+  "match_id": 48174,
+  "slug": "rebels-gaming-cs-vs-gaimingladiators-17-05-2024",
+  "bo_type": 3,
+  "team1_id": 9932,
+  "team2_id": 2698,
+  "team1_name": "Rebels",
+  "team2_name": "Gaimin Gladiators",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Rebels",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_vertigo",
+      "map_id": 88687,
+      "rounds_count": 16,
+      "winner_team_id": 9932,
+      "loser_team_id": 2698,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2024-05-17T13:15:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 88688,
+      "rounds_count": 20,
+      "winner_team_id": 9932,
+      "loser_team_id": 2698,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-05-17T12:36:37.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2484",
+  "tournament_name": "Elisa Invitational Spring 2024",
+  "scrape_date": "2024-05-17"
+}

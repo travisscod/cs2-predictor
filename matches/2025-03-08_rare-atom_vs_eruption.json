@@ -1,0 +1,43 @@
+{
+  "match_id": 82882,
+  "slug": "rare-atom-vs-eruption-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 2506,
+  "team2_id": 1248,
+  "team1_name": "Rare Atom",
+  "team2_name": "Eruption",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Rare Atom",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 122188,
+      "rounds_count": 19,
+      "winner_team_id": 2506,
+      "loser_team_id": 1248,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-08T07:40:37.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 122190,
+      "rounds_count": 23,
+      "winner_team_id": 2506,
+      "loser_team_id": 1248,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-08T05:48:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-08"
+}

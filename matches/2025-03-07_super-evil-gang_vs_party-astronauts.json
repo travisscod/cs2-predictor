@@ -1,0 +1,43 @@
+{
+  "match_id": 83255,
+  "slug": "super-evil-gang-vs-party-astronauts-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 19918,
+  "team2_id": 605,
+  "team1_name": "SUPER EVIL GANG",
+  "team2_name": "Party Astronauts",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Party Astronauts",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 122735,
+      "rounds_count": 19,
+      "winner_team_id": 605,
+      "loser_team_id": 19918,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-07T03:58:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 122736,
+      "rounds_count": 30,
+      "winner_team_id": 605,
+      "loser_team_id": 19918,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-07T02:51:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-07"
+}

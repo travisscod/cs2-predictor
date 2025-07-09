@@ -1,0 +1,43 @@
+{
+  "match_id": 83261,
+  "slug": "party-astronauts-vs-bluejays-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 605,
+  "team2_id": 79,
+  "team1_name": "Party Astronauts",
+  "team2_name": "BLUEJAYS",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "BLUEJAYS",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 122753,
+      "rounds_count": 29,
+      "winner_team_id": 79,
+      "loser_team_id": 605,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-03-09T01:41:50.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122754,
+      "rounds_count": 20,
+      "winner_team_id": 79,
+      "loser_team_id": 605,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-09T00:46:34.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-09"
+}

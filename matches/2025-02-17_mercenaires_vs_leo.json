@@ -1,0 +1,45 @@
+{
+  "match_id": 81542,
+  "slug": "mercenaires-vs-l-g-17-02-2025",
+  "bo_type": 3,
+  "team1_id": 19970,
+  "team2_id": 5933,
+  "team1_name": "Mercenaires",
+  "team2_name": "Leo",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Leo",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 119593,
+      "rounds_count": 36,
+      "winner_team_id": 5933,
+      "loser_team_id": 19970,
+      "winner_score": 19,
+      "loser_score": 17,
+      "begin_at": "2025-02-17T17:35:42.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 119594,
+      "rounds_count": 23,
+      "winner_team_id": 5933,
+      "loser_team_id": 19970,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-02-17T16:28:52.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4148",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 2",
+  "scrape_date": "2025-02-17"
+}

@@ -1,0 +1,56 @@
+{
+  "match_id": 85215,
+  "slug": "wildlotus-vs-team-novaq-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 20008,
+  "team2_id": 20024,
+  "team1_name": "WildLotus",
+  "team2_name": "Novaq",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Novaq",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124530,
+      "rounds_count": 23,
+      "winner_team_id": 20024,
+      "loser_team_id": 20008,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-29T14:54:43.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124531,
+      "rounds_count": 24,
+      "winner_team_id": 20024,
+      "loser_team_id": 20008,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-29T13:48:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124532,
+      "rounds_count": 22,
+      "winner_team_id": 20008,
+      "loser_team_id": 20024,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-29T12:44:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

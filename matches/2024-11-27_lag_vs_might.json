@@ -1,0 +1,56 @@
+{
+  "match_id": 73980,
+  "slug": "lag-gaming-vs-might-27-11-2024",
+  "bo_type": 3,
+  "team1_id": 5345,
+  "team2_id": 8283,
+  "team1_name": "LAG",
+  "team2_name": "MIGHT",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "LAG",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 112462,
+      "rounds_count": 21,
+      "winner_team_id": 5345,
+      "loser_team_id": 8283,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-11-27T02:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 112463,
+      "rounds_count": 19,
+      "winner_team_id": 5345,
+      "loser_team_id": 8283,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2024-11-27T01:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 112464,
+      "rounds_count": 22,
+      "winner_team_id": 8283,
+      "loser_team_id": 5345,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-11-27T00:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3726",
+  "tournament_name": "Perseverance League: Persevere Division",
+  "scrape_date": "2024-11-27"
+}

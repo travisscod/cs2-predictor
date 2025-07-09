@@ -1,0 +1,59 @@
+{
+  "match_id": 85108,
+  "slug": "iberian-soul-vs-9ine-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 19100,
+  "team2_id": 495,
+  "team1_name": "Iberian Soul",
+  "team2_name": "9INE",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "9INE",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 124254,
+      "rounds_count": 24,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-27T20:33:20.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 124255,
+      "rounds_count": 24,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-27T19:17:20.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124256,
+      "rounds_count": 20,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-27T18:18:35.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

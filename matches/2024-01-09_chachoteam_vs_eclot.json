@@ -1,0 +1,25 @@
+{
+  "match_id": 41679,
+  "slug": "chachoteam-vs-dynamo-eclot-09-01-2024",
+  "bo_type": 1,
+  "team1_id": 9868,
+  "team2_id": 3820,
+  "team1_name": "ChachoTeam",
+  "team2_name": "ECLOT",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "ECLOT",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 79040,
+      "begin_at": "2024-01-09T15:23:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2337",
+  "tournament_name": "PGL Major Copenhagen 2024: European Open Qualifier 1",
+  "scrape_date": "2024-01-09"
+}

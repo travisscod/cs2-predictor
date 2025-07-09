@@ -1,0 +1,54 @@
+{
+  "match_id": 84724,
+  "slug": "next-level-vs-eyeballers-22-03-2025",
+  "bo_type": 3,
+  "team1_id": 3254,
+  "team2_id": 10528,
+  "team1_name": "EYEBALLERS",
+  "team2_name": "TNL",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "TNL",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 124124,
+      "rounds_count": 22,
+      "winner_team_id": 10528,
+      "loser_team_id": 3254,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-22T20:43:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124125,
+      "winner_team_id": 10528,
+      "loser_team_id": 3254,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-22T19:35:53.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124126,
+      "winner_team_id": 3254,
+      "loser_team_id": 10528,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-22T18:43:14.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4297",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 3",
+  "scrape_date": "2025-03-22"
+}

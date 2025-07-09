@@ -1,0 +1,29 @@
+{
+  "match_id": 84799,
+  "slug": "bombardino-crocodilo-vs-nip-24-03-2025",
+  "bo_type": 1,
+  "team1_id": 20493,
+  "team2_id": 785,
+  "team1_name": "bombardino crocodilo",
+  "team2_name": "Ninjas in Pyjamas",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Ninjas in Pyjamas",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124151,
+      "winner_team_id": 785,
+      "loser_team_id": 20493,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-24T15:07:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4303",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 4",
+  "scrape_date": "2025-03-24"
+}

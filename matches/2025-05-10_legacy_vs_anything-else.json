@@ -1,0 +1,35 @@
+{
+  "match_id": 88621,
+  "slug": "legacy-br-vs-anything-else-10-05-2025",
+  "bo_type": 1,
+  "team1_id": 8118,
+  "team2_id": 19143,
+  "team1_name": "Legacy",
+  "team2_name": "anything else",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Legacy",
+  "games": [
+    {
+      "number": 3,
+      "map_id": 128864,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_id": 128865,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_id": 128866,
+      "status": "upcoming",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3755",
+  "tournament_name": "Thunderpick World Championship 2025: North American Series 1",
+  "scrape_date": "2025-05-10"
+}

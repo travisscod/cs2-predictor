@@ -1,0 +1,56 @@
+{
+  "match_id": 83043,
+  "slug": "gun5-vs-monte-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 8211,
+  "team2_id": 3581,
+  "team1_name": "GUN5",
+  "team2_name": "Monte",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "GUN5",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 122498,
+      "rounds_count": 23,
+      "winner_team_id": 8211,
+      "loser_team_id": 3581,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-07T19:16:05.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 122499,
+      "rounds_count": 23,
+      "winner_team_id": 8211,
+      "loser_team_id": 3581,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-07T18:12:53.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 122500,
+      "rounds_count": 19,
+      "winner_team_id": 3581,
+      "loser_team_id": 8211,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-07T17:14:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-07"
+}

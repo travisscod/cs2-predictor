@@ -1,0 +1,29 @@
+{
+  "match_id": 84798,
+  "slug": "kono-ecf-vs-informmix-24-03-2025",
+  "bo_type": 1,
+  "team1_id": 10460,
+  "team2_id": 20006,
+  "team1_name": "kONO",
+  "team2_name": "informmix",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "informmix",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124150,
+      "winner_team_id": 20006,
+      "loser_team_id": 10460,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-24T15:07:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4303",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 4",
+  "scrape_date": "2025-03-24"
+}

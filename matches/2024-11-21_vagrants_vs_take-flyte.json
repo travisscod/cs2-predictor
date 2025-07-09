@@ -1,0 +1,33 @@
+{
+  "match_id": 73978,
+  "slug": "vagrants-vs-take-flyte-21-11-2024",
+  "bo_type": 3,
+  "team1_id": 9855,
+  "team2_id": 2882,
+  "team1_name": "Vagrants",
+  "team2_name": "Take Flyte",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Take Flyte",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 112458,
+      "begin_at": "2024-11-21T02:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 112459,
+      "begin_at": "2024-11-21T01:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3726",
+  "tournament_name": "Perseverance League: Persevere Division",
+  "scrape_date": "2024-11-21"
+}

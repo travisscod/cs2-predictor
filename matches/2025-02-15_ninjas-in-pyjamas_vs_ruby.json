@@ -1,0 +1,56 @@
+{
+  "match_id": 81181,
+  "slug": "nip-vs-ruby-15-02-2025",
+  "bo_type": 3,
+  "team1_id": 785,
+  "team2_id": 10069,
+  "team1_name": "Ninjas in Pyjamas",
+  "team2_name": "RUBY",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Ninjas in Pyjamas",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 119214,
+      "rounds_count": 24,
+      "winner_team_id": 785,
+      "loser_team_id": 10069,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-02-15T17:53:44.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 119215,
+      "rounds_count": 24,
+      "winner_team_id": 785,
+      "loser_team_id": 10069,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-02-15T16:52:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 119216,
+      "rounds_count": 22,
+      "winner_team_id": 10069,
+      "loser_team_id": 785,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-02-15T16:14:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4143",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 1",
+  "scrape_date": "2025-02-15"
+}

@@ -1,0 +1,33 @@
+{
+  "match_id": 55048,
+  "slug": "change-the-game-vs-wdnmd-02-08-2024",
+  "bo_type": 2,
+  "team1_id": 7648,
+  "team2_id": 2646,
+  "team1_name": "Change The Game",
+  "team2_name": "WDNMD",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "WDNMD",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 99163,
+      "begin_at": "2024-08-02T13:58:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 99164,
+      "begin_at": "2024-08-02T13:06:19.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2869",
+  "tournament_name": "XSE Pro League Season 2",
+  "scrape_date": "2024-08-02"
+}

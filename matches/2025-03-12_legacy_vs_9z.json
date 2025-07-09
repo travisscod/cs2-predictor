@@ -1,0 +1,82 @@
+{
+  "match_id": 82334,
+  "slug": "legacy-br-vs-9z-12-03-2025",
+  "bo_type": 5,
+  "team1_id": 8118,
+  "team2_id": 324,
+  "team1_name": "Legacy",
+  "team2_name": "9z",
+  "team1_score": 3,
+  "team2_score": 2,
+  "winner_team": "Legacy",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 121011,
+      "rounds_count": 18,
+      "winner_team_id": 324,
+      "loser_team_id": 8118,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-12T22:32:33.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 121012,
+      "rounds_count": 21,
+      "winner_team_id": 8118,
+      "loser_team_id": 324,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-12T21:04:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 121013,
+      "rounds_count": 20,
+      "winner_team_id": 8118,
+      "loser_team_id": 324,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-12T20:13:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 5,
+      "map_name": "de_mirage",
+      "map_id": 121014,
+      "rounds_count": 21,
+      "winner_team_id": 8118,
+      "loser_team_id": 324,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-13T00:45:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 4,
+      "map_name": "de_ancient",
+      "map_id": 121015,
+      "rounds_count": 20,
+      "winner_team_id": 324,
+      "loser_team_id": 8118,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-12T23:28:45.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-12"
+}

@@ -1,0 +1,31 @@
+{
+  "match_id": 83877,
+  "slug": "kubix-esports-vs-betera-15-03-2025",
+  "bo_type": 1,
+  "team1_id": 10708,
+  "team2_id": 7641,
+  "team1_name": "Kubix",
+  "team2_name": "Betera",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Kubix",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 123479,
+      "rounds_count": 18,
+      "winner_team_id": 10708,
+      "loser_team_id": 7641,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-15T15:09:51.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

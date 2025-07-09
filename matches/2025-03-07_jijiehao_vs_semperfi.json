@@ -1,0 +1,29 @@
+{
+  "match_id": 83175,
+  "slug": "jijiehao-vs-semperfi-esports-07-03-2025",
+  "bo_type": 1,
+  "team1_id": 3869,
+  "team2_id": 11042,
+  "team1_name": "JiJieHao",
+  "team2_name": "SemperFi",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "JiJieHao",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 122608,
+      "winner_team_id": 3869,
+      "loser_team_id": 11042,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-07T03:54:42.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-07"
+}

@@ -1,0 +1,25 @@
+{
+  "match_id": 45644,
+  "slug": "lyg-gaming-vs-gr-gaming-05-03-2024",
+  "bo_type": 1,
+  "team1_id": 10181,
+  "team2_id": 2514,
+  "team1_name": "LYG",
+  "team2_name": "GR",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "GR",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 83849,
+      "begin_at": "2024-03-05T11:01:06.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "1593",
+  "tournament_name": "ESL Challenger League Season 47: Asia",
+  "scrape_date": "2024-03-05"
+}

@@ -1,0 +1,30 @@
+{
+  "match_id": 81738,
+  "slug": "polet-vs-informmix-21-02-2025",
+  "bo_type": 1,
+  "team1_id": 3438,
+  "team2_id": 20006,
+  "team1_name": "POLET",
+  "team2_name": "informmix",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "informmix",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 119819,
+      "winner_team_id": 20006,
+      "loser_team_id": 3438,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-02-21T15:14:47.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

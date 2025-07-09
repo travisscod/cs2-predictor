@@ -1,0 +1,41 @@
+{
+  "match_id": 83882,
+  "slug": "msklaners-vs-benched-15-03-2025",
+  "bo_type": 3,
+  "team1_id": 1258,
+  "team2_id": 7388,
+  "team1_name": "benched",
+  "team2_name": "mskLANERS",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "benched",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 123487,
+      "winner_team_id": 1258,
+      "loser_team_id": 7388,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-15T17:09:10.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 123488,
+      "winner_team_id": 1258,
+      "loser_team_id": 7388,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-15T16:18:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

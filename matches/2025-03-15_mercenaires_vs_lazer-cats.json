@@ -1,0 +1,30 @@
+{
+  "match_id": 83876,
+  "slug": "mercenaires-vs-lazer-cats-15-03-2025",
+  "bo_type": 1,
+  "team1_id": 19970,
+  "team2_id": 5391,
+  "team1_name": "Mercenaires",
+  "team2_name": "Lazer Cats",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Mercenaires",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 123478,
+      "rounds_count": 15,
+      "winner_team_id": 19970,
+      "loser_team_id": 5391,
+      "winner_score": 13,
+      "loser_score": 2,
+      "begin_at": "2025-03-15T15:16:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4276",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 1",
+  "scrape_date": "2025-03-15"
+}

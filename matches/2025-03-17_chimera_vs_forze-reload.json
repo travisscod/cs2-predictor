@@ -1,0 +1,30 @@
+{
+  "match_id": 84036,
+  "slug": "chimera-esports-vs-forze-reload-17-03-2025",
+  "bo_type": 1,
+  "team1_id": 19070,
+  "team2_id": 10703,
+  "team1_name": "Chimera",
+  "team2_name": "FORZE Reload",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "FORZE Reload",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 123644,
+      "rounds_count": 22,
+      "winner_team_id": 10703,
+      "loser_team_id": 19070,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-17T15:06:45.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

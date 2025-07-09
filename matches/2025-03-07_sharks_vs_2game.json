@@ -1,0 +1,41 @@
+{
+  "match_id": 83031,
+  "slug": "sharks-vs-2game-esports-cs-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 747,
+  "team2_id": 10194,
+  "team1_name": "Sharks",
+  "team2_name": "2GAME",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Sharks",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 122463,
+      "winner_team_id": 747,
+      "loser_team_id": 10194,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-07T21:37:59.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 122464,
+      "winner_team_id": 747,
+      "loser_team_id": 10194,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-07T20:28:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-07"
+}

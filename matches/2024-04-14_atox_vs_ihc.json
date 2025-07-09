@@ -1,0 +1,33 @@
+{
+  "match_id": 47622,
+  "slug": "atox-vs-ihc-14-04-2024",
+  "bo_type": 3,
+  "team1_id": 6298,
+  "team2_id": 2748,
+  "team1_name": "ATOX",
+  "team2_name": "IHC",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "ATOX",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_overpass",
+      "map_id": 87481,
+      "begin_at": "2024-04-14T08:07:35.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 87482,
+      "begin_at": "2024-04-14T07:09:22.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2683",
+  "tournament_name": "ESN National Championship 2024",
+  "scrape_date": "2024-04-14"
+}

@@ -1,0 +1,30 @@
+{
+  "match_id": 81737,
+  "slug": "amkal-vs-cybershoke-21-02-2025",
+  "bo_type": 1,
+  "team1_id": 9815,
+  "team2_id": 7429,
+  "team1_name": "AMKAL",
+  "team2_name": "CYBERSHOKE",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "CYBERSHOKE",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 119818,
+      "rounds_count": 19,
+      "winner_team_id": 7429,
+      "loser_team_id": 9815,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-02-21T15:43:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

@@ -1,0 +1,56 @@
+{
+  "match_id": 83260,
+  "slug": "bluejays-vs-mythic-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 79,
+  "team2_id": 606,
+  "team1_name": "BLUEJAYS",
+  "team2_name": "Mythic",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "BLUEJAYS",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_train",
+      "map_id": 122749,
+      "rounds_count": 17,
+      "winner_team_id": 79,
+      "loser_team_id": 606,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-08T23:22:58.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 122750,
+      "rounds_count": 20,
+      "winner_team_id": 79,
+      "loser_team_id": 606,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-08T22:35:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 122751,
+      "rounds_count": 35,
+      "winner_team_id": 606,
+      "loser_team_id": 79,
+      "winner_score": 19,
+      "loser_score": 16,
+      "begin_at": "2025-03-08T21:10:50.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-08"
+}

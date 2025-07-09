@@ -1,0 +1,53 @@
+{
+  "match_id": 82326,
+  "slug": "prasso-clan-vs-2game-esports-cs-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 19971,
+  "team2_id": 10194,
+  "team1_name": "Prasso",
+  "team2_name": "2GAME",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "2GAME",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 120987,
+      "winner_team_id": 10194,
+      "loser_team_id": 19971,
+      "winner_score": 25,
+      "loser_score": 23,
+      "begin_at": "2025-03-09T17:13:26.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 120988,
+      "winner_team_id": 10194,
+      "loser_team_id": 19971,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-09T16:18:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 120989,
+      "winner_team_id": 19971,
+      "loser_team_id": 10194,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-09T15:36:56.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-09"
+}

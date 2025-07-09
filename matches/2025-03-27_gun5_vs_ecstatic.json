@@ -1,0 +1,59 @@
+{
+  "match_id": 85111,
+  "slug": "gun5-vs-ecstatic-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 8211,
+  "team2_id": 2245,
+  "team1_name": "GUN5",
+  "team2_name": "ECSTATIC",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "GUN5",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 124263,
+      "rounds_count": 23,
+      "winner_team_id": 8211,
+      "loser_team_id": 2245,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-27T16:53:20.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124264,
+      "rounds_count": 21,
+      "winner_team_id": 2245,
+      "loser_team_id": 8211,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-27T15:53:44.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124265,
+      "rounds_count": 18,
+      "winner_team_id": 8211,
+      "loser_team_id": 2245,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-27T15:03:56.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

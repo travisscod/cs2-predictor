@@ -1,0 +1,25 @@
+{
+  "match_id": 53651,
+  "slug": "atox-vs-clutch-gaming-13-08-2024",
+  "bo_type": 1,
+  "team1_id": 6298,
+  "team2_id": 2509,
+  "team1_name": "ATOX",
+  "team2_name": "Clutch",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "ATOX",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 96857,
+      "begin_at": "2024-08-13T12:00:56.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2559",
+  "tournament_name": "ESL Challenger League Season 48: Asia",
+  "scrape_date": "2024-08-13"
+}

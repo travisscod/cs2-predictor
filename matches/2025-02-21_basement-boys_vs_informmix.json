@@ -1,0 +1,59 @@
+{
+  "match_id": 81744,
+  "slug": "basement-boys-vs-informmix-21-02-2025",
+  "bo_type": 3,
+  "team1_id": 19881,
+  "team2_id": 20006,
+  "team1_name": "BASEMENT BOYS",
+  "team2_name": "informmix",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "BASEMENT BOYS",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 119825,
+      "rounds_count": 21,
+      "winner_team_id": 19881,
+      "loser_team_id": 20006,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-02-21T17:41:39.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 119826,
+      "rounds_count": 21,
+      "winner_team_id": 19881,
+      "loser_team_id": 20006,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-02-21T16:52:45.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 119827,
+      "rounds_count": 17,
+      "winner_team_id": 20006,
+      "loser_team_id": 19881,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-02-21T16:14:22.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4150",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 3",
+  "scrape_date": "2025-02-21"
+}

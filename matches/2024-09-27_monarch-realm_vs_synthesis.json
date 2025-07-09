@@ -1,0 +1,41 @@
+{
+  "match_id": 69572,
+  "slug": "monarch-realm-cs-vs-synthesis-27-09-2024",
+  "bo_type": 3,
+  "team1_id": 10161,
+  "team2_id": 18457,
+  "team1_name": "Monarch Realm",
+  "team2_name": "Synthesis",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Monarch Realm",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 106498,
+      "begin_at": "2024-09-27T11:50:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 106499,
+      "begin_at": "2024-09-27T11:05:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 106500,
+      "begin_at": "2024-09-27T10:05:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3552",
+  "tournament_name": "VS Gaming League Masters 2024",
+  "scrape_date": "2024-09-27"
+}

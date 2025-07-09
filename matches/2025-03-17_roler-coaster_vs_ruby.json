@@ -1,0 +1,56 @@
+{
+  "match_id": 84041,
+  "slug": "ruby-vs-roler-coaster-17-03-2025",
+  "bo_type": 3,
+  "team1_id": 20023,
+  "team2_id": 10069,
+  "team1_name": "Roler Coaster",
+  "team2_name": "RUBY",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Roler Coaster",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 123657,
+      "rounds_count": 16,
+      "winner_team_id": 20023,
+      "loser_team_id": 10069,
+      "winner_score": 8,
+      "loser_score": 7,
+      "begin_at": "2025-03-17T22:14:55.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_train",
+      "map_id": 123658,
+      "rounds_count": 19,
+      "winner_team_id": 10069,
+      "loser_team_id": 20023,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-17T21:21:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 123659,
+      "rounds_count": 24,
+      "winner_team_id": 20023,
+      "loser_team_id": 10069,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-17T20:18:46.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

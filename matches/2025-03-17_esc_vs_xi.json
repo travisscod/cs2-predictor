@@ -1,0 +1,30 @@
+{
+  "match_id": 84034,
+  "slug": "esc-vs-xi-esport-17-03-2025",
+  "bo_type": 1,
+  "team1_id": 742,
+  "team2_id": 3708,
+  "team1_name": "ESC",
+  "team2_name": "XI",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "ESC",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 123642,
+      "rounds_count": 18,
+      "winner_team_id": 742,
+      "loser_team_id": 3708,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-17T15:06:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

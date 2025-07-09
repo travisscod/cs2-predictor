@@ -1,0 +1,53 @@
+{
+  "match_id": 84723,
+  "slug": "l-g-vs-tricked-22-03-2025",
+  "bo_type": 3,
+  "team1_id": 5933,
+  "team2_id": 647,
+  "team1_name": "Leo",
+  "team2_name": "Tricked",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Leo",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124121,
+      "winner_team_id": 5933,
+      "loser_team_id": 647,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-22T22:58:50.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124122,
+      "winner_team_id": 5933,
+      "loser_team_id": 647,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-22T22:00:13.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 124123,
+      "winner_team_id": 647,
+      "loser_team_id": 5933,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-22T20:40:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4297",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 3",
+  "scrape_date": "2025-03-22"
+}

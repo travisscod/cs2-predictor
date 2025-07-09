@@ -1,0 +1,35 @@
+{
+  "match_id": 91102,
+  "slug": "quem-sao-elas-vs-bounty-hunters-esports-15-06-2025",
+  "bo_type": 1,
+  "team1_id": 2790,
+  "team2_id": 6282,
+  "team1_name": "Quem Sao Elas",
+  "team2_name": "Bounty Hunters",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Bounty Hunters",
+  "games": [
+    {
+      "number": 3,
+      "map_id": 131959,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_id": 131960,
+      "status": "upcoming",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_id": 131961,
+      "status": "upcoming",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4509",
+  "tournament_name": "CCT Season 3 South American Series 1",
+  "scrape_date": "2025-06-15"
+}

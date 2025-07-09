@@ -1,0 +1,43 @@
+{
+  "match_id": 82321,
+  "slug": "adal-e-amigos-vs-prasso-clan-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 9598,
+  "team2_id": 19971,
+  "team1_name": "adalYamigos",
+  "team2_name": "Prasso",
+  "team1_score": 1,
+  "team2_score": 1,
+  "winner_team": "draw",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 120972,
+      "rounds_count": 19,
+      "winner_team_id": 19971,
+      "loser_team_id": 9598,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-07T19:28:43.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 120974,
+      "rounds_count": 20,
+      "winner_team_id": 9598,
+      "loser_team_id": 19971,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-07T17:34:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-07"
+}

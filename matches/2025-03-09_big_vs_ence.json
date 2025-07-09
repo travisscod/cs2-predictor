@@ -1,0 +1,43 @@
+{
+  "match_id": 82386,
+  "slug": "big-vs-ence-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 756,
+  "team2_id": 754,
+  "team1_name": "BIG",
+  "team2_name": "ENCE",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "ENCE",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 121170,
+      "rounds_count": 20,
+      "winner_team_id": 754,
+      "loser_team_id": 756,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-09T12:20:55.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 121171,
+      "rounds_count": 22,
+      "winner_team_id": 754,
+      "loser_team_id": 756,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-09T11:28:44.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-09"
+}

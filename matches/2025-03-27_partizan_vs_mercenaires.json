@@ -1,0 +1,45 @@
+{
+  "match_id": 85105,
+  "slug": "partizan-esport-vs-mercenaires-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 3643,
+  "team2_id": 19970,
+  "team1_name": "Partizan",
+  "team2_name": "Mercenaires",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Partizan",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124246,
+      "rounds_count": 17,
+      "winner_team_id": 3643,
+      "loser_team_id": 19970,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-27T10:25:04.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124247,
+      "rounds_count": 24,
+      "winner_team_id": 3643,
+      "loser_team_id": 19970,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-27T09:15:24.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

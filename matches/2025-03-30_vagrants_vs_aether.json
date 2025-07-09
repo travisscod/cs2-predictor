@@ -1,0 +1,41 @@
+{
+  "match_id": 85260,
+  "slug": "vagrants-vs-team-aether-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 9855,
+  "team2_id": 10764,
+  "team1_name": "Vagrants",
+  "team2_name": "Aether",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Vagrants",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 124659,
+      "winner_team_id": 9855,
+      "loser_team_id": 10764,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-30T00:00:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 124660,
+      "winner_team_id": 9855,
+      "loser_team_id": 10764,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-29T23:11:26.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-30"
+}

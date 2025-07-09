@@ -1,0 +1,53 @@
+{
+  "match_id": 85324,
+  "slug": "shinden-vs-red-canids-cs-go-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 11174,
+  "team2_id": 554,
+  "team1_name": "ShindeN",
+  "team2_name": "RED Canids",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "RED Canids",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 124852,
+      "winner_team_id": 554,
+      "loser_team_id": 11174,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-29T22:00:54.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 124853,
+      "winner_team_id": 11174,
+      "loser_team_id": 554,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-29T21:00:54.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124854,
+      "winner_team_id": 554,
+      "loser_team_id": 11174,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-29T20:08:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-29"
+}

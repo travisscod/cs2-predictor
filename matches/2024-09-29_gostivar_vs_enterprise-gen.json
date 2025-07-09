@@ -1,0 +1,25 @@
+{
+  "match_id": 69322,
+  "slug": "gostivar-vs-ep-genesis-29-09-2024",
+  "bo_type": 1,
+  "team1_id": 18413,
+  "team2_id": 10081,
+  "team1_name": "Gostivar",
+  "team2_name": "Enterprise Gen",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Gostivar",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 106205,
+      "begin_at": "2024-09-29T19:21:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3529",
+  "tournament_name": "T-esports Championship Season 3",
+  "scrape_date": "2024-09-29"
+}

@@ -1,0 +1,56 @@
+{
+  "match_id": 51184,
+  "slug": "vp-prodigy-vs-vaseline-worms-03-06-2024",
+  "bo_type": 3,
+  "team1_id": 814,
+  "team2_id": 9016,
+  "team1_name": "VP.Prodigy",
+  "team2_name": "Vaseline Worms",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Vaseline Worms",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 92878,
+      "rounds_count": 19,
+      "winner_team_id": 9016,
+      "loser_team_id": 814,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2024-06-03T19:23:54.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 92879,
+      "rounds_count": 17,
+      "winner_team_id": 814,
+      "loser_team_id": 9016,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2024-06-03T18:45:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 92880,
+      "rounds_count": 20,
+      "winner_team_id": 9016,
+      "loser_team_id": 814,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-06-03T18:03:12.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2801",
+  "tournament_name": "Winline Pro League Season 1",
+  "scrape_date": "2024-06-03"
+}

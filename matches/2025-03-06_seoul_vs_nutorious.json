@@ -1,0 +1,50 @@
+{
+  "match_id": 83253,
+  "slug": "seoul-vs-nutorious-06-03-2025",
+  "bo_type": 3,
+  "team1_id": 20012,
+  "team2_id": 9018,
+  "team1_name": "seoul",
+  "team2_name": "NuTorious",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "NuTorious",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 122728,
+      "rounds_count": 35,
+      "winner_team_id": 9018,
+      "loser_team_id": 20012,
+      "winner_score": 19,
+      "loser_score": 16,
+      "begin_at": "2025-03-06T23:26:11.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 122729,
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122730,
+      "rounds_count": 21,
+      "winner_team_id": 9018,
+      "loser_team_id": 20012,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-06T21:19:43.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-06"
+}

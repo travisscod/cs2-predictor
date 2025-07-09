@@ -1,0 +1,55 @@
+{
+  "match_id": 85297,
+  "slug": "m80-cs-go-vs-bluejays-01-04-2025",
+  "bo_type": 5,
+  "team1_id": 7430,
+  "team2_id": 79,
+  "team1_name": "M80",
+  "team2_name": "BLUEJAYS",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "M80",
+  "games": [
+    {
+      "number": 4,
+      "map_name": "de_mirage",
+      "map_id": 124770,
+      "rounds_count": 23,
+      "winner_team_id": 7430,
+      "loser_team_id": 79,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-04-02T01:39:59.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124772,
+      "rounds_count": 29,
+      "winner_team_id": 7430,
+      "loser_team_id": 79,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2025-04-01T23:07:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 124773,
+      "winner_team_id": 79,
+      "loser_team_id": 7430,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-04-01T22:01:12.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-04-02"
+}

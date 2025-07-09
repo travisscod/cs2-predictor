@@ -1,0 +1,55 @@
+{
+  "match_id": 85195,
+  "slug": "passion-ua-vs-fire-flux-29-03-2025",
+  "bo_type": 3,
+  "team1_id": 7631,
+  "team2_id": 16724,
+  "team1_name": "Passion UA",
+  "team2_name": "Fire Flux",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Fire Flux",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 124470,
+      "rounds_count": 24,
+      "winner_team_id": 16724,
+      "loser_team_id": 7631,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-29T15:25:10.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124471,
+      "rounds_count": 18,
+      "winner_team_id": 7631,
+      "loser_team_id": 16724,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-29T14:49:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124472,
+      "winner_team_id": 16724,
+      "loser_team_id": 7631,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-29T13:42:48.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-29"
+}

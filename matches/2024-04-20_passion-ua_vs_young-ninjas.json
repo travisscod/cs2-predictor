@@ -1,0 +1,56 @@
+{
+  "match_id": 47578,
+  "slug": "passion-ua-vs-young-ninjas-20-04-2024",
+  "bo_type": 3,
+  "team1_id": 7631,
+  "team2_id": 907,
+  "team1_name": "Passion UA",
+  "team2_name": "Young Ninjas",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Passion UA",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 87356,
+      "rounds_count": 22,
+      "winner_team_id": 7631,
+      "loser_team_id": 907,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-04-20T19:45:59.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 87357,
+      "rounds_count": 20,
+      "winner_team_id": 907,
+      "loser_team_id": 7631,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-04-20T18:55:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_vertigo",
+      "map_id": 87358,
+      "rounds_count": 20,
+      "winner_team_id": 7631,
+      "loser_team_id": 907,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-04-20T18:01:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2480",
+  "tournament_name": "RES European Series 2",
+  "scrape_date": "2024-04-20"
+}

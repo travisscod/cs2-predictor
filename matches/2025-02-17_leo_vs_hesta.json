@@ -1,0 +1,43 @@
+{
+  "match_id": 81547,
+  "slug": "l-g-vs-hesta-17-02-2025",
+  "bo_type": 3,
+  "team1_id": 5933,
+  "team2_id": 19875,
+  "team1_name": "Leo",
+  "team2_name": "Hesta",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Leo",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 119608,
+      "rounds_count": 23,
+      "winner_team_id": 5933,
+      "loser_team_id": 19875,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-02-17T20:05:43.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 119609,
+      "rounds_count": 21,
+      "winner_team_id": 5933,
+      "loser_team_id": 19875,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-02-17T19:11:28.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4148",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 2",
+  "scrape_date": "2025-02-17"
+}

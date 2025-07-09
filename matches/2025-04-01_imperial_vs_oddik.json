@@ -1,0 +1,63 @@
+{
+  "match_id": 85340,
+  "slug": "imperial-vs-oddik-01-04-2025",
+  "bo_type": 5,
+  "team1_id": 1430,
+  "team2_id": 3370,
+  "team1_name": "Imperial",
+  "team2_name": "ODDIK",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Imperial",
+  "games": [
+    {
+      "number": 5,
+      "map_name": "de_nuke",
+      "map_id": 124900,
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 4,
+      "map_name": "de_inferno",
+      "map_id": 124901,
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 3,
+      "map_name": "de_train",
+      "map_id": 124902,
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124903,
+      "rounds_count": 23,
+      "winner_team_id": 1430,
+      "loser_team_id": 3370,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-04-01T19:38:15.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124904,
+      "winner_team_id": 1430,
+      "loser_team_id": 3370,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-04-01T18:03:41.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-04-01"
+}

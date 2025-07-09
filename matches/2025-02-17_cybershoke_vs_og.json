@@ -1,0 +1,43 @@
+{
+  "match_id": 81546,
+  "slug": "cybershoke-vs-og-17-02-2025",
+  "bo_type": 3,
+  "team1_id": 7429,
+  "team2_id": 395,
+  "team1_name": "CYBERSHOKE",
+  "team2_name": "OG",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "OG",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 119605,
+      "rounds_count": 28,
+      "winner_team_id": 395,
+      "loser_team_id": 7429,
+      "winner_score": 16,
+      "loser_score": 12,
+      "begin_at": "2025-02-17T20:48:09.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 119606,
+      "rounds_count": 14,
+      "winner_team_id": 395,
+      "loser_team_id": 7429,
+      "winner_score": 13,
+      "loser_score": 1,
+      "begin_at": "2025-02-17T20:05:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4148",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 2",
+  "scrape_date": "2025-02-17"
+}

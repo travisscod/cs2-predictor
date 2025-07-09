@@ -1,0 +1,41 @@
+{
+  "match_id": 82316,
+  "slug": "solid-vs-kru-cs-10-03-2025",
+  "bo_type": 3,
+  "team1_id": 5950,
+  "team2_id": 10321,
+  "team1_name": "Solid",
+  "team2_name": "KRÜ",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Solid",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 120958,
+      "winner_team_id": 5950,
+      "loser_team_id": 10321,
+      "winner_score": 13,
+      "loser_score": 3,
+      "begin_at": "2025-03-10T19:17:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 120959,
+      "winner_team_id": 5950,
+      "loser_team_id": 10321,
+      "winner_score": 22,
+      "loser_score": 20,
+      "begin_at": "2025-03-10T17:20:20.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-10"
+}

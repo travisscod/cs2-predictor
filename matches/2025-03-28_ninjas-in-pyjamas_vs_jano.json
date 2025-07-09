@@ -1,0 +1,43 @@
+{
+  "match_id": 85192,
+  "slug": "nip-vs-jano-esports-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 785,
+  "team2_id": 3628,
+  "team1_name": "Ninjas in Pyjamas",
+  "team2_name": "JANO",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Ninjas in Pyjamas",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124462,
+      "rounds_count": 20,
+      "winner_team_id": 785,
+      "loser_team_id": 3628,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-28T16:53:28.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 124463,
+      "rounds_count": 13,
+      "winner_team_id": 785,
+      "loser_team_id": 3628,
+      "winner_score": 13,
+      "loser_score": 0,
+      "begin_at": "2025-03-28T16:12:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

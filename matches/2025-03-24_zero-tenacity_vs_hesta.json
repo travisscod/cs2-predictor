@@ -1,0 +1,29 @@
+{
+  "match_id": 84800,
+  "slug": "zero-tenacity-vs-hesta-24-03-2025",
+  "bo_type": 1,
+  "team1_id": 2163,
+  "team2_id": 19875,
+  "team1_name": "Zero Tenacity",
+  "team2_name": "Hesta",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Hesta",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124152,
+      "winner_team_id": 19875,
+      "loser_team_id": 2163,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-24T15:12:51.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4303",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 4",
+  "scrape_date": "2025-03-24"
+}

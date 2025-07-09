@@ -1,0 +1,25 @@
+{
+  "match_id": 70874,
+  "slug": "arcred-vs-k27-23-10-2024",
+  "bo_type": 1,
+  "team1_id": 2575,
+  "team2_id": 10718,
+  "team1_name": "ARCRED",
+  "team2_name": "K27",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "ARCRED",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 108497,
+      "begin_at": "2024-10-23T15:04:13.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3618",
+  "tournament_name": "Winline Pro League Season 2",
+  "scrape_date": "2024-10-23"
+}

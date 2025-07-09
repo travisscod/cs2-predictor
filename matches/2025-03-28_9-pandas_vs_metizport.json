@@ -1,0 +1,56 @@
+{
+  "match_id": 85203,
+  "slug": "9-pandas-vs-metizport-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 3599,
+  "team2_id": 1578,
+  "team1_name": "9 Pandas",
+  "team2_name": "Metizport",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "9 Pandas",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 124494,
+      "rounds_count": 21,
+      "winner_team_id": 1578,
+      "loser_team_id": 3599,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-28T20:12:36.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124495,
+      "rounds_count": 20,
+      "winner_team_id": 3599,
+      "loser_team_id": 1578,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-28T19:16:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124496,
+      "rounds_count": 16,
+      "winner_team_id": 3599,
+      "loser_team_id": 1578,
+      "winner_score": 9,
+      "loser_score": 6,
+      "begin_at": "2025-03-28T18:06:28.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

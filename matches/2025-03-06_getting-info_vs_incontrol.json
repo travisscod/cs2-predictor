@@ -1,0 +1,41 @@
+{
+  "match_id": 83244,
+  "slug": "getting-info-vs-incontrol-06-03-2025",
+  "bo_type": 3,
+  "team1_id": 19134,
+  "team2_id": 2594,
+  "team1_name": "Getting Info",
+  "team2_name": "InControl",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Getting Info",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 122702,
+      "winner_team_id": 19134,
+      "loser_team_id": 2594,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-06T23:27:35.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122703,
+      "winner_team_id": 19134,
+      "loser_team_id": 2594,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-06T22:51:15.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-06"
+}

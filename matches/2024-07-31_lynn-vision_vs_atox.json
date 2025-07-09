@@ -1,0 +1,25 @@
+{
+  "match_id": 53595,
+  "slug": "lynn-vision-vs-atox-31-07-2024",
+  "bo_type": 1,
+  "team1_id": 476,
+  "team2_id": 6298,
+  "team1_name": "Lynn Vision",
+  "team2_name": "ATOX",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Lynn Vision",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 96801,
+      "begin_at": "2024-07-31T11:58:59.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2559",
+  "tournament_name": "ESL Challenger League Season 48: Asia",
+  "scrape_date": "2024-07-31"
+}

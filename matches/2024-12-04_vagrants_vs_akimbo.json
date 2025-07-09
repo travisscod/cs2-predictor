@@ -1,0 +1,43 @@
+{
+  "match_id": 73985,
+  "slug": "vagrants-vs-akimbo-04-12-2024",
+  "bo_type": 3,
+  "team1_id": 9855,
+  "team2_id": 2438,
+  "team1_name": "Vagrants",
+  "team2_name": "Akimbo",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Vagrants",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 112477,
+      "rounds_count": 22,
+      "winner_team_id": 9855,
+      "loser_team_id": 2438,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-12-04T02:08:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 112478,
+      "rounds_count": 24,
+      "winner_team_id": 9855,
+      "loser_team_id": 2438,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-12-04T01:13:44.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3726",
+  "tournament_name": "Perseverance League: Persevere Division",
+  "scrape_date": "2024-12-04"
+}

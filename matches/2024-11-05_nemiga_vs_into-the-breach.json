@@ -1,0 +1,43 @@
+{
+  "match_id": 71818,
+  "slug": "nemiga-vs-into-the-breach-05-11-2024",
+  "bo_type": 3,
+  "team1_id": 655,
+  "team2_id": 1549,
+  "team1_name": "Nemiga",
+  "team2_name": "Into the Breach",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Nemiga",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 109865,
+      "rounds_count": 40,
+      "winner_team_id": 655,
+      "loser_team_id": 1549,
+      "winner_score": 22,
+      "loser_score": 18,
+      "begin_at": "2024-11-05T16:11:50.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 109866,
+      "rounds_count": 21,
+      "winner_team_id": 655,
+      "loser_team_id": 1549,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-11-05T15:15:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3634",
+  "tournament_name": "HellCup 11",
+  "scrape_date": "2024-11-05"
+}

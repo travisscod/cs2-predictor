@@ -1,0 +1,56 @@
+{
+  "match_id": 85222,
+  "slug": "b8-vs-cybershoke-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 7429,
+  "team2_id": 1539,
+  "team1_name": "CYBERSHOKE",
+  "team2_name": "B8",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "CYBERSHOKE",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124551,
+      "rounds_count": 24,
+      "winner_team_id": 7429,
+      "loser_team_id": 1539,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-28T17:28:59.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124552,
+      "rounds_count": 18,
+      "winner_team_id": 1539,
+      "loser_team_id": 7429,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-28T16:34:53.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 124553,
+      "rounds_count": 35,
+      "winner_team_id": 7429,
+      "loser_team_id": 1539,
+      "winner_score": 19,
+      "loser_score": 16,
+      "begin_at": "2025-03-28T15:11:11.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

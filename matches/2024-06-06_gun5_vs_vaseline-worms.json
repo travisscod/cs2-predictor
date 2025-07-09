@@ -1,0 +1,43 @@
+{
+  "match_id": 51930,
+  "slug": "gun5-vs-vaseline-worms-06-06-2024",
+  "bo_type": 3,
+  "team1_id": 8211,
+  "team2_id": 9016,
+  "team1_name": "GUN5",
+  "team2_name": "Vaseline Worms",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "GUN5",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 94296,
+      "rounds_count": 21,
+      "winner_team_id": 8211,
+      "loser_team_id": 9016,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-06-06T15:49:50.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 94297,
+      "rounds_count": 22,
+      "winner_team_id": 8211,
+      "loser_team_id": 9016,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-06-06T15:12:14.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2801",
+  "tournament_name": "Winline Pro League Season 1",
+  "scrape_date": "2024-06-06"
+}

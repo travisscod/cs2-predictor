@@ -1,0 +1,43 @@
+{
+  "match_id": 81888,
+  "slug": "alliance-cs-vs-roler-coaster-23-02-2025",
+  "bo_type": 3,
+  "team1_id": 8221,
+  "team2_id": 20023,
+  "team1_name": "Alliance",
+  "team2_name": "Roler Coaster",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Roler Coaster",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 120124,
+      "rounds_count": 20,
+      "winner_team_id": 20023,
+      "loser_team_id": 8221,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-02-23T17:37:25.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 120125,
+      "rounds_count": 14,
+      "winner_team_id": 20023,
+      "loser_team_id": 8221,
+      "winner_score": 13,
+      "loser_score": 1,
+      "begin_at": "2025-02-23T16:51:24.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4176",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 4",
+  "scrape_date": "2025-02-23"
+}

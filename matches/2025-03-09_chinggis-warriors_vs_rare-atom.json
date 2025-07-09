@@ -1,0 +1,56 @@
+{
+  "match_id": 82885,
+  "slug": "chinggis-warriors-vs-rare-atom-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 9974,
+  "team2_id": 2506,
+  "team1_name": "Chinggis Warriors",
+  "team2_name": "Rare Atom",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "Rare Atom",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 122197,
+      "rounds_count": 21,
+      "winner_team_id": 2506,
+      "loser_team_id": 9974,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-09T06:45:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_anubis",
+      "map_id": 122198,
+      "rounds_count": 19,
+      "winner_team_id": 2506,
+      "loser_team_id": 9974,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-09T05:56:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122199,
+      "rounds_count": 30,
+      "winner_team_id": 9974,
+      "loser_team_id": 2506,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-09T04:42:04.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4178",
+  "tournament_name": "MESA Asian Masters 2025",
+  "scrape_date": "2025-03-09"
+}

@@ -1,0 +1,25 @@
+{
+  "match_id": 80330,
+  "slug": "dynamo-eclot-vs-nevermore-08-02-2025",
+  "bo_type": 1,
+  "team1_id": 3820,
+  "team2_id": 18839,
+  "team1_name": "ECLOT",
+  "team2_name": "NEVERMORE",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "NEVERMORE",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 118300,
+      "begin_at": "2025-02-08T17:14:53.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4109",
+  "tournament_name": "Intel Extreme Masters Dallas 2025: European Open Qualifier",
+  "scrape_date": "2025-02-08"
+}

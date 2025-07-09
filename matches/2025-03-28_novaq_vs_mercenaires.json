@@ -1,0 +1,56 @@
+{
+  "match_id": 85210,
+  "slug": "mercenaires-vs-team-novaq-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 20024,
+  "team2_id": 19970,
+  "team1_name": "Novaq",
+  "team2_name": "Mercenaires",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Novaq",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 124515,
+      "rounds_count": 23,
+      "winner_team_id": 20024,
+      "loser_team_id": 19970,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-28T11:02:58.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124516,
+      "rounds_count": 21,
+      "winner_team_id": 20024,
+      "loser_team_id": 19970,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-28T10:10:21.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 124517,
+      "rounds_count": 21,
+      "winner_team_id": 19970,
+      "loser_team_id": 20024,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-28T09:08:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-28"
+}

@@ -1,0 +1,28 @@
+{
+  "match_id": 88905,
+  "slug": "solid-vs-w7m-esports-13-05-2025",
+  "bo_type": 1,
+  "team1_id": 5950,
+  "team2_id": 580,
+  "team1_name": "Solid",
+  "team2_name": "W7M",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "W7M",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 129260,
+      "rounds_count": 0,
+      "winner_score": 0,
+      "begin_at": "2025-05-13T20:19:47.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4436",
+  "tournament_name": "Odyssey Cup 2025",
+  "scrape_date": "2025-05-13"
+}

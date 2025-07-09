@@ -1,0 +1,30 @@
+{
+  "match_id": 84711,
+  "slug": "benched-vs-eyeballers-22-03-2025",
+  "bo_type": 1,
+  "team1_id": 1258,
+  "team2_id": 3254,
+  "team1_name": "benched",
+  "team2_name": "EYEBALLERS",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "EYEBALLERS",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124101,
+      "rounds_count": 20,
+      "winner_team_id": 3254,
+      "loser_team_id": 1258,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-22T15:15:27.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4297",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 3",
+  "scrape_date": "2025-03-22"
+}

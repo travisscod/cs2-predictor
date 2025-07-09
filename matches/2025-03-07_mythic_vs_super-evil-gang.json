@@ -1,0 +1,41 @@
+{
+  "match_id": 83257,
+  "slug": "mythic-vs-super-evil-gang-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 606,
+  "team2_id": 19918,
+  "team1_name": "Mythic",
+  "team2_name": "SUPER EVIL GANG",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Mythic",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 122741,
+      "winner_team_id": 606,
+      "loser_team_id": 19918,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-07T22:20:16.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 122742,
+      "winner_team_id": 606,
+      "loser_team_id": 19918,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-07T21:34:26.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-07"
+}

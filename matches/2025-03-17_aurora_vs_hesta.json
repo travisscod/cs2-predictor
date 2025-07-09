@@ -1,0 +1,30 @@
+{
+  "match_id": 84032,
+  "slug": "aurora-gaming-vs-hesta-17-03-2025",
+  "bo_type": 1,
+  "team1_id": 3598,
+  "team2_id": 19875,
+  "team1_name": "Aurora",
+  "team2_name": "Hesta",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Hesta",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 123640,
+      "rounds_count": 6,
+      "winner_team_id": 19875,
+      "loser_team_id": 3598,
+      "winner_score": 3,
+      "loser_score": 2,
+      "begin_at": "2025-03-17T15:15:49.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4281",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 2",
+  "scrape_date": "2025-03-17"
+}

@@ -1,0 +1,25 @@
+{
+  "match_id": 53605,
+  "slug": "gods-reign-vs-the-qube-06-08-2024",
+  "bo_type": 1,
+  "team1_id": 6283,
+  "team2_id": 8927,
+  "team1_name": "Gods Reign",
+  "team2_name": "The QUBE",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Gods Reign",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 96811,
+      "begin_at": "2024-08-06T12:01:13.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2559",
+  "tournament_name": "ESL Challenger League Season 48: Asia",
+  "scrape_date": "2024-08-06"
+}

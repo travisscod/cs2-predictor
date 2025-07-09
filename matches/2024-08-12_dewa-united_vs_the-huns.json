@@ -1,0 +1,25 @@
+{
+  "match_id": 53635,
+  "slug": "dewa-united-esport-vs-the-huns-esports-12-08-2024",
+  "bo_type": 1,
+  "team1_id": 9337,
+  "team2_id": 9127,
+  "team1_name": "Dewa United",
+  "team2_name": "The Huns",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Dewa United",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_inferno",
+      "map_id": 96841,
+      "begin_at": "2024-08-12T12:04:20.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2559",
+  "tournament_name": "ESL Challenger League Season 48: Asia",
+  "scrape_date": "2024-08-12"
+}

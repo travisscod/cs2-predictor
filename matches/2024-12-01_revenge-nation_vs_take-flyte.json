@@ -1,0 +1,43 @@
+{
+  "match_id": 73986,
+  "slug": "revenge-nation-vs-take-flyte-01-12-2024",
+  "bo_type": 3,
+  "team1_id": 9958,
+  "team2_id": 2882,
+  "team1_name": "Revenge Nation",
+  "team2_name": "Take Flyte",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Revenge Nation",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 112480,
+      "rounds_count": 17,
+      "winner_team_id": 9958,
+      "loser_team_id": 2882,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2024-12-01T01:08:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 112481,
+      "rounds_count": 23,
+      "winner_team_id": 9958,
+      "loser_team_id": 2882,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2024-12-01T00:15:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3726",
+  "tournament_name": "Perseverance League: Persevere Division",
+  "scrape_date": "2024-12-01"
+}

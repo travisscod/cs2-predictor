@@ -1,0 +1,30 @@
+{
+  "match_id": 81882,
+  "slug": "roler-coaster-vs-team-novaq-23-02-2025",
+  "bo_type": 1,
+  "team1_id": 20023,
+  "team2_id": 20024,
+  "team1_name": "Roler Coaster",
+  "team2_name": "Novaq",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Roler Coaster",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 120115,
+      "rounds_count": 24,
+      "winner_team_id": 20023,
+      "loser_team_id": 20024,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-02-23T15:23:40.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4176",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 4",
+  "scrape_date": "2025-02-23"
+}

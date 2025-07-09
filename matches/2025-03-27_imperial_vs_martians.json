@@ -1,0 +1,59 @@
+{
+  "match_id": 85175,
+  "slug": "imperial-vs-martians-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 1430,
+  "team2_id": 7461,
+  "team1_name": "Imperial",
+  "team2_name": "Martians",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Imperial",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 124410,
+      "rounds_count": 20,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-27T17:59:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124411,
+      "rounds_count": 8,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 5,
+      "loser_score": 3,
+      "begin_at": "2025-03-27T15:23:35.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 124412,
+      "rounds_count": 18,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-27T14:05:39.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4279",
+  "tournament_name": "PGL Astana 2025: South American Qualifier",
+  "scrape_date": "2025-03-27"
+}

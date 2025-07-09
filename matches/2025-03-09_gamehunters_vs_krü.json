@@ -1,0 +1,53 @@
+{
+  "match_id": 82315,
+  "slug": "game-hunters-vs-kru-cs-09-03-2025",
+  "bo_type": 3,
+  "team1_id": 16746,
+  "team2_id": 10321,
+  "team1_name": "GameHunters",
+  "team2_name": "KRÜ",
+  "team1_score": 1,
+  "team2_score": 2,
+  "winner_team": "KRÜ",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 120954,
+      "winner_team_id": 10321,
+      "loser_team_id": 16746,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-10T01:04:54.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 120955,
+      "winner_team_id": 16746,
+      "loser_team_id": 10321,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-09T23:47:43.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 120956,
+      "winner_team_id": 10321,
+      "loser_team_id": 16746,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-09T22:50:02.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-09"
+}

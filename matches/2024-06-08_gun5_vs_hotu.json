@@ -1,0 +1,56 @@
+{
+  "match_id": 51935,
+  "slug": "gun5-vs-hotu-08-06-2024",
+  "bo_type": 3,
+  "team1_id": 8211,
+  "team2_id": 2720,
+  "team1_name": "GUN5",
+  "team2_name": "HOTU",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "GUN5",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 94310,
+      "rounds_count": 24,
+      "winner_team_id": 8211,
+      "loser_team_id": 2720,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2024-06-08T17:14:30.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 94311,
+      "rounds_count": 20,
+      "winner_team_id": 2720,
+      "loser_team_id": 8211,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-06-08T16:27:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 94312,
+      "rounds_count": 34,
+      "winner_team_id": 8211,
+      "loser_team_id": 2720,
+      "winner_score": 19,
+      "loser_score": 15,
+      "begin_at": "2024-06-08T15:06:08.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2801",
+  "tournament_name": "Winline Pro League Season 1",
+  "scrape_date": "2024-06-08"
+}

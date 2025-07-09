@@ -1,0 +1,31 @@
+{
+  "match_id": 42383,
+  "slug": "big-vs-fnatic-19-01-2024",
+  "bo_type": 1,
+  "team1_id": 756,
+  "team2_id": 786,
+  "team1_name": "BIG",
+  "team2_name": "fnatic",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "fnatic",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 79925,
+      "rounds_count": 21,
+      "winner_team_id": 786,
+      "loser_team_id": 756,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-01-19T15:15:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2063",
+  "tournament_name": "PGL Major Copenhagen 2024: European Qualifier A",
+  "scrape_date": "2024-01-19"
+}

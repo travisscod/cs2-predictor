@@ -1,0 +1,53 @@
+{
+  "match_id": 82283,
+  "slug": "red-canids-cs-go-vs-dusty-roots-08-03-2025",
+  "bo_type": 3,
+  "team1_id": 554,
+  "team2_id": 8508,
+  "team1_name": "RED Canids",
+  "team2_name": "Dusty Roots",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "RED Canids",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 120858,
+      "winner_team_id": 554,
+      "loser_team_id": 8508,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-08T22:09:05.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 120859,
+      "winner_team_id": 8508,
+      "loser_team_id": 554,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-08T20:59:35.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 120860,
+      "winner_team_id": 554,
+      "loser_team_id": 8508,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-08T20:08:18.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4146",
+  "tournament_name": "PGL Bucharest 2025: South American Qualifier",
+  "scrape_date": "2025-03-08"
+}

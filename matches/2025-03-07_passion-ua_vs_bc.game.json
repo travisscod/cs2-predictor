@@ -1,0 +1,56 @@
+{
+  "match_id": 83045,
+  "slug": "passion-ua-vs-bc-game-07-03-2025",
+  "bo_type": 3,
+  "team1_id": 7631,
+  "team2_id": 10844,
+  "team1_name": "Passion UA",
+  "team2_name": "BC.Game",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Passion UA",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_mirage",
+      "map_id": 122504,
+      "rounds_count": 23,
+      "winner_team_id": 7631,
+      "loser_team_id": 10844,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-07T13:43:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 122505,
+      "rounds_count": 18,
+      "winner_team_id": 10844,
+      "loser_team_id": 7631,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-07T12:54:09.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 122506,
+      "rounds_count": 22,
+      "winner_team_id": 7631,
+      "loser_team_id": 10844,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-03-07T11:50:29.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4144",
+  "tournament_name": "PGL Bucharest 2025: European Qualifier",
+  "scrape_date": "2025-03-07"
+}

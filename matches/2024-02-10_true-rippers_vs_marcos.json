@@ -1,0 +1,59 @@
+{
+  "match_id": 44198,
+  "slug": "true-rippers-vs-marcos-gaming-10-02-2024",
+  "bo_type": 3,
+  "team1_id": 9605,
+  "team2_id": 7373,
+  "team1_name": "True Rippers",
+  "team2_name": "Marcos",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "True Rippers",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 82090,
+      "rounds_count": 23,
+      "winner_team_id": 9605,
+      "loser_team_id": 7373,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2024-02-10T04:00:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 82091,
+      "rounds_count": 20,
+      "winner_team_id": 7373,
+      "loser_team_id": 9605,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2024-02-10T05:20:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 3,
+      "map_name": "de_inferno",
+      "map_id": 82092,
+      "rounds_count": 29,
+      "winner_team_id": 9605,
+      "loser_team_id": 7373,
+      "winner_score": 16,
+      "loser_score": 13,
+      "begin_at": "2024-02-10T06:20:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2435",
+  "tournament_name": "BLAST The Draft: Season 1",
+  "scrape_date": "2024-02-10"
+}

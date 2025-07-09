@@ -1,0 +1,30 @@
+{
+  "match_id": 81536,
+  "slug": "l-g-vs-mission-possible-17-02-2025",
+  "bo_type": 1,
+  "team1_id": 5933,
+  "team2_id": 18522,
+  "team1_name": "Leo",
+  "team2_name": "Mission Possible",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "Leo",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 119586,
+      "rounds_count": 21,
+      "winner_team_id": 5933,
+      "loser_team_id": 18522,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-02-17T15:13:56.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4148",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 2",
+  "scrape_date": "2025-02-17"
+}

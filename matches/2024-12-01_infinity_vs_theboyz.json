@@ -1,0 +1,30 @@
+{
+  "match_id": 74120,
+  "slug": "infinity-esports-vs-theboyz-01-12-2024",
+  "bo_type": 1,
+  "team1_id": 581,
+  "team2_id": 18812,
+  "team1_name": "Infinity",
+  "team2_name": "Theboyz",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Theboyz",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 112693,
+      "rounds_count": 22,
+      "winner_team_id": 18812,
+      "loser_team_id": 581,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-12-01T16:00:00.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3725",
+  "tournament_name": "Romanian Esports League Season 4 Opening",
+  "scrape_date": "2024-12-01"
+}

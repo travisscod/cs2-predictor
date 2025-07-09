@@ -1,0 +1,30 @@
+{
+  "match_id": 75559,
+  "slug": "bromo-vs-xi-antaichanggui-09-01-2025",
+  "bo_type": 1,
+  "team1_id": 10824,
+  "team2_id": 1148,
+  "team1_name": "Bromo",
+  "team2_name": "TCG",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "TCG",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 114617,
+      "rounds_count": 23,
+      "winner_team_id": 1148,
+      "loser_team_id": 10824,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-01-09T14:00:26.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "3731",
+  "tournament_name": "XSE Pro League Season 3",
+  "scrape_date": "2025-01-09"
+}

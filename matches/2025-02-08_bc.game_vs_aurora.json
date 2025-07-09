@@ -1,0 +1,25 @@
+{
+  "match_id": 80320,
+  "slug": "bc-game-vs-aurora-gaming-08-02-2025",
+  "bo_type": 1,
+  "team1_id": 10844,
+  "team2_id": 3598,
+  "team1_name": "BC.Game",
+  "team2_name": "Aurora",
+  "team1_score": 1,
+  "team2_score": 0,
+  "winner_team": "BC.Game",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 118290,
+      "begin_at": "2025-02-08T17:14:23.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4109",
+  "tournament_name": "Intel Extreme Masters Dallas 2025: European Open Qualifier",
+  "scrape_date": "2025-02-08"
+}

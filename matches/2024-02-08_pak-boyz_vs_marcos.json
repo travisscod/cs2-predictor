@@ -1,0 +1,45 @@
+{
+  "match_id": 44195,
+  "slug": "pak-boyz-vs-marcos-gaming-08-02-2024",
+  "bo_type": 3,
+  "team1_id": 10138,
+  "team2_id": 7373,
+  "team1_name": "Pak Boyz",
+  "team2_name": "Marcos",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "Marcos",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 82077,
+      "rounds_count": 23,
+      "winner_team_id": 7373,
+      "loser_team_id": 10138,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2024-02-08T06:55:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_overpass",
+      "map_id": 82078,
+      "rounds_count": 22,
+      "winner_team_id": 7373,
+      "loser_team_id": 10138,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2024-02-08T08:09:00.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2435",
+  "tournament_name": "BLAST The Draft: Season 1",
+  "scrape_date": "2024-02-08"
+}

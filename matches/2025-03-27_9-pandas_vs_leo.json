@@ -1,0 +1,59 @@
+{
+  "match_id": 85103,
+  "slug": "9-pandas-vs-l-g-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 3599,
+  "team2_id": 5933,
+  "team1_name": "9 Pandas",
+  "team2_name": "Leo",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "9 Pandas",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_dust2",
+      "map_id": 124239,
+      "rounds_count": 20,
+      "winner_team_id": 3599,
+      "loser_team_id": 5933,
+      "winner_score": 13,
+      "loser_score": 7,
+      "begin_at": "2025-03-27T17:55:54.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_ancient",
+      "map_id": 124240,
+      "rounds_count": 35,
+      "winner_team_id": 5933,
+      "loser_team_id": 3599,
+      "winner_score": 19,
+      "loser_score": 16,
+      "begin_at": "2025-03-27T16:05:05.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_mirage",
+      "map_id": 124241,
+      "rounds_count": 17,
+      "winner_team_id": 3599,
+      "loser_team_id": 5933,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2025-03-27T15:19:44.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

@@ -1,0 +1,56 @@
+{
+  "match_id": 85102,
+  "slug": "monte-vs-og-27-03-2025",
+  "bo_type": 3,
+  "team1_id": 3581,
+  "team2_id": 395,
+  "team1_name": "Monte",
+  "team2_name": "OG",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "Monte",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_nuke",
+      "map_id": 124236,
+      "rounds_count": 0,
+      "winner_score": 0,
+      "begin_at": "2025-03-27T14:21:28.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 124237,
+      "rounds_count": 23,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 13,
+      "loser_score": 10,
+      "begin_at": "2025-03-27T13:22:42.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124238,
+      "rounds_count": 28,
+      "winner_team_id": 1149,
+      "loser_team_id": 1149,
+      "winner_score": 16,
+      "loser_score": 12,
+      "begin_at": "2025-03-27T12:08:13.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-27"
+}

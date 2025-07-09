@@ -1,0 +1,50 @@
+{
+  "match_id": 85697,
+  "slug": "hotu-vs-jijiehao-01-04-2025",
+  "bo_type": 5,
+  "team1_id": 2720,
+  "team2_id": 3869,
+  "team1_name": "HOTU",
+  "team2_name": "JiJieHao",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "HOTU",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 125058,
+      "rounds_count": 22,
+      "winner_team_id": 2720,
+      "loser_team_id": 3869,
+      "winner_score": 13,
+      "loser_score": 9,
+      "begin_at": "2025-04-01T12:01:33.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 125059,
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_dust2",
+      "map_id": 125060,
+      "rounds_count": 27,
+      "winner_team_id": 2720,
+      "loser_team_id": 3869,
+      "winner_score": 14,
+      "loser_score": 12,
+      "begin_at": "2025-04-01T09:30:33.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4313",
+  "tournament_name": "PGL Astana 2025: Asian Qualifier",
+  "scrape_date": "2025-04-01"
+}

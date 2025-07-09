@@ -1,0 +1,43 @@
+{
+  "match_id": 85229,
+  "slug": "gun5-vs-b8-30-03-2025",
+  "bo_type": 3,
+  "team1_id": 8211,
+  "team2_id": 1539,
+  "team1_name": "GUN5",
+  "team2_name": "B8",
+  "team1_score": 0,
+  "team2_score": 2,
+  "winner_team": "B8",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_mirage",
+      "map_id": 124573,
+      "rounds_count": 24,
+      "winner_team_id": 1539,
+      "loser_team_id": 8211,
+      "winner_score": 13,
+      "loser_score": 11,
+      "begin_at": "2025-03-30T15:26:47.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124574,
+      "rounds_count": 30,
+      "winner_team_id": 1539,
+      "loser_team_id": 8211,
+      "winner_score": 16,
+      "loser_score": 14,
+      "begin_at": "2025-03-30T14:08:07.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4277",
+  "tournament_name": "PGL Astana 2025: European Qualifier",
+  "scrape_date": "2025-03-30"
+}

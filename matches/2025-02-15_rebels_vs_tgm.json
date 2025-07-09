@@ -1,0 +1,43 @@
+{
+  "match_id": 81179,
+  "slug": "rebels-gaming-cs-vs-tgm-15-02-2025",
+  "bo_type": 3,
+  "team1_id": 9932,
+  "team2_id": 18518,
+  "team1_name": "Rebels",
+  "team2_name": "TGM",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Rebels",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_dust2",
+      "map_id": 119209,
+      "rounds_count": 18,
+      "winner_team_id": 9932,
+      "loser_team_id": 18518,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-02-15T17:32:09.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 119210,
+      "rounds_count": 18,
+      "winner_team_id": 9932,
+      "loser_team_id": 18518,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-02-15T16:54:32.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4143",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 1",
+  "scrape_date": "2025-02-15"
+}

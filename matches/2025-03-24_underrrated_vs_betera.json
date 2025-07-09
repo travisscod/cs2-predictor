@@ -1,0 +1,29 @@
+{
+  "match_id": 84796,
+  "slug": "underrated-vs-betera-24-03-2025",
+  "bo_type": 1,
+  "team1_id": 5418,
+  "team2_id": 7641,
+  "team1_name": "undeRRRated",
+  "team2_name": "Betera",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "Betera",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_ancient",
+      "map_id": 124148,
+      "winner_team_id": 7641,
+      "loser_team_id": 5418,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-24T15:37:12.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4303",
+  "tournament_name": "PGL Astana 2025: European Open Qualifier 4",
+  "scrape_date": "2025-03-24"
+}

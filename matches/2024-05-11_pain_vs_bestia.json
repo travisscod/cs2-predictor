@@ -1,0 +1,55 @@
+{
+  "match_id": 48812,
+  "slug": "pain-gaming-vs-bestia-11-05-2024",
+  "bo_type": 3,
+  "team1_id": 637,
+  "team2_id": 5701,
+  "team1_name": "paiN",
+  "team2_name": "BESTIA",
+  "team1_score": 2,
+  "team2_score": 1,
+  "winner_team": "paiN",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_anubis",
+      "map_id": 89858,
+      "rounds_count": 21,
+      "winner_team_id": 637,
+      "loser_team_id": 5701,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2024-05-11T19:20:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_inferno",
+      "map_id": 89859,
+      "rounds_count": 35,
+      "winner_team_id": 5701,
+      "loser_team_id": 637,
+      "winner_score": 19,
+      "loser_score": 16,
+      "begin_at": "2024-05-11T17:52:38.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_nuke",
+      "map_id": 89860,
+      "winner_team_id": 637,
+      "loser_team_id": 5701,
+      "winner_score": 13,
+      "loser_score": 4,
+      "begin_at": "2024-05-11T17:01:51.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "2483",
+  "tournament_name": "RES Regional Series 4 LATAM",
+  "scrape_date": "2024-05-11"
+}

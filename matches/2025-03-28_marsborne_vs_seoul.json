@@ -1,0 +1,45 @@
+{
+  "match_id": 85149,
+  "slug": "marsborne-vs-seoul-28-03-2025",
+  "bo_type": 3,
+  "team1_id": 19187,
+  "team2_id": 20012,
+  "team1_name": "Marsborne",
+  "team2_name": "seoul",
+  "team1_score": 2,
+  "team2_score": 0,
+  "winner_team": "Marsborne",
+  "games": [
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 124333,
+      "rounds_count": 21,
+      "winner_team_id": 19187,
+      "loser_team_id": 20012,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-28T03:02:46.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_anubis",
+      "map_id": 124334,
+      "rounds_count": 18,
+      "winner_team_id": 19187,
+      "loser_team_id": 20012,
+      "winner_score": 13,
+      "loser_score": 5,
+      "begin_at": "2025-03-28T02:11:24.000+00:00",
+      "status": "finished",
+      "state": "error",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4296",
+  "tournament_name": "PGL Astana 2025: North American Qualifier",
+  "scrape_date": "2025-03-28"
+}

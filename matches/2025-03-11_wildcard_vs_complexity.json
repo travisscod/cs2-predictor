@@ -1,0 +1,56 @@
+{
+  "match_id": 83470,
+  "slug": "wildcard-gaming-vs-complexity-10-03-2025",
+  "bo_type": 5,
+  "team1_id": 6062,
+  "team2_id": 703,
+  "team1_name": "Wildcard",
+  "team2_name": "Complexity",
+  "team1_score": 0,
+  "team2_score": 3,
+  "winner_team": "Complexity",
+  "games": [
+    {
+      "number": 3,
+      "map_name": "de_ancient",
+      "map_id": 122980,
+      "rounds_count": 21,
+      "winner_team_id": 703,
+      "loser_team_id": 6062,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-03-11T01:13:17.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 2,
+      "map_name": "de_nuke",
+      "map_id": 122981,
+      "rounds_count": 36,
+      "winner_team_id": 703,
+      "loser_team_id": 6062,
+      "winner_score": 19,
+      "loser_score": 17,
+      "begin_at": "2025-03-10T23:44:52.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    },
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 122982,
+      "rounds_count": 19,
+      "winner_team_id": 703,
+      "loser_team_id": 6062,
+      "winner_score": 13,
+      "loser_score": 6,
+      "begin_at": "2025-03-10T23:04:03.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4154",
+  "tournament_name": "PGL Bucharest 2025: North American Qualifier",
+  "scrape_date": "2025-03-11"
+}

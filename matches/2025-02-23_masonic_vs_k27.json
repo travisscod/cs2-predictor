@@ -1,0 +1,29 @@
+{
+  "match_id": 81879,
+  "slug": "masonic-vs-k27-23-02-2025",
+  "bo_type": 1,
+  "team1_id": 1059,
+  "team2_id": 10718,
+  "team1_name": "MASONIC",
+  "team2_name": "K27",
+  "team1_score": 0,
+  "team2_score": 1,
+  "winner_team": "K27",
+  "games": [
+    {
+      "number": 1,
+      "map_name": "de_train",
+      "map_id": 120112,
+      "winner_team_id": 10718,
+      "loser_team_id": 1059,
+      "winner_score": 13,
+      "loser_score": 8,
+      "begin_at": "2025-02-23T15:09:31.000+00:00",
+      "status": "finished",
+      "player_stats": []
+    }
+  ],
+  "tournament_id": "4176",
+  "tournament_name": "PGL Bucharest 2025: European Open Qualifier 4",
+  "scrape_date": "2025-02-23"
+}
