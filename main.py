@@ -195,7 +195,7 @@ def run_predictions():
     print(urls)
     for url in urls:
         print(f"Processing match URL: {url}")
-        match = re.search(r'/matches/([a-z0-9_]+)-vs-([a-z0-9-]+)-(\d{2}-\d{2}-\d{4})', url)
+        match = re.search(r'/matches/([a-z0-9-]+)-vs-([a-z0-9-]+)-(\d{2}-\d{2}-\d{4})', url)
         if not match:
             logging.error(f"Invalid match URL format: {url}")
             continue

@@ -202,18 +202,19 @@ class MatchRunner:
         
     def run(self, betting_data):
         try:
+            betting_data = betting_data or []
+
             self.team1_players = self._get_team_players(self.team1)
             self.team2_players = self._get_team_players(self.team2)
-            
+
             if not self.team1_players or not self.team2_players:
                 logging.error("Could not get team players")
                 return False
-                
+
             team1_odds = ""
             team2_odds = ""
 
             print(f"Running prediction for {self.team1} vs {self.team2} on {self.date}")
-            #print(betting_data)
             for match in betting_data:
                 #print(f"Checking match: {match['teams']['team1']} vs {match['teams']['team2']}")
                 #print(f"Match date: {match['date']}")
@@ -239,7 +240,7 @@ class MatchRunner:
             
     def _get_team_players(self, team_slug):
         try:
-            team_data = self.stats_collector._get_json(f"/teams/{team_slug}")
+            team_data = self.stats_collector._get_json(f"/teams/{team_slug}?prefer_locale=en")
             if not team_data or "players" not in team_data:
                 return []
                 
