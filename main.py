@@ -1,22 +1,14 @@
 import os
-import re
-import time
 import glob
 import json
 import logging
 from datetime import datetime, timedelta
 import pandas as pd
-import joblib
 import warnings
 
 from libary.get_matches import MatchScraper
 from libary.structure_data import MatchProcessor
 from libary.train_model import EnsemblePredictor
-from libary.use_model import MatchRunner
-from libary.player_stats_db import PlayerStatsCollector
-from libary.get_daily_matches import MatchFetcher
-from libary.calculate import analyze_match
-from libary.csgoempire import CSGOEmpire
 
 USERNAME = "skuhmfiduser@gmail.com"
 PASSWORD = "Alfredstop10"
@@ -49,45 +41,6 @@ def setup_directories():
     for directory in directories:
         os.makedirs(directory, exist_ok=True)
         logging.info(f"Created directory: {directory}")
-
-def update_player_stats():
-    logging.info("Updating player statistics database...")
-    collector = PlayerStatsCollector()
-    
-    try:
-        player_ids = set()
-        match_files = glob.glob(MATCH_FILE_PATTERN)
-        
-        if not match_files:
-            logging.info("No match files found to process player stats")
-            return
-            
-        for file in match_files:
-            try:
-                with open(file, 'r', encoding="utf-8") as f:
-                    data = json.load(f)
-                    for game in data.get("games", []):
-                        for player in game.get("player_stats", []):
-                            player_id = player.get("steam_profile_player_slug")
-                            if player_id:
-                                player_ids.add(player_id)
-            except Exception as e:
-                logging.error(f"Error reading match file {file}: {e}")
-                continue
-        
-        for i, player_id in enumerate(player_ids):
-            logging.info(f"Updating player {i+1}/{len(player_ids)}: {player_id}")
-            try:
-                collector.fetch_player_history(player_id)
-                time.sleep(1)
-            except Exception as e:
-                logging.error(f"Error updating stats for player {player_id}: {e}")
-                continue
-        
-        logging.info(f"Updated stats for {len(player_ids)} players")
-    except Exception as e:
-        logging.error(f"Error in update_player_stats: {e}")
-        raise
 
 def train_model_with_ensemble():
     logging.info("Training ensemble model...")
@@ -140,11 +93,6 @@ def get_latest_match_date():
     dates = get_match_file_dates()
     return max(dates) if dates else None
 
-def calculate_latest_match(stats):
-    info = analyze_match(stats, 10)
-    print("Latest match analysis:")
-    print(json.dumps(info, indent=2))
-
 def download_new_matches():
     today = datetime.utcnow()
     latest = get_latest_match_date()
@@ -179,34 +127,6 @@ def create_dataset():
         logging.error(f"Error creating dataset: {e}")
         raise
 
-def run_predictions():
-    fetcher = MatchFetcher()
-    
-    urls = fetcher.get_match_urls_for_range()
-    #urls = ["https://bo3.gg/matches/nexus-vs-ruby-11-06-2025"]
-    if not urls:
-        print("No matches found for today")
-        return
-        
-    empire = CSGOEmpire()
-    betting_data = empire.scrape_betting_data()
-    empire.close()
-
-    print(urls)
-    for url in urls:
-        print(f"Processing match URL: {url}")
-        match = re.search(r'/matches/([a-z0-9-]+)-vs-([a-z0-9-]+)-(\d{2}-\d{2}-\d{4})', url)
-        if not match:
-            logging.error(f"Invalid match URL format: {url}")
-            continue
-            
-        team1, team2, date = match.group(1), match.group(2), match.group(3)
-        logging.info(f"Running predictions for {team1} vs {team2}...")
-        try:
-            MatchRunner(team1, team2, date).run(betting_data)
-        except Exception as e:
-            logging.error(f"Error running prediction for {team1} vs {team2}: {e}")
-
 if __name__ == "__main__":
     try:
         logging.info("Starting main pipeline...")
@@ -215,25 +135,16 @@ if __name__ == "__main__":
         new_data = download_new_matches()
         
         if new_data and new_data > 0:
-            logging.info("New matches found, updating player statistics...")
-            update_player_stats()
+            logging.info("New matches found, updating dataset and model...")
             create_dataset()
             train_model_with_ensemble()
         elif not os.path.exists(MODEL_PATH):
             logging.info("No model found, training initial model...")
-            update_player_stats()
             create_dataset()
             train_model_with_ensemble()
         else:
             logging.info("No new matches, using existing model.")
-        
-        stats = run_predictions()
-        #if stats:
-           # logging.info("Prediction results:")
-            #print(json.dumps(stats, indent=2))
-            #calculate_latest_match(stats)
-        #else:
-         #   logging.info("No predictions made.")
+
         logging.info("Pipeline completed successfully")
     except Exception as e:
         logging.error(f"Pipeline failed: {e}")
