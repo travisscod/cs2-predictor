@@ -12,6 +12,7 @@ from libary.structure_data import MatchProcessor
 from libary.train_model import EnsemblePredictor
 from libary.player_stats_db import PlayerStatsCollector
 
+
 warnings.filterwarnings("ignore", category=UserWarning, module="joblib.externals.loky.backend.context")
 warnings.filterwarnings("ignore", category=UserWarning, module="subprocess")
 warnings.filterwarnings("ignore", module="joblib.externals.loky.backend.context")
@@ -163,6 +164,7 @@ def create_dataset():
         logging.error(f"Error creating dataset: {e}")
         raise
 
+if __name__ == "__main__":
 def main():
     try:
         logging.info("Starting training pipeline...")
