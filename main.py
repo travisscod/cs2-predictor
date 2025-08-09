@@ -13,7 +13,6 @@ from libary.train_model import EnsemblePredictor
 from libary.player_stats_db import PlayerStatsCollector
 
 
-
 warnings.filterwarnings("ignore", category=UserWarning, module="joblib.externals.loky.backend.context")
 warnings.filterwarnings("ignore", category=UserWarning, module="subprocess")
 warnings.filterwarnings("ignore", module="joblib.externals.loky.backend.context")
@@ -44,15 +43,15 @@ def setup_directories():
 def update_player_stats():
     logging.info("Updating player statistics database...")
     collector = PlayerStatsCollector()
-    
+
     try:
         player_ids = set()
         match_files = glob.glob(MATCH_FILE_PATTERN)
-        
+
         if not match_files:
             logging.info("No match files found to process player stats")
             return
-            
+
         for file in match_files:
             try:
                 with open(file, 'r', encoding="utf-8") as f:
@@ -65,7 +64,7 @@ def update_player_stats():
             except Exception as e:
                 logging.error(f"Error reading match file {file}: {e}")
                 continue
-        
+
         for i, player_id in enumerate(player_ids):
             logging.info(f"Updating player {i+1}/{len(player_ids)}: {player_id}")
             try:
@@ -74,7 +73,7 @@ def update_player_stats():
             except Exception as e:
                 logging.error(f"Error updating stats for player {player_id}: {e}")
                 continue
-        
+
         logging.info(f"Updated stats for {len(player_ids)} players")
     except Exception as e:
         logging.error(f"Error in update_player_stats: {e}")
@@ -84,16 +83,16 @@ def train_model_with_ensemble():
     logging.info("Training ensemble model...")
     try:
         df = pd.read_csv(DATASET_CSV)
-        
+
         ensemble = EnsemblePredictor()
-        
+
         X = df.drop(columns=['winner', 'match_id', 'team1', 'team2', 'label', 'team1_score', 'team2_score'])
         y = df['winner']
-        
+
         ensemble.train(X, y, tune_hyperparams=True)
-        
+
         ensemble.save(MODEL_PATH, FEATURES_PATH)
-        
+
         logging.info("Ensemble model trained and saved")
     except Exception as e:
         logging.error(f"Error in train_model_with_ensemble: {e}")
@@ -165,14 +164,14 @@ def create_dataset():
         logging.error(f"Error creating dataset: {e}")
         raise
 
-
 if __name__ == "__main__":
+def main():
     try:
-        logging.info("Starting main pipeline...")
+        logging.info("Starting training pipeline...")
         setup_directories()
         delete_old_matches(max_age_days=MAX_DAYS_BACK)
         new_data = download_new_matches()
-        
+
         if new_data and new_data > 0:
             logging.info("New matches found, updating player statistics...")
             update_player_stats()
@@ -190,3 +189,6 @@ if __name__ == "__main__":
     except Exception as e:
         logging.error(f"Pipeline failed: {e}")
         raise
+
+if __name__ == "__main__":
+    main()
