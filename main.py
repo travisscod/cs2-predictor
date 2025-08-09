@@ -164,7 +164,7 @@ def create_dataset():
         logging.error(f"Error creating dataset: {e}")
         raise
 
-if __name__ == "__main__":
+
 def main():
     try:
         logging.info("Starting training pipeline...")
@@ -189,6 +189,7 @@ def main():
     except Exception as e:
         logging.error(f"Pipeline failed: {e}")
         raise
+
 
 if __name__ == "__main__":
     main()
