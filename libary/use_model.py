@@ -8,7 +8,6 @@ import logging
 import os
 import json
 from libary.player_stats_db import PlayerStatsCollector
-from libary.csgoempire import CSGOEmpire
 
 MODEL_PATH = "./model/model.joblib"
 FEATURES_PATH = "./model/feature_columns.joblib"
@@ -200,10 +199,8 @@ class MatchRunner:
         self.model = joblib.load(MODEL_PATH)
         self.feature_columns = joblib.load(FEATURES_PATH)
         
-    def run(self, betting_data):
+    def run(self):
         try:
-            betting_data = betting_data or []
-
             self.team1_players = self._get_team_players(self.team1)
             self.team2_players = self._get_team_players(self.team2)
 
@@ -211,28 +208,12 @@ class MatchRunner:
                 logging.error("Could not get team players")
                 return False
 
-            team1_odds = ""
-            team2_odds = ""
-
             print(f"Running prediction for {self.team1} vs {self.team2} on {self.date}")
-            for match in betting_data:
-                #print(f"Checking match: {match['teams']['team1']} vs {match['teams']['team2']}")
-                #print(f"Match date: {match['date']}")
-
-                t_team1 = match['teams']['team1'].lower().split(" ")[0]
-                t_team2 = match['teams']['team2'].lower().split(" ")[0]
-
-                if t_team1 == self.team1.lower().split(" ")[0] and t_team2 == self.team2.lower().split(" ")[0]:
-                    team1_odds = match['odds']['team1']
-                    team2_odds = match['odds']['team2']
-                    print(f"Found odds: {team1_odds} for {self.team1}, {team2_odds} for {self.team2}")
-                    break
-
 
             team_stats = self._aggregate_stats()
-            prediction = self._make_prediction(team_stats, team1_odds, team2_odds)
+            prediction = self._make_prediction(team_stats)
             self._save_prediction(prediction)
-            
+
             return prediction
         except Exception as e:
             logging.error(f"Error running prediction: {e}")
@@ -346,7 +327,7 @@ class MatchRunner:
             "avg_kills": sum(m.get("average_kills", 0) for m in all_map_stats) / len(all_map_stats)
         }
         
-    def _make_prediction(self, team_stats, team1_odds, team2_odds):
+    def _make_prediction(self, team_stats):
         try:
             data = pd.DataFrame([team_stats])
             
@@ -357,41 +338,39 @@ class MatchRunner:
             data = data[self.feature_columns]
             
             prediction = self.model.predict_proba(data)[0]
-            
+
             prob_diff = abs(prediction[1] - prediction[0])
-            
+
             if prob_diff > 0.3:
                 confidence = "high"
             elif prob_diff > 0.15:
                 confidence = "medium"
             else:
                 confidence = "low"
-            
+
             team1_prob = prediction[1]
             team2_prob = prediction[0]
-            
+
             team1_rating = team_stats.get('team1_avg_rating', 0)
             team2_rating = team_stats.get('team2_avg_rating', 0)
             rating_diff = team1_rating - team2_rating
-            
+
             rating_factor = 1 + (rating_diff * 0.5)
-            
+
             if rating_diff > 0:
                 team1_prob = min(0.95, team1_prob * rating_factor)
                 team2_prob = max(0.05, team2_prob / rating_factor)
             else:
                 team1_prob = max(0.05, team1_prob / rating_factor)
                 team2_prob = min(0.95, team2_prob * rating_factor)
-            
+
             total_prob = team1_prob + team2_prob
             team1_prob = team1_prob / total_prob
             team2_prob = team2_prob / total_prob
-            
+
             return {
                 'team1_win_probability': round(team1_prob, 4),
                 'team2_win_probability': round(team2_prob, 4),
-                'team1_odds': team1_odds,
-                'team2_odds': team2_odds,
                 'confidence': confidence,
                 'team1_stats': {
                     'avg_rating': round(team_stats.get('team1_avg_rating', 0), 2),
