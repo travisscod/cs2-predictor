@@ -130,7 +130,7 @@ class MapEncoder:
 class MatchPredictor:
     def __init__(self, model_path, feature_path, use_ensemble=True):
         if use_ensemble:
-            from libary.train_model import EnsemblePredictor
+            from main import EnsemblePredictor
             self.model = EnsemblePredictor.load(model_path, feature_path)
             unwanted_features = {'slug', 'scrape_date', 'team1_has_awper', 'team1_has_igl', 'team2_has_awper', 'team2_has_igl'}
             if hasattr(self.model, 'feature_columns') and self.model.feature_columns is not None:
